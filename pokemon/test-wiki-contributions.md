@@ -11,8 +11,8 @@ Dragonair | Safari Zone (Sara), Fuchsia City (Erik), Route 19 (floating house), 
 Mewtwo | TopSecretLab (basement of Pokemon Mansion in Cinnabar) | Unlock the lab by using the TopSecretKey on the plant in Mansion B1F; enter the musical “password” (1, 0, 6, 5, 2, 3, 4, 5); press the floor button near the machine; use Mewtwo on the machine. | Mewtwo gains armor but its type is unchanged.
 Gengar | Lavender Town: Cubone house (purification); Tower B1F (cursing) | Bring a Gengar to the Dark Channeler in Tower B1F after the Marowak quest to have her “curse” the Gengar; after which, taking said cursed Gengar to the Light Channeler in Lavender Town’s Cubone House can have it “purified.” | Cursing the Gengar turns its sprite back into a Haunter and then purifying it returns it to the Gengar battle sprite; this is purely cosmetic and doesn’t effect the stats so it’s not really an upgrade quest.
 # Pokeball Designer Photo Locations
-Index | Location | Subject | Reward
---- | --- | --- | ---
+Index | Hint | Location | Subject | Reward
+--- | --- | --- | --- | ---
 [1](https://github.com/Vortyne/pureRGB/blob/6b8d3566af94891a4fe0d992ccb025e1c9b43cfd/engine/events/camera.asm#L136) | [A man in a straw hat tending a green field.](https://github.com/Vortyne/pureRGB/blob/6b8d3566af94891a4fe0d992ccb025e1c9b43cfd/text/CeruleanBallDesigner.asm#L345) | Route 5, grass above Daycare | Farmer and Bulbasaur | Forest Ball
 [2](https://github.com/Vortyne/pureRGB/blob/6b8d3566af94891a4fe0d992ccb025e1c9b43cfd/engine/events/camera.asm#L175) | [A Pokemon living in a pond near a port city.](https://github.com/Vortyne/pureRGB/blob/6b8d3566af94891a4fe0d992ccb025e1c9b43cfd/text/CeruleanBallDesigner.asm#L351) | Route 6, southern pond | Psyduck | Drench Ball
 [3](https://github.com/Vortyne/pureRGB/blob/6b8d3566af94891a4fe0d992ccb025e1c9b43cfd/engine/events/camera.asm#L429) | [A fiery Pokemon living in a rocky eastern ROUTE.](https://github.com/Vortyne/pureRGB/blob/6b8d3566af94891a4fe0d992ccb025e1c9b43cfd/text/CeruleanBallDesigner.asm#L357) | Route 10 | Flareon | Blaze Ball
