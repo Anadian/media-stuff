@@ -2856,4 +2856,118 @@ TCD Charizard obeying
 Ash orders Ember
 Charizard know Ember Flamethrower Seismic Toss Stomp Mega Punch Take Down
 TCD Charizard enraged
+## M02
+Love that early 2000s CG
+Off-brand Moltres
+The cannon smoke looks excellent
+Damn they really brutalise Moltres
+No wonder I always thought Lugia was a water type; they keep calling him the beast of the sea
+DAY Narrator "another day in paradise"
+Funky version of Pokemon world
+They're friendly with whomever the ferry captain is 
+Ash stills has the Snorlax
+Marill so adorable but like ridiculously small compared to Venonat
+Blurry rotating effect
+Magikarp stampede
+Shamouti is a hilarious name
+This movie's not even 1h20m
+Oak still angling Delia
+Mimie's a good soul
+Snow and Aurora Borealis at this time of year, in this part of the country
+Digletts steal Oak's bike
+Beached ferry
+Offensive native tribe
+TCD racist charicatures
+Cool little sis hates the ritual
+Jesue her neck snaps constantly
+They don't have Pokemon Trainers
+TCD sexual assault and jealousy
+TCD sis antagonising Misty
+Pikachu is very worried
+They have Pokemom merch
+"And she says 'no but I have Krabbies'"
+Beautifully nostalgic flute melody; played by Melody?
+Weirdly I remember the fruit explanation
+Ash is foolhardy
+TCD recklessness
+TR Magikarp sub ruined
+Ferry driver nearly kills TR
+Awkard repetitive cell sliding
+TCD Tracy getting his hopes up
+Dope CG in the news
+Professor Ivy and Brock cameo
+So much CG wrecked
+TCD reckless boat stunts
+Double beached
+Speed boat flies on the window
+How did TR get so far ahead
+Those orbs look so tangible
+Pikachu has zero patience for Ash's shit
+TRM 4WB "on the big screen"
+4WB "I'll have to catch this on video"
+TR speaking truth! Opposite sex is nothing but trouble
+DEF Pikachu/Zapdos
+PUT to communicate ×8
+Lawrence 3 caught twerps and TR as well
+Blue 3 is the code for kidnapping
+I remember the lair better than the villain
+Misty is disgusted by Pokemon collecting
+Mass Pokemon exodus
+Oak's a crackpot
+Delia actually cares for Ash
+Slowking wants pants
+Loud music sting
+DAY officially the next day
+PUT again anad again to open cages
+TR straight up helping
+Violence is the solution to all problems
+The birds can bust through walls like nobody's business
+They rolling
+This one certainly doesn't lack for action
+Ho-oh gets the shortstick
+The earth shall turn to Ash: actually clever
+Oak doesn't care about the twerps
+Ash wishes Delia had named him Bob instead of Ash
+Lugia giving an exposition dump
+All Ash's Pokemon cheer him on
+Pokesledding
+Surviving crash landing, no pilot seen though
+TRM being the hero!
+The legend birds really trying to kill Ash
+Looped animation to pad out runtime
+Very dangerous hovercraft
+There's the Weight Watchers line
+TRB make a heroic sacrifice
+Why did Moltres free Zapdos if they were just going to fight?
+Like how many water capable Pokemon are just chilling on Land
+Misty finally helping
+Ash has amazingly reliale pockets
+Tracy does nothing this emtire movie
+TCD Togepi likes heroic plot contrivance
+Ecological disaster fixed by magic
+Massive clump of snow falls off the pine tree
+Sunset now?
+They've all just been standing there all day?
+Oak hurts his Lumbago
+Delia really guilt-tripping Ash
+Tracy was so fucking useless
+Has a Mew Pokemon card
+Lawrence never really delt with
+4WB Literally looking at the screen
+Really just 75 minutes
+This songs pretty corny
+We never learned the name of the ferry captain with green hair
+Apple provided tech support
+And SGI of course
+What the fuck is this weird ass Weird Al track "Everybody Pokemon" now R&B
+OMG it actually IS Weird Al!!
+This was a 2015 remaster apparently.
+Ccertainly action packed but the story consists entirely of contrivances.
+Boat driver is Maren apparently
+Missed a 4WB when TR refer to the first movie
+Shudo is very unhappy with how the film turned out.
+The JP version is about collectivism amd co-dependence, in English this is changed to an individualistic hero fantasy
+Bulbapedia explicitly believes the Krabbies joke is referring to crabs
+Apparently Jessie and James are both 25
+Apparently a lot of science discussion was cut
 
