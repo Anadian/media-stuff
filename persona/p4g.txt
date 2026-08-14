@@ -1,0 +1,11 @@
+A       B
+Red     Grey
+White   Orange
+Green   Pink
+Odd?    Even?
+
+Black: A
+
+Cars or Flags
+
+A, Cars: 0

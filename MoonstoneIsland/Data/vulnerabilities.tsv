@@ -1,0 +1,10 @@
+Element	Vulnerable to	Random vulnerabilities
+Ice	Fire	Water,Earth,Psychic,Electric,Dark
+Water	Electric	Ice,Earth,Poison,Psychic,Dark
+Earth	Poison	Ice,Water,Fire,Electric,Dark
+Fire	Water	Earth,Poison,Psychic,Electric,Dark
+Poison	Ice	Water,Fire,Psychic,Electric,Dark
+Psychic	Earth	Ice,Water,Fire,Poison,Electric
+Electric	Dark	Ice,Earth,Fire,Poison,Psychic
+Dark	Psychic	Ice,Water,Earth,Fire,Poison
+

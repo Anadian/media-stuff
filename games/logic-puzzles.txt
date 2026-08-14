@@ -1,0 +1,38 @@
+(85+c)/5 = (160+c)/8
+17 + c/5 = 20 + c/8
+c/5 = 3 + c/8
+c/5 - c/8 = 3
+8c/40 - 5c/40 = 3
+3c = 3
+c = 1
+
+(85 + c)m/5s = 
+
+
+17 + 40c/3 = 20
+40c/3 = 3
+40c = 9
+c = 9/40
+
+85 + c = 5
+
+50 * 50 * 50 cu cm container
+50 * 50 * 25 cu cm water
+25 * 25 * 50 cu cm addition
+
+
+125 L container
+62.5 L water
+31.25 L addition
+
+time 0:
+
+time 1:
+25 cm * 25 cm * X cm = 62.5 L water
+X cm = 62500 / 25 / 25; X = 100 cm?
+area: (50 * 50) - (25 * 25) remaining water area; new water area 1875 (cm)^2
+1875 * X = 62500
+X = 62500 / 1875 = 33 + (1/3) ; new water height
+height difference = 33.333333333 - 25 = 8.333333 cm
+
+

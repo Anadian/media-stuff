@@ -1,0 +1,120 @@
+query MyQuery {
+  pokemon_v2_generation {
+    id
+    name
+    pokemon_v2_generationnames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+  }
+  pokemon_v2_moveattribute {
+    id
+    name
+    pokemon_v2_moveattributedescriptions(where: {language_id: {_eq: 9}}) {
+      id
+      description
+    }
+  }
+  pokemon_v2_movebattlestyle {
+    id
+    name
+    pokemon_v2_movebattlestylenames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+  }
+  pokemon_v2_movedamageclass {
+    id
+    name
+    pokemon_v2_movedamageclassnames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+    pokemon_v2_movedamageclassdescriptions(where: {language_id: {_eq: 9}}) {
+      id
+      description
+    }
+  }
+  pokemon_v2_movetarget {
+    id
+    name
+    pokemon_v2_movetargetnames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+    pokemon_v2_movetargetdescriptions(where: {language_id: {_eq: 9}}) {
+      id
+      description
+    }
+  }
+  pokemon_v2_nature {
+    id
+    name
+    game_index
+    increased_stat_id
+    decreased_stat_id
+    likes_flavor_id
+    hates_flavor_id
+    pokemon_v2_naturenames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+    pokemon_v2_naturebattlestylepreferences {
+      id
+      move_battle_style_id
+      high_hp_preference
+      low_hp_preference
+    }
+  }
+  pokemon_v2_pokedex {
+    id
+    name
+    region_id
+    is_main_series
+    pokemon_v2_pokedexnames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+    pokemon_v2_pokedexdescriptions(where: {language_id: {_eq: 9}}) {
+      id
+      description
+    }
+  }
+  pokemon_v2_region {
+    id
+    name
+    pokemon_v2_regionnames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+  }
+  pokemon_v2_type {
+    id
+    name
+    generation_id
+    move_damage_class_id
+    pokemon_v2_typegameindices {
+      id
+      generation_id
+      game_index
+    }
+    pokemon_v2_typenames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+  }
+  pokemon_v2_version {
+    id
+    name
+    version_group_id
+    pokemon_v2_versionnames(where: {language_id: {_eq: 9}}) {
+      id
+      name
+    }
+  }
+  pokemon_v2_versiongroup {
+    id
+    name
+    generation_id
+  }
+}

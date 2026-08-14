@@ -1,0 +1,2796 @@
+Smithy	Price	Materials	Quantity	
+				
+axe2	2000	ingotCopper:3,axe1	1	
+hammer2	2000	ingotCopper:3,hammer1	1	
+scythe2	2000	ingotCopper:3,scythe1	1	
+hoe2	2000	ingotCopper:3,hoe1	1	
+wateringCan2	2000	ingotCopper:3,wateringCan1	1	
+				
+axe3	5000	ingotIron:3,axe2	1	
+hammer3	5000	ingotIron:3,hammer2	1	
+scythe3	5000	ingotIron:3,scythe2	1	
+hoe3	5000	ingotIron:3,hoe2	1	
+wateringCan3	5000	ingotIron:3,wateringCan2	1	
+				
+axe4	10000	ingotMoonstone:3,axe3	1	
+hammer4	10000	ingotMoonstone:3,hammer3	1	
+scythe4	10000	ingotMoonstone:3,scythe3	1	
+hoe4	10000	ingotMoonstone:3,hoe3	1	
+wateringCan4	10000	ingotMoonstone:3,wateringCan3	1	
+				
+coal	40		99999	
+oreCopper	200		0	
+oreIron	400		0	
+ingotCopper	1000		0	
+ingotIron	2000		0	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Conservatory	Price	Materials	Quantity	Randomize
+				
+plantTiny	300		0	1
+plantFisherman	1600		1	1
+plantHistorian	1000		1	1
+plantHanging	1800		1	1
+plantIvy	1200		0	1
+plantPurpleHeart	2100		0	1
+plantDaisy	400		0	1
+plantZanzibarGem	1500		0	1
+plantViolet	1300		0	1
+plantColeus	1700		0	1
+plantRubber	1000		0	1
+plantMonstera	2300		0	1
+plantVinca	1200		0	1
+plantJade	800		0	1
+plantLily	1900		0	1
+plantHydrangea	600		0	1
+plantHydrangeaPlanter	2500		0	1
+plantFlytrap	3000		0	1
+				
+poinsettia	1000		0	1
+				
+				
+replantableTree	200		99999	
+replantableRock	100		99999	
+replantableGrass	25		99999	
+				
+greenhouseUpgrade1	5000	wood:150,stone:150	1	
+greenhouseUpgrade2	7000	greenhouseUpgrade1,wood:200,stone:200	1	
+greenhouseUpgrade3	10000	greenhouseUpgrade2,wood:250,stone:250	1	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+FishingShop	Price	Materials	Quantity	Randomize
+				
+fishingRod1	200		1	
+fishingRod2	2000	ingotCopper:3,fishingRod1	0	
+fishingRod3	5000	ingotIron:3,fishingRod2	0	
+fishingRod4	10000	ingotMoonstone:3,fishingRod3	0	
+				
+lureBigHook	10		99999	
+lureDrowzy	10		99999	
+lureSwiftHook	10		99999	
+				
+lureRare	500		99999	
+lureMythical	1000		0	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Workshop	Price	Materials	Quantity	Randomize
+				
+randomCraftingRecipe	1000		1	
+				
+		// RANDOMIZED STORE ITEMS		
+windowWood	100		0	1
+windowWhite	100		1	1
+windowStone	100		0	1
+candle	100		1	1
+lantern	300		0	1
+bookStack	100		0	1
+bed	300		0	1
+chair	200		1	1
+chairWicker	300		0	1
+chairCozy	300		0	1
+couchCozy	500		0	1
+tableDining	500		0	1
+tableRound	500		0	1
+tableCoffee	100		0	1
+tableBedside	100		0	1
+library	200		0	1
+counter	200		0	1
+counterSink	500		0	1
+fridge	1000		0	1
+pantry	200		0	1
+gramophone	1000		0	1
+rug	100		0	1
+rugStriped	100		0	1
+				
+				
+openBook	100		0	1
+yellowCushion	100		0	1
+standingLamp	200		0	1
+laundryBasket	100		0	1
+slippers	100		0	1
+tableHerbalist	1000		0	1
+TV	500		0	1
+hutchWhite	500		0	1
+stoolPink	200		0	1
+vanity	500		0	1
+bedDouble	500		0	1
+chairWindsor	200		0	1
+lifeSaver	200		0	1
+lampBrass	500		0	1
+paddle	100		0	1
+boots	100		0	1
+tableCoffeeRound	500		0	1
+chairComfy	300		0	1
+garbageCan	100		0	1
+fireplaceNautical	2000		0	1
+wireRack	1000		0	1
+tallDrawers	1000		0	1
+stepLadder	500		0	1
+tableGarden	1000		0	1
+deskBell	200		0	1
+crystal	500		0	1
+cupEmpty	100		0	1
+cupFull	100		0	1
+bottlePink	200		0	1
+plateDirty	100		0	1
+plateStack	200		0	1
+stoolDark	200		0	1
+stoolLight	200		0	1
+stoolBlue	200		0	1
+mailPile	100		0	1
+			0	1
+orrery	200		0	1
+moonstoneChunk	500		0	1
+paintGreen	100		0	1
+paintRed	100		0	1
+				
+anchor	200		0	1
+barrel	100		0	1
+boards	100		0	1
+bookMountain	100		0	1
+bootsYellow	100		0	1
+bottleGreen	100		0	1
+bottleOrange	100		0	1
+boxes	100		0	1
+bulletinBoard	100		0	1
+chalkboard	100		0	1
+crateBucket	100		0	1
+divingBell	1000		0	1
+firepoker	100		0	1
+fireplaceBrick	1000		0	1
+fishermanLantern	200		0	1
+fishingRodRack	500		0	1
+greasePuddle	100		0	1
+historianPainting	100		0	1
+lampRed	200		0	1
+lighthouseBulb	1000		0	1
+logs	100		0	1
+paintBuckets	100		0	1
+				
+planks	100		0	1
+posterForSale	100		0	1
+posterMug	100		0	1
+posterPink	100		0	1
+posterStar	100		0	1
+posterTable	100		0	1
+posterTools	100		0	1
+rugBlack	200		0	1
+				
+rugGreen	200		0	1
+rugGreenFlowers	100		0	1
+sawdust	100		0	1
+stoolPurple	200		0	1
+stoolRectangular	200		0	1
+tableBedsidePurple	500		0	1
+tableSmallRound	500		0	1
+				
+toolbox	100		0	1
+toolRack	100		0	1
+towels	100		0	1
+traps	200		0	1
+wallChain	100		0	1
+wallChisels	100		0	1
+windowRectangular	200		0	1
+windowTavern	200		0	1
+yarnBalls	100		0	1
+yellowMat	100		0	1
+bath	500		0	1
+bedFancy	1000		0	1
+bedFourPost	1000		0	1
+bedMattress	300		0	1
+bedMessy	500		0	1
+benchGreen	200		0	1
+bellows	200		0	1
+bookCase	500		0	1
+booksInset	500		0	1
+chairMulticolor	500		0	1
+cooler	200		0	1
+couchModern	1000		0	1
+deskGardening	500		0	1
+deskOffice	500		0	1
+deskPainter	500		0	1
+deskWitch	500		0	1
+divider	200		0	1
+easel	200		0	1
+fridgeMessy	500		0	1
+grindstone	200		0	1
+kitchenIsland	500		0	1
+lampDesigner	500		0	1
+lampFancy	200		0	1
+paintings	100		0	1
+quenchingBath	200		0	1
+rackHat	100		0	1
+rackWooden	100		0	1
+spinningWheel	200		0	1
+stoveWood	1000		0	1
+tableLiveEdge	1000		0	1
+tableSaw	500		0	1
+keg	500		0	1
+				
+gravestone	200		0	1
+ironBatArchway	500		0	1
+marigold	200		0	1
+crunchboi	200		0	1
+skull	100		0	1
+				
+archwayCandycane	1000		0	1
+gingerbreadBoi	200		0	1
+gingerbreadLass	200		0	1
+presents	200		0	1
+roast	200		0	1
+firepit	1000		0	1
+snowflakeGarland	100		0	1
+snowglobe	100		0	1
+				
+petals	100		0	1
+bedHeart	1000		0	1
+heartTub	2000		0	1
+portraitFrame	500		0	1
+windowHeart	200		0	1
+champagne	200		0	1
+lampLava	500		0	1
+bouquetRed	200		0	1
+bouquetBlue	200		0	1
+chairWhite	200		0	1
+lampStreet	500		0	1
+				
+				
+broomRack	300		0	1
+crystalBall	400		0	1
+rugFishbo	500		0	1
+fishboStatue	1000000		0	1
+windowStained	500		0	1
+scrollBox	300		0	1
+couchWitchy	1500		0	1
+chalkBarrel	300		0	1
+				
+rugPizza	500		0	1
+scale	300		0	1
+cuttingBoard	100		0	1
+fruitBowl	100		0	1
+knives	100		0	1
+toaster	100		0	1
+placemat	100		0	1
+counterTiled	300		0	1
+counterTiledSink	500		0	1
+				
+rugFireworks	500		0	1
+stoolMushroom	300		0	1
+tableMushroom	500		0	1
+leaves	100		0	1
+				
+				
+				
+stone	40		99999	
+wood	40		99999	
+fibre	10		99999	
+				
+homeGroundFloor1	2500	wood:50,stone:50	1	
+homeGroundFloor2	3000	homeGroundFloor1,wood:100,stone:100	1	
+homeGroundFloor3	3500	homeGroundFloor2,wood:150,stone:150	1	
+homeSecondFloor1	4000	homeGroundFloor2,wood:200,stone:200	1	
+homeSecondFloor2	4500	homeSecondFloor1,wood:250,stone:250	1	
+homeAttic	5000	homeSecondFloor2,wood:300,stone:300	1	
+homeBasement1	2000	homeGroundFloor3,wood:100,stone:100	1	
+homeBasement2	3000	homeBasement1,wood:150,stone:150	1	
+homeBasement3	4000	homeBasement2,wood:200,stone:200	1	
+homeBasement4	5000	homeBasement3,wood:250,stone:250	1	
+homeBasement5	6000	homeBasement4,wood:300,stone:300	1	
+				
+barnUpgrade1	5000	wood:150,stone:150	1	
+barnUpgrade2	6000	barnUpgrade1,wood:150,stone:150	1	
+barnUpgrade3	7000	barnUpgrade2,wood:200,stone:200	1	
+				
+				
+				
+				
+				
+
+GeneralStore	Price	Materials	Quantity	Locked
+				
+				
+fertilizerGrowth	40		99999	
+fertilizerStamina	40		99999	
+fertilizerHealing	60		99999	
+fertilizerTame	60		99999	
+fertilizerPower	60		99999	
+fertilizerSpeed	60		99999	
+fertilizerExperience	80		99999	
+				
+				
+				
+				
+				
+// SPRING CROPS				
+flaxSeeds	20		99999	0
+stoneFruitSeeds	20		99999	0
+lilyPadSeeds	20		99999	0
+catTailSeeds	20		99999	0
+nightShadeSeeds	25		0	1
+mandrakeSeeds	25		0	1
+nimbusPlantSeeds	30		0	1
+boltSeeds	30		0	1
+fireFlowerSeeds	35		0	1
+hotPepperSeeds	35		0	1
+spiritBaneSeeds	40		0	1
+bloodRootSeeds	40		0	1
+magicMushroomSeeds	45		0	1
+yarrowSeeds	45		0	1
+				
+// SUMMER CROPS				
+mossballSeeds	20		0	1
+popsiplantSeeds	20		0	1
+beachpeachSeeds	20		0	1
+pinwheelflowerSeeds	20		0	1
+umbrellashroomSeeds	25		0	1
+erdenleafSeeds	25		0	1
+stunflowerSeeds	30		0	1
+zaplantSeeds	30		0	1
+hotairfruitSeeds	35		0	1
+flamerootSeeds	35		0	1
+pricklyplantSeeds	40		0	1
+wingfruitSeeds	40		0	1
+tinyflowerSeeds	45		0	1
+eyeberrySeeds	45		0	1
+				
+// FALL CROPS				
+squishSeeds	20		0	1
+applumSeeds	20		0	1
+flagflowerSeeds	20		0	1
+fuzzballSeeds	20		0	1
+grumpkinSeeds	25		0	1
+mushinSeeds	25		0	1
+electriconeSeeds	30		0	1
+planternSeeds	30		0	1
+heatplantSeeds	35		0	1
+colberrySeeds	35		0	1
+spectreflowerSeeds	40		0	1
+skeleplantSeeds	40		0	1
+willowispSeeds	45		0	1
+ghostshroomSeeds	45		0	1
+				
+// WINTER CROPS				
+snowmanplantSeeds	20		0	1
+crescentplantSeeds	20		0	1
+chillyberrySeeds	20		0	1
+snowflobesSeeds	20		0	1
+saplantSeeds	25		0	1
+flakeflowerSeeds	25		0	1
+bulbshroomSeeds	30		0	1
+popcornplantSeeds	30		0	1
+rubyplantSeeds	35		0	1
+sweaterplantSeeds	35		0	1
+blackpearlSeeds	40		0	1
+iciclerootSeeds	40		0	1
+snowdropflowerSeeds	45		0	1
+giftplantSeeds	45		0	1
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Tavern	Price	Materials	Quantity	Locked
+				
+coffee	300		99999	
+beer	500		99999	
+wine	700		99999	
+				
+dishOfTheDay	400		20	
+water	30		99999	
+flour	100		99999	
+sugar	100		99999	
+rice	100		99999	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Smithy	Price	Materials	Quantity	
+				
+axe2	2000	ingotCopper:3,axe1	1	
+hammer2	2000	ingotCopper:3,hammer1	1	
+scythe2	2000	ingotCopper:3,scythe1	1	
+hoe2	2000	ingotCopper:3,hoe1	1	
+wateringCan2	2000	ingotCopper:3,wateringCan1	1	
+				
+axe3	5000	ingotIron:3,axe2	1	
+hammer3	5000	ingotIron:3,hammer2	1	
+scythe3	5000	ingotIron:3,scythe2	1	
+hoe3	5000	ingotIron:3,hoe2	1	
+wateringCan3	5000	ingotIron:3,wateringCan2	1	
+				
+axe4	10000	ingotMoonstone:3,axe3	1	
+hammer4	10000	ingotMoonstone:3,hammer3	1	
+scythe4	10000	ingotMoonstone:3,scythe3	1	
+hoe4	10000	ingotMoonstone:3,hoe3	1	
+wateringCan4	10000	ingotMoonstone:3,wateringCan3	1	
+				
+coal	40		99999	
+oreCopper	200		0	
+oreIron	400		0	
+ingotCopper	1000		0	
+ingotIron	2000		0	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Conservatory	Price	Materials	Quantity	Randomize
+				
+plantTiny	300		0	1
+plantFisherman	1600		1	1
+plantHistorian	1000		1	1
+plantHanging	1800		1	1
+plantIvy	1200		0	1
+plantPurpleHeart	2100		0	1
+plantDaisy	400		0	1
+plantZanzibarGem	1500		0	1
+plantViolet	1300		0	1
+plantColeus	1700		0	1
+plantRubber	1000		0	1
+plantMonstera	2300		0	1
+plantVinca	1200		0	1
+plantJade	800		0	1
+plantLily	1900		0	1
+plantHydrangea	600		0	1
+plantHydrangeaPlanter	2500		0	1
+plantFlytrap	3000		0	1
+				
+poinsettia	1000		0	1
+				
+				
+replantableTree	200		99999	
+replantableRock	100		99999	
+replantableGrass	25		99999	
+				
+greenhouseUpgrade1	5000	wood:150,stone:150	1	
+greenhouseUpgrade2	7000	greenhouseUpgrade1,wood:200,stone:200	1	
+greenhouseUpgrade3	10000	greenhouseUpgrade2,wood:250,stone:250	1	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+FishingShop	Price	Materials	Quantity	Randomize
+				
+fishingRod1	200		1	
+fishingRod2	2000	ingotCopper:3,fishingRod1	0	
+fishingRod3	5000	ingotIron:3,fishingRod2	0	
+fishingRod4	10000	ingotMoonstone:3,fishingRod3	0	
+				
+lureBigHook	10		99999	
+lureDrowzy	10		99999	
+lureSwiftHook	10		99999	
+				
+lureRare	500		99999	
+lureMythical	1000		0	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Workshop	Price	Materials	Quantity	Randomize
+				
+randomCraftingRecipe	1000		1	
+				
+		// RANDOMIZED STORE ITEMS		
+windowWood	100		0	1
+windowWhite	100		1	1
+windowStone	100		0	1
+candle	100		1	1
+lantern	300		0	1
+bookStack	100		0	1
+bed	300		0	1
+chair	200		1	1
+chairWicker	300		0	1
+chairCozy	300		0	1
+couchCozy	500		0	1
+tableDining	500		0	1
+tableRound	500		0	1
+tableCoffee	100		0	1
+tableBedside	100		0	1
+library	200		0	1
+counter	200		0	1
+counterSink	500		0	1
+fridge	1000		0	1
+pantry	200		0	1
+gramophone	1000		0	1
+rug	100		0	1
+rugStriped	100		0	1
+				
+				
+openBook	100		0	1
+yellowCushion	100		0	1
+standingLamp	200		0	1
+laundryBasket	100		0	1
+slippers	100		0	1
+tableHerbalist	1000		0	1
+TV	500		0	1
+hutchWhite	500		0	1
+stoolPink	200		0	1
+vanity	500		0	1
+bedDouble	500		0	1
+chairWindsor	200		0	1
+lifeSaver	200		0	1
+lampBrass	500		0	1
+paddle	100		0	1
+boots	100		0	1
+tableCoffeeRound	500		0	1
+chairComfy	300		0	1
+garbageCan	100		0	1
+fireplaceNautical	2000		0	1
+wireRack	1000		0	1
+tallDrawers	1000		0	1
+stepLadder	500		0	1
+tableGarden	1000		0	1
+deskBell	200		0	1
+crystal	500		0	1
+cupEmpty	100		0	1
+cupFull	100		0	1
+bottlePink	200		0	1
+plateDirty	100		0	1
+plateStack	200		0	1
+stoolDark	200		0	1
+stoolLight	200		0	1
+stoolBlue	200		0	1
+mailPile	100		0	1
+			0	1
+orrery	200		0	1
+moonstoneChunk	500		0	1
+paintGreen	100		0	1
+paintRed	100		0	1
+				
+anchor	200		0	1
+barrel	100		0	1
+boards	100		0	1
+bookMountain	100		0	1
+bootsYellow	100		0	1
+bottleGreen	100		0	1
+bottleOrange	100		0	1
+boxes	100		0	1
+bulletinBoard	100		0	1
+chalkboard	100		0	1
+crateBucket	100		0	1
+divingBell	1000		0	1
+firepoker	100		0	1
+fireplaceBrick	1000		0	1
+fishermanLantern	200		0	1
+fishingRodRack	500		0	1
+greasePuddle	100		0	1
+historianPainting	100		0	1
+lampRed	200		0	1
+lighthouseBulb	1000		0	1
+logs	100		0	1
+paintBuckets	100		0	1
+				
+planks	100		0	1
+posterForSale	100		0	1
+posterMug	100		0	1
+posterPink	100		0	1
+posterStar	100		0	1
+posterTable	100		0	1
+posterTools	100		0	1
+rugBlack	200		0	1
+				
+rugGreen	200		0	1
+rugGreenFlowers	100		0	1
+sawdust	100		0	1
+stoolPurple	200		0	1
+stoolRectangular	200		0	1
+tableBedsidePurple	500		0	1
+tableSmallRound	500		0	1
+				
+toolbox	100		0	1
+toolRack	100		0	1
+towels	100		0	1
+traps	200		0	1
+wallChain	100		0	1
+wallChisels	100		0	1
+windowRectangular	200		0	1
+windowTavern	200		0	1
+yarnBalls	100		0	1
+yellowMat	100		0	1
+bath	500		0	1
+bedFancy	1000		0	1
+bedFourPost	1000		0	1
+bedMattress	300		0	1
+bedMessy	500		0	1
+benchGreen	200		0	1
+bellows	200		0	1
+bookCase	500		0	1
+booksInset	500		0	1
+chairMulticolor	500		0	1
+cooler	200		0	1
+couchModern	1000		0	1
+deskGardening	500		0	1
+deskOffice	500		0	1
+deskPainter	500		0	1
+deskWitch	500		0	1
+divider	200		0	1
+easel	200		0	1
+fridgeMessy	500		0	1
+grindstone	200		0	1
+kitchenIsland	500		0	1
+lampDesigner	500		0	1
+lampFancy	200		0	1
+paintings	100		0	1
+quenchingBath	200		0	1
+rackHat	100		0	1
+rackWooden	100		0	1
+spinningWheel	200		0	1
+stoveWood	1000		0	1
+tableLiveEdge	1000		0	1
+tableSaw	500		0	1
+keg	500		0	1
+				
+gravestone	200		0	1
+ironBatArchway	500		0	1
+marigold	200		0	1
+crunchboi	200		0	1
+skull	100		0	1
+				
+archwayCandycane	1000		0	1
+gingerbreadBoi	200		0	1
+gingerbreadLass	200		0	1
+presents	200		0	1
+roast	200		0	1
+firepit	1000		0	1
+snowflakeGarland	100		0	1
+snowglobe	100		0	1
+				
+petals	100		0	1
+bedHeart	1000		0	1
+heartTub	2000		0	1
+portraitFrame	500		0	1
+windowHeart	200		0	1
+champagne	200		0	1
+lampLava	500		0	1
+bouquetRed	200		0	1
+bouquetBlue	200		0	1
+chairWhite	200		0	1
+lampStreet	500		0	1
+				
+				
+broomRack	300		0	1
+crystalBall	400		0	1
+rugFishbo	500		0	1
+fishboStatue	1000000		0	1
+windowStained	500		0	1
+scrollBox	300		0	1
+couchWitchy	1500		0	1
+chalkBarrel	300		0	1
+				
+rugPizza	500		0	1
+scale	300		0	1
+cuttingBoard	100		0	1
+fruitBowl	100		0	1
+knives	100		0	1
+toaster	100		0	1
+placemat	100		0	1
+counterTiled	300		0	1
+counterTiledSink	500		0	1
+				
+rugFireworks	500		0	1
+stoolMushroom	300		0	1
+tableMushroom	500		0	1
+leaves	100		0	1
+				
+				
+				
+stone	40		99999	
+wood	40		99999	
+fibre	10		99999	
+				
+homeGroundFloor1	2500	wood:50,stone:50	1	
+homeGroundFloor2	3000	homeGroundFloor1,wood:100,stone:100	1	
+homeGroundFloor3	3500	homeGroundFloor2,wood:150,stone:150	1	
+homeSecondFloor1	4000	homeGroundFloor2,wood:200,stone:200	1	
+homeSecondFloor2	4500	homeSecondFloor1,wood:250,stone:250	1	
+homeAttic	5000	homeSecondFloor2,wood:300,stone:300	1	
+homeBasement1	2000	homeGroundFloor3,wood:100,stone:100	1	
+homeBasement2	3000	homeBasement1,wood:150,stone:150	1	
+homeBasement3	4000	homeBasement2,wood:200,stone:200	1	
+homeBasement4	5000	homeBasement3,wood:250,stone:250	1	
+homeBasement5	6000	homeBasement4,wood:300,stone:300	1	
+				
+barnUpgrade1	5000	wood:150,stone:150	1	
+barnUpgrade2	6000	barnUpgrade1,wood:150,stone:150	1	
+barnUpgrade3	7000	barnUpgrade2,wood:200,stone:200	1	
+				
+				
+				
+				
+				
+
+GeneralStore	Price	Materials	Quantity	Locked
+				
+				
+fertilizerGrowth	40		99999	
+fertilizerStamina	40		99999	
+fertilizerHealing	60		99999	
+fertilizerTame	60		99999	
+fertilizerPower	60		99999	
+fertilizerSpeed	60		99999	
+fertilizerExperience	80		99999	
+				
+				
+				
+				
+				
+// SPRING CROPS				
+flaxSeeds	20		99999	0
+stoneFruitSeeds	20		99999	0
+lilyPadSeeds	20		99999	0
+catTailSeeds	20		99999	0
+nightShadeSeeds	25		0	1
+mandrakeSeeds	25		0	1
+nimbusPlantSeeds	30		0	1
+boltSeeds	30		0	1
+fireFlowerSeeds	35		0	1
+hotPepperSeeds	35		0	1
+spiritBaneSeeds	40		0	1
+bloodRootSeeds	40		0	1
+magicMushroomSeeds	45		0	1
+yarrowSeeds	45		0	1
+				
+// SUMMER CROPS				
+mossballSeeds	20		0	1
+popsiplantSeeds	20		0	1
+beachpeachSeeds	20		0	1
+pinwheelflowerSeeds	20		0	1
+umbrellashroomSeeds	25		0	1
+erdenleafSeeds	25		0	1
+stunflowerSeeds	30		0	1
+zaplantSeeds	30		0	1
+hotairfruitSeeds	35		0	1
+flamerootSeeds	35		0	1
+pricklyplantSeeds	40		0	1
+wingfruitSeeds	40		0	1
+tinyflowerSeeds	45		0	1
+eyeberrySeeds	45		0	1
+				
+// FALL CROPS				
+squishSeeds	20		0	1
+applumSeeds	20		0	1
+flagflowerSeeds	20		0	1
+fuzzballSeeds	20		0	1
+grumpkinSeeds	25		0	1
+mushinSeeds	25		0	1
+electriconeSeeds	30		0	1
+planternSeeds	30		0	1
+heatplantSeeds	35		0	1
+colberrySeeds	35		0	1
+spectreflowerSeeds	40		0	1
+skeleplantSeeds	40		0	1
+willowispSeeds	45		0	1
+ghostshroomSeeds	45		0	1
+				
+// WINTER CROPS				
+snowmanplantSeeds	20		0	1
+crescentplantSeeds	20		0	1
+chillyberrySeeds	20		0	1
+snowflobesSeeds	20		0	1
+saplantSeeds	25		0	1
+flakeflowerSeeds	25		0	1
+bulbshroomSeeds	30		0	1
+popcornplantSeeds	30		0	1
+rubyplantSeeds	35		0	1
+sweaterplantSeeds	35		0	1
+blackpearlSeeds	40		0	1
+iciclerootSeeds	40		0	1
+snowdropflowerSeeds	45		0	1
+giftplantSeeds	45		0	1
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+Tavern	Price	Materials	Quantity	Locked
+				
+coffee	300		99999	
+beer	500		99999	
+wine	700		99999	
+				
+dishOfTheDay	400		20	
+water	30		99999	
+flour	100		99999	
+sugar	100		99999	
+rice	100		99999	
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+

@@ -1,0 +1,15 @@
+name	description	reductionRate	stacking	type	damageType	gfx
+Freeze		1 per turn	Duration	Debuff		freeze
+Vulnerable		Lasts 1 turn	Lasts 1 turn	Debuff		
+Charge		1 per attack	Intensity	Buff		charge
+Sharp		1/2 total per turn	Intensity	Damage	Spirit type	sharp
+Intangible		1 per turn	Duration	Buff		intangible
+Regen		1 per turn	Intensity	Buff		cure
+Tangle		1 per turn	Duration	Debuff		tangle
+Calm		1 per turn	Duration	Debuff		calm
+Rage		1 per turn	Duration	Buff		rage
+Poison		1 per turn	Intensity	Damage	Poison	poison
+Burn		1/2 total per turn	Intensity	Damage	Spirit type	burn
+Barrier		1 per turn	Duration	Buff		barricade
+Ethereal		1 per turn	Duration	Buff	Spirit type	ethereal
+

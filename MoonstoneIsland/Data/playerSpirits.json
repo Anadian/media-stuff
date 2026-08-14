@@ -1,0 +1,42 @@
+{
+    "spirits": [
+        {
+            "ID": "Burgloon_382539194",
+            "Type": "Burgloon",
+            "Name": "Burgloon",
+            "Element": "Electric",
+            "Level": 3,
+            "Vitality": 3,	
+			"CurVitality": 3,
+            "Power": 4,
+            "CurPower": 4,
+            "Speed": 6,
+            "CurSpeed": 6,
+            "Armor": 4,
+            "MaxArmor": 4,
+            "CurArmor": 4,
+            "HP": 20,
+            "CurHP": 20,
+            "Vulnerabilities": "Dark,Poison",
+            "XP":27,
+            "Location": "Medallion",
+            "Ability": "Spirit Spoils",
+            "cards": {
+                "Zap": 3,
+                "Bash": 3,
+				"Shock": 1,
+				"Charge": 1,
+				"Refresh+": 1
+
+            },
+            "isEnemy": 0,
+			"DropResource": 0,
+			"StallID": "",
+			"DayFed": 1,
+			"StatUpgradePoints": 2,
+			"CardUpgradePoints": 2,
+			"Following": 1		
+        }
+		
+    ]
+}

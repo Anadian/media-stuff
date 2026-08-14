@@ -1,0 +1,644 @@
+
+
+    The joyful heart is pearly white, the eloquent heart is black,
+    the sincere heart is purple, the blissful heart is ___,
+    pure heart is white, the passionate heart is red,
+    and the affectionate heart is ___.
+    Every heart has a color.
+
+    --Chamber of Extinction (I-5) Tablet
+
+    The joyful heart is 20, the eloquent heart is 44,
+    the sincere heart is 50, the blissful heart is 63,
+    the pure heart is 70, the passionate heart is 81,
+    and the affectionate heart is 99.
+    Every heart has a weight.
+
+    --Temple of Moonlight (B-1) Tablet
+
+    Black onyx means "eloquence".
+    Purple amethyst indicates "sincerity".
+    The meanings are infused into the gemstones.
+
+    --Twin Labyrinths (E-1) Tablet
+
+    The red ruby means "passion".
+    The ______ sapphire signifies "affection".
+    The meanings are infused into the Gemstones.
+
+    --Graveyard of the Giants (C-3) Tablet
+
+    The white diamond represents "purity."
+    The meaning is infused into the gemstone.
+
+    --Tower of Ruin (D-6) Tablet
+
+    The white opal represents "joy".
+    The meaning is infused into the gemstone.
+
+    --Chamber of Birth (E-6) Tablet
+
+Joyful/Pearly White Opal 20 L
+Eloquent/Black Onyx 44 L
+Sincere/Purple Amethyst 50 R
+Blissful/Green Emerald 63 R
+Pure/White Diamond 70 R
+Passionate/Red Ruby 81 L
+Affectionate/Blue Sapphire 99 L
+Lameza 61 R
+
+20 44
+70 107
+140 188
+239 249
+
+20  44
+50  63
+81  70
+99  61
+=
+250 238
+
+20  44
+63  50
+81  70
+99  61
+=
+263 225 swap 20
+
+    20
+63  44
+81  50
+99  70
+    61
+
+243 245
+
+20  50
+44  61
+81  63
+99  70
+=
+244 244
+
+250 238
+
+44      20
+63 107  50  70
+81 188  70  140
+61 249  99  239
+
+61 + 20 = 81
+44 + 99 (143) = 63 + 70 (133)
+99 + 81 = 180 + 44 = 224 = 63 + 61 (124)+ 20 + 70 (114) (188) doesn't work
+
+99 - 81 = 9
+99 - 70 = 19
+99 - 63 = 36
+99 - 61 = 38
+99 - 50 = 49
+99 - 44 = 55
+99 - 20 = 79
+
+81 - 70 = 11
+81 - 63 = 18
+81 - 61 = 20
+81 - 50 = 31
+81 - 44 = 37
+81 - 20 = 61
+
+70 - 63 = 7
+70 - 61 = 9
+70 - 50 = 20
+70 - 44 = 26
+70 - 20 = 50
+
+
+20 + 50 = 70
+
+44 + 99 (143) = 63
+61 (204) = 81 (144)
+254 = 214
+254 = 234
+
+44 + 63 + 81 + 61 = 249
+99 + 63 = 162 + 44 = 206
+99 + 44 = 143
+4, 3, 1, 1, 9
+4 + 3 + 1 + 1 = 9
+9 + 4 = 3
+1 = 1
+
+
+Story
+
+    Welcome! You that Professor Lemeza, am I right? I think, er, I know what you're looking for--La-Mulana, right? Them ruins can be reached down by the outskirts of this village. Your father went in there to do his research, but he ain't been back for some days now. I ain't got a clue to what he's after, but since ancient times folks been passing rumors down about secret treasures. Heck, even the origin of life itself may be hiding inside these ruins. Generation after generation, we've protected La-Mulana. Even so, I don't really know what her secrets are. I won't stop you from entering the ruins, but mind you the mysteries of La-Mulana are unsolved because those who go in don't come back out, dead or alive. Who knows what happens to you... Anyway, I'll tell my people to open the entrance. Take a weight with you, too. By the way, that is one snazzy laptop! And it's made just for archeological exploration? This is amazing, so thin and light! And of course, looks like it's made in Japan. I hear they make good games there too. Oh, one last thing. Unlike your father, you look like you need a hand. Take this software; I developed it myself. It only gets incoming e-mails from me. You can't reply, but I'll send you all sorts of tips. Lemme see your laptop... Here we go, it's installed, but don't forget you gotta activate it from the software screen. And be sure to read all my e-mails. If I send you an e-mail telling you to come back to the village--well then--you best come back! Got it? Alrighty, you're all set now! Off you go!
+    What are you still doing here? You ain't gone into the ruins yet? Ha ha, you aren't scared, are you?
+    You made it! Actually, I called you back for no good reason. I'm just bored. Sorry, ha ha! Don't get all mad and rush off. Please, take a seat and eat some of my home made bat curry. Anyway, being an archeologist sure seems dangerous. Even after I warned you about the monsters and traps, you still went in them ruins. If you can solve all the puzzles without dying, you might actually meet the legendary Four Philosophers. If they actually exist... Mmmm, this curry sure is tasty! You wanna hear that again? 1
+
+        Yes sir.
+        No thanks.
+        Okay then.
+
+    Hey! I told you in my e-mail to hurry back! I was just bored so I called you to come back. Hahaha. Now, now, no need to rush. Why don't you eat some of my homemade bat curry. But anway. Being an archeologist sure is dangerous. Even after saying that there are monsters and traps, you still go in the ruins. If you're able to solve all the puzzles without dying, then you might be able to meet the legendary four sages. I don't know if they really exist, though! Hahaha, this curry is tasty! Do you want to hear it again? 0
+
+        Yes sir.
+        No thanks.
+        Okay then.
+
+    That Talisman... It belonged to your father. Your father went in them ruins and ain't come back since. Seems like he was researching something deep inside. You should look for your father's Diary. I'm sure he had it with him. There may be things about what he was studying written in it. What? You saw a guy in the ruins that looked like your father? That's crazy. It's been many days since he went in. You wanna hear that again?
+
+        Yes sir.
+        No thanks.
+        Look for the Diary, alright?
+
+    Did you find the Diary? What? The treasure chest is hidden in a place that you can't get to? I see. Your father is a smart man. He must've gotten a good handle on the traps in the ruins. Okay, got it. Let me figure something out.
+    Oh, so you're back. Hm? What's with that face. I told you, you don't need to worry about me. I'm an invincible old man. Now then, it looks like you found your father's Diary. All right. I'll explain everything. We are descendants of a race who sees the departing off. We are the seventh children of the Mother. We are the ones who sent off the last race to spring forth from and thrive in these ruins... or rather, the Mother. That's you, the last race, the eighth children, the humanity of present day, We are in charge of sending you all off. All of mankind and civilization were born here. Take this, the Mulana Talisman. I heard that if you have this, you can get your hands on the cursed treasure. Well then, go see the Four Philosophers, in your father's stead. You want me to repeat that?
+
+        Yes sir.
+        No thanks.
+        Go meet the Four Philosophers.
+
+    Our race has continued to protect the ruins, following the teachings of the Four Philosophers that sleep within the ruins. The Four Philosophers realized the Mother's wish to return to the skies was not possible. Instead they hope to give her a peaceful death. This is the conclusion that we, the seventh children, at last settled on. It's sad, but we gotta entrust this task to you, the eighth children. I guess it just goes to show... that children will someday leave their parents. Your father was after the Mother's crystallized spirit, the Secret Treasure of Life. I hope that you can obtain it in your father's place. You wanna hear that again?
+
+        Yes sir.
+        No thanks.
+        Okay then.
+
+    The wind sure is howling today...
+    Oh good, you're still alive. What do you think, ain't the La-Mulana ruins huge? Many have gone in and never come back, but still there are lotsa areas that no one has ever entered.
+    There you are. Got something I wanted to tell you. This here's a story that's been passed down in the village. "Those that set them complex traps in the ruins are waiting for the strong one." I don't know who's waiting. It's just an old legend. And I find it hard to believe that anyone could live in the ruins. But legend has it, someone sleeps within the ruins, waiting to help this strong one. I thought it might be good for you to keep an eye out for that sort of thing, since it seems your research is coming along. Of course, I have no idea where this "someone" is supposed to be sleeping! You wanna hear that again?
+
+        Yes sir.
+        No thanks.
+        Okay then.
+
+    Well, I'll be. You found the sleeping one. The stories were true! What a surprise. And you say it was a young living girl? Lucky you! I feel ages younger already. But to think, such a girl was found alive. Just maybe there's some truth to the legend about the Four Philosophers that are waiting for the strong one. You wanna hear that again?
+
+        Yes sir.
+        No thanks.
+        Okay then.
+
+    So you made it. Now, hurry up and go buy that newfangled laptop! And let me have a turn at it! With it you can install twice as many applications. I will install a ton of games for you!
+    Now then, it looks like you found your father's Diary. All right. I'll explain everything. We are descendants of a race who sees the departing off. We are the seventh children of the Mother. We are the ones who sent off the last race to spring forth from and thrive in these ruins... or rather, the Mother. That's you, the last race, the eighth children, the humanity of present day, We are in charge of sending you all off. All of mankind and civilization were born here. Take this, the Mulana Mulana Talisman. I heard that if you have this, you can get your hands on the cursed treasure. Well then, go see the Four Philosophers, in your father's stead. You want me to repeat that?
+
+        Yes sir.
+        No thanks.
+        Go meet the Four Philosophers.
+
+Items
+
+
+   That there thing you're holding, that's called the Djed Pillar. Infuse it with the power of words, and it will show their true worth. I actually have no idea what it's used for. Well, it probably changes words into power. Maybe you use it to chant spells?
+
+   What's up with that dirty doll? You use it to prove you're a little man? That don't make a lick of sense. Why don't you try using it in a place that makes you look like a little man?
+
+   Ooh, what's that? Magatama Jewel? They sure are round.
+
+   Why, that's a Cog of the Soul. It's pretty much a key that's used to perform the forbidden art of bringing clay to life. I think you stick it somewhere to get a machine to move, but that's the kind of thing that you'd expect to be forbidden so... Maybe you shouldn't use it?
+
+   Whoa, that's bright. What is that lamp? Ah, you bought the Lamp of Time. It's a strange lamp that can stop time. Oh, don't use it in front of me.
+
+   That's a fancy pochette you got there. What? That's one of the things you found? What it for? Actually, I remember seeing a mural at the Gate of Guidance that had something just like that. In the mural, someone was riding a vehicle, and stuffed that pochette right into it.
+
+   What's with that bone! It's creepy. And definitely cursed. Woo~ooo!
+
+   That a Crystal Skull? That's what folks call an out-of-place-artifact, ain't it? It was made by chiseling a single piece of crystal. People still haven't figured out how these things were made so perfectly. There's a famous one at a museum in some country called England. I think they made a lousy movie out of one too... What? No I don't know what it's for.
+
+   What's that? That is one dirty bucket. No one's going to buy that from you. Why on earth would you bring back a hunk-a-junk like that?
+
+   Oh, what perfect timing. I was eating a bat salad, but I wanna add a bit of extra punch to the flavor. Gimme that Pepper. Ahh, it really brings out that bitter bat taste.
+
+   That there's a clay figurine known as the Woman Statue. The forms actually pretty sexy. Hey, I may be old, but I can still kick it.
+
+   Hey, hey. The Woman Statue. Her belly looks swollen. Like she's pregnant. I ain't into married women.
+
+   What a strange key. Really Weird.
+
+   Oh, so you came across the Serpent Staff. There's a monster called Argus near the altar on the edge of the village. We need to make an offering to the shrine, but that monster's in the way, and we can't take it down without the Serpent Staff. So really, this is perfect--get down there and take 'em out.
+
+   I see you got a Hand Scanner. Good thing, since you need it to inspect skeletons and stone tablets. You can also inspect big ol' murals and statues. 1
+
+   This here talisman has been protected by our people. It has been passed down, with instructions to give it to the one who takes on the last challenge of the La-Mulana ruins.
+
+Random
+
+    I'm gaming right now. Don't bug me. 1
+    Oh-ho! How's the exploration going? If it's going well, it's all thanks to my e-mails. 1
+    What the?!? I was just in the middle of writing you an email! Ugh, what am I supposed to do when you show up before I even get a chance to send it? Work with me, son! 1
+    No!! Argh, I'm only on stage two and the boss just killed me. If only you hadn't barged in like that!
+    Gah! Noo, I died again at that second boss. I-i-t, it's all your... Waah!!
+    Oh! Oh n-no, not at all-ah, it's not what it looks like. I mean, I'm not looking at anything dirty or all perverted-like! Just... Ah, get out of here!
+    This sucks... I give up. The stage two boss is too tough... It's just not fair, he's got two swords...
+    Having a tough time in these parts of the ruins? You got the wrath o' god when you try to inspect walls, don'cha? But of course, if you're in an area with no eye-ball murals to punish you, you can hit any wall you want.
+
+    Always feels good to soak in the hot springs on the outskirts of the village, don't it? It looks like you can dig up some hot springs in this area. Perhaps there are some in the ruins. 1
+
+    Man, this game is boring. So many hints! Now where's the challenge in that? 1
+    I~ am~ the Elder~♪ I~ am~ important~♪ 1
+    I'm hungry.
+
+    This demo is way too long. 1
+
+    The good action games are the ones that make you jump around in your seat! 1
+
+    Oh I wish I was rich. 1
+
+    I think we could make some real good money if we turn these here ruins into a tourist spot.
+
+    Actually, I'm the final boss in this game. Naw, I'm just messin' with ya. 1
+
+    There's actually a hidden dungeon underneath my home. Naw, just kidding. 1
+
+    If enough people think this game is fun, there might be a sequel. ...yeah, right!
+    I'm actually a girl. If you finish the game, you'll get real *special* photo of me. Just kidding.
+    I'm so bored so bored so bored. Hey you, make a funny face.
+
+    I want to play a shooter game. There aren't too many new shooter games these days. 1
+
+    There's this game I wanna download but I don't have enough points on my card. You, go to the next town and buy me $10 worth of points. The town? It's only 100 miles away. 1
+    What, you worrying about my gaming addiction? I'm fine, I'm fine, I can quit anytime I want... just not today. 1
+    I'm thinking about turning the ruins into a tourist destination. We could take foreigners' money, sell them souvenirs... ahehehe... I could even round up some candidates for a harem, wha'dya think? 1
+    You seem awfully busy. Shouldn't you take it easy a bit?
+    Ugh... My arms hurt from sending too many e-mails. I need to pace myself. 1
+    I'm always watching over you. Tee-hee.
+
+Emails
+
+    Welcome to xelpud mailer. 1
+
+        You can trust this software for anything related to messages from me.
+        Function
+        ・Only receives e-mails from me
+        Details
+        This is the latest version of the xelpud mailer.
+        There are no plans for a version update.
+        There is no help page.
+        Help and troubleshooting requests will not be supported.
+        Thank you for using the xelpud mailer.
+        Xelpud
+
+    It's me. Good morning sunshine! 1
+
+        Dear Professor Lemeza, It's me.
+        I decided I should give this e-mail thingy a try. I bet you are still wandering around the village. As a warm up before going into the ruins, why don't you try to get a hold of the Shell Horn? It is inside the treasure chest at Sound Canyon, located above the entry to the ruins. You should be able to open it with a Weight. Press ↓ to place the Weight. Alright, I guess I'll send you emails frequently. Stop by my tent if you get bored and wanna chat!
+
+    Research is necessary 1
+
+        It's me.
+        If you bought a Hand Scanner, you should use it to find out about all sorts of places. Reading stone tablets is a given, but you should scan anything from skeletons to mysterious objects. Come to think of it, I gave a map of the areas surrounding the village to a man long ago, but he still ain't come back. He might have died somewhere out there. Why don't you take a look at some of the skeletons. You might find the map.
+
+    What's up! 1
+
+        It's me.
+        You see that square box-looking thing by the entrance to the ruins? Try pushing it. There's something similar inside the ruins that you can push as well. If something looks suspicious, don't just hit it with your weapon. Try pushing it. Later.
+
+    The waterfalls are dangerous 1
+
+        Hi again. It's me.
+        There's a large waterfall right outside the village, and I just wanted to warn you not to jump in for fun, because it's got a pretty strong flow. If you get carried off to the bottom of the waterfall, you ain't coming back!
+
+    Don't you feel stronger, holding that orb? 1
+
+        Hey there, it's me.
+        I thought you mighta opened a treasure chest at the Gate of Guidance by now, and decided to e-mail you. The item inside that treasure chest is called the Sacred Orb. It's a secret treasure that gives you strength. Your strength increases just by having it. Don't eat it though.
+
+    How to make bat curry
+
+        It's me.
+        I'm sure you get hungry walking around the ruins. Your father told me that you love curry. Try adding some of those bats that fly around in the ruins. It'll make the curry rich n' tasty. Use your whip to kill 'em, and simply dump into a curry pot to stew.
+
+    Items that are better used than not
+
+        It's me.
+        Some treasures ain't real helpful till you actually put 'em to use. You can select items through the Item Menu, just like you choose weapons. Go ahead, try it! Once you've set that up, press the item button to see what happens. There are even some treasures that aren't activated till you hold them in your hands. Have fun trying different items out!
+
+    The Holy Grail is useful. 1
+
+        It's me.
+        By now, you must be done exploring the Gate of Guidance. I think there was a real handy treasure there called the Holy Grail. Did you see the stone tablets that were shaped differently from the others? If you read from these tablets, your memories of the location you're in are poured into the Holy Grail. From there, you can use the Holy Grail to travel to any of the recorded locations. What do they call it these days, "warping"?
+
+    The weapons inside the ruins
+
+        It's me.
+        Sometimes, there are weapons hidden inside the ruins. They look normal, but being weapons from the ruins, they're a bit funny. You can't use the weapons without ammo. Collect ammo that matches the shape of each weapon. Once you do that, you'll be able to use your weapons.
+
+    The jewel that shines red 1
+
+        It's me.
+        About Ankh Jewels, those red gems, if you use them in front of those cross-like thingies called Ankhs, located here and there in the ruins, you can break the Ankhs. Breaking them will make something bad happen, so maybe think 'bout going back to the village to save first. And while you're there, why not come chat with me?
+
+    A door in the ruins 1
+
+        It's me. How are you?
+        Inside the ruins, there is a door, but it's a little different from modern doors. Push it with all your strength and it will open. If it does not open, then you need to push it from the other side. Doors in the ruins only open in one direction.
+
+    Lots of switches 1
+
+        It's me. You need to come by more often!
+        Now then, there are switches in these ruins that will activate puzzles when stepped on. If you see a section of the floor that's kinda raised up, it's a switch. Sometimes just standing on 'em wont do nothing, meaning you need more weight. In those cases, try landing on them from somewhere high up, or jump and stomp.
+
+    Secret of the Mausoleum of the Giants 1
+
+        It's meeeee!
+        In the Mausoleum of the Giants, there's this stone tablet that talks about the history of the Giants. Be sure to read it. There's no other way to learn the names of their leaders and their history.
+
+    The trick to the Temple of the Sun. 1
+
+        It's me!
+        I believe there is a trolley hanging at the top of the Temple of the Sun. And I think you gotta cut it down. But I don't know any of the details.
+
+    No-go on the exploration 1
+
+        It's me.
+        In the ruins, there are some areas or rooms you can't get in to. Brute force ain't the way to get in those places. If you keep on collecting treasure and solving puzzles, eventually you will make it there.
+
+    What do you mean slick and shiny! 1
+
+        It's me. Slick and shiny and bald?
+        I've got a little hair left, you know! Anyways, there are some slippery parts in these ruins. Once you start slipping, ain't no way you're climbing up to the top. But someone with quick feet may be able to make it.
+
+    Mirror, mirror
+
+        It's me. (^o^)/
+        When you find a treasure called the Bronze Mirror, all the large entry-like passages that had been sealed before will be opened. Those are called gates, and you can go in by pressing ↑. Once inside, you can access a different version of the world, so to speak. That's right. There is an alternate side to these ruins. And it's very vast. Too bad, more work for you! m(_ _)m
+
+    [Urgent] Come back ASAP
+
+        It's me.
+        Come back to my tent now. Something bad has happened.
+
+    Sorry!
+
+        It's me.
+        Sorry about lying about the emergency in the last e-mail. But it would be nice if you'd come up to the Surface to talk with me now and then, professor...
+
+    The water may look pure but it's poisonous. 1
+
+        It's me.
+        Apparently the water inside the ruins is slightly poisonous so if you are in the water your health will drain. However, there are places that purposely have water so you can't pass if you don't have enough health. So if you think you can do it, it could be possible to swim across. Just be careful and don't get yourself killed.
+
+    The symbol of the key 1
+
+        Me (-_-)/
+        There are items that look like rocks with La-Mulana script on them. They can be used like keys in these here ruins. If you touch a keyhole (or rather, sort of a small round mural) with the same symbol, it will break. With that you might be able to solve some puzzles.
+
+    It's hot! 1
+
+        It's me. It's getting hot today.
+        Speaking of hot, lava is also pretty hot. Don't fall in. It'll be very bad. But if you are prepared to face danger and soldier forward, something good might just happen. You're still young, just take on the challenge!
+
+    It's dark. It's narrow.
+
+        It's me.
+        I believe there should be a dark room with no lights somwhere in the ruins. There should be some places where you can light something. Maybe you have a weapon on hand that you can light those fires with?
+
+    FAIRIES, YO! 1
+
+        WASSUP, it's me!
+        Apparently there is a race called fairies still living in the ruins, YO. They will only help the one that holds the right treasure, THAT'S RIGHT. So maybe you should search for the treasure first, KNOW WHAT I'M SAYIN'? Look at the map, and if there are rooms with suspicious names, just CHECK IT OUT, YO.
+
+    [Urgent] Come back immediately, for reals.
+
+        I have something to tell you. Come back right away.
+
+    Legend of the twins
+
+        It's me.
+        Apparently, the twins cast a curse on the Twin Labyrinths. It's a curse from an ancient legend. Is there a stone tablet somewhere that mentions this? Find it, and the poisonous fog should lift. That's right. That purple fog is poisonous.
+
+    Alternate use for the Holy Grail
+
+        It's me. E-mails are getting to be a hassle!
+        The Holy Grail is great for warping through the normal world, but you probably want to start warping in the alternate world as well! As I recall, the wavelength sent out from a certain piece of game software reacts with the Holy Grail. If you load that software, you should be able to warp into the alternate world as well.
+
+    Not slick and shiny
+
+        Me.
+        I'm not bald. Ice is slippery. It can't be helped. Good luck!
+
+    How to climb the tower.
+
+        It's me.
+        Lemme tell you how to climb the tower. Isn't there an elevator that takes you to the top? Sure would be nice to have that. But is there something that could be used like that inside the ruins? If not, the only way is to hang on to the walls and jump from wall to wall to the top.
+
+    You found a Grapple Claw?
+
+        It's me.
+        Did you find the Grapple Claw yet? If I remember right, you've got ninja blood in you. I heard that from your father. If you use that Grapple Claw, you can scale walls like a ninja. Jump up towards the wall, and hold ↑ and towards the wall. You will fall by releasing ↑. You can also jump further by pressing the jump button while hanging onto the wall.
+
+    Feather
+
+        It's me.
+        You took the treasure from our village's shrine, didn't you! Thief! That was an offering by the villagers. Oh well. The Feather has a strange power. Press Jump button while you're jumping. It will let you jump twice. You'll be able to jump further and higher than before, and even if you fall from a high place, you might be able to get by with a mini-jump. You're going to have to pay for your thievery one day!
+
+    Don't play pranks okay?
+
+        It's me.
+        So you bought the Lamp of Time. It seems using that, you can stop time for a little bit. But once you use it, it loses it's power. You may be able to use it again when you manage to light the lamp.
+
+    Warp & Warp
+
+        It's me.
+        You think there's nothing there, then all of the sudden you find yerself on a strange path! ...Just a story I heard in the village. What looks like a dead end might actually warp you to another place! How strange. But then again, strange is the norm in La-Mulana.
+
+    Explosion! Explosion!
+
+        It's me. It's an explosion!
+        Have you got a hold of a Bomb? If you throw the Bomb, it'll fly in a slight upwards kinda arc, so you'll be in trouble if you throw it in a tight spot. You can also roll it on the ground by throwing it while holding ↓.
+
+    My secret.
+
+        It's me.
+        Isn't it strange how I know how your adventures are going? Hehehe. I can see through everything.
+
+    Illegible writing can't be read
+
+        It's me.
+        There's some writing that the Glyph Reader can't translate, right? The normal ancient scripture was written by the Four Philosophers, from the race of seventh children. The other writing, written by folks from an even older time, cannot be translated. I'll look into other methods, so hang on!
+
+    If you can't read it, you should study
+
+        It's me.
+        I called the developers of the Glyph Reader. In order to translate the older writing, you gotta have the Reader scan both a new bit of writing and an old bit of writing that say the same thing. It'll compare the two versions of script and the software's dictionary will learn. But reading just once ain't enough. You'll need to have the Reader scan at least four scriptures that say the same thing in both the new and old text.
+
+    Software these days is amazing
+
+        It's me.
+        Among the existing software, some of them show off special functions when loaded at the same time. Some software combinations might emit a wavelength that triggers something in the ruins, boosting your powers or strength. Kinda amazing, huh!?
+
+    NIGORO
+
+        It's me! I'm bored.
+        So I'm playing my favorite NIGORO game. Don'chu got some NIGORO games on your laptop too? If you have one I don't have, lemme try it!
+
+    Bored.
+
+        Isn't there anything fun to do? I was so bored I turned to knitting. I'm old now so maybe I'll knit a nice rug to use inside the tent.
+
+    Very fancy.
+
+        It's me.
+        The rug is finally done! Come by some time to have a look.
+
+    You close to being done?
+
+        It's me.
+        How much longer until you're done? Apparently there is a crazy difficult area hidden somewhere in the ruins. Where is it? Where could it be? Lalala~ I have no idea~
+
+    A new laptop has come out.
+
+        It's me.
+        Two new models of the laptop you're using arrived at the village. There is one left in inventory at the store. I already bought the other one. If you don't hurry, I'll buy the other one too as a back-up machine.
+
+    Show me anything rare and unfamiliar
+
+        If you find an item you're not quite sure about bring it to me. If I know anything about it, I'll tell you.
+
+
+# Mulbruk
+    My name is Mulbruk. By order of the Four Philosophers, I, Mulbruk await the strong one. Under the divine protection of Isis, my life is preserved in an eternal slumber. In accordance with the ancient contract, I shall lend my powers to the one who awakens me. 1
+    Hmm? Yawn, Mulbruk slept well. Oh? Are you the one who woke me? I see. Then I'll led you a hand... yaaawn. Hmph. Mulbruk will help you, but still terribly sleepy. For now, here is some useful information. Wedjet is another name for the God Horus. Horus is the God that the fifth children worshiped. It's an eye that supposedly sees everything from on high. See? Mulbruk knows pretty much anything! Yaaaawn. Sorry, sleepy. Going to sleep for a while. See you later. 1
+    Mulbruk is sleepy. 1
+    Mulbruk is still sleepy. 1
+    Mulbruk finally starting to wake up. Mulbruk is the daughter of an excellent tailor, and one of the race of the Four Philosophers. Father worked for the Philosophers, so naturally Mulbruk served them as well. Mulbruk was chosen to be your helper because of her excellence. So if you run into any problems, come see me. Mulbruk cannot move, to preserve eternal life.
+    An enemy that sucks life? Does it happen to have a dog-like head? That's probably Anubis. It seems he's the god of the dead. If you had what's known as the Book of the Dead, then it wouldn't be able to suck your life. But Mulbruk don't know where that is. Oh. What Mulbruk have in Mulbruk's hand right now is the Book of the Dead. So here, you can have it. Need me to repeat? 1
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    The lava's hot? Duh. But even if you tell Mulbruk to do something about it, there's nothing Mulbruk can do. Oh. Mulbruk heard there is a cape that can block the heat from the lava. Mulbruk think it's at the very back of the cave with the lava. You'll have to go with the intention of dying. Hahaha. Need me to repeat? 1
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    A field covered in darkness you say? Actually, that's right next door. Mulbruk think there's a way to make it bright, but it's difficult. First you have to solve the riddle of the God of the Light in the Chamber of Birth, then there will be a change in the Chamber of Extinction. It's still far ahead. Be patient and don't be hasty! Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    A corridor that never ends you say? But that's the Endless Corridor. Of course it would never end. But if you had the Key of Eternity then you could travel deep inside. But even deep inside, it's still endless! It's brilliant. Need me to repeat? 1
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    A moving floor in the Twin Labyrinth that doesn't move? I believe it was the third children that created those ruins.The third children had wings, you know. They were about as smart as me, and figured out a way to make floating floors. They wouldn't need that if they had wings! Perhaps its fallen into disrepair, as it is old. Stomping on it might help! Stomp on it high above and maybe it'll move. Need me to repeat? 1
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    Did you meet the Fairy Queen? The fairies, too, live inside these ruins to help you. They'll relieve your fatigue, but amongst them is also a fairy that holds a key. Apparently, it is a key that unlocks some trap. When you find it, take it to the puzzle you failed to solve.
+    That thing you have, it's called a laptop, correct? How fancy. Mulbruk has seen something similar before. There's a wall with directions on how to make one of those things move written on it. Need me to repeat? 1
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    You can't climb the Tower of the Goddess you say? Weakling! There was some trick to easily climb to the top. Wasn't there a flying machine floating around? Why don't you use that? But before that, you should try your best to climb it yourself. Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    The Chamber of Birth you say? Mulbruk thinks that's where the sixth children lived. They were born from clay, those people. They worshiped very unique gods there. Shiva, the God of Destruction, Vishnu, the god that sustains the world, Brahma, the God of Creation, and others. Shiva's wife Parvati has multiple personalities, and she sometimes turns into the God of War. Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    You want to know more about the Gods in the Chamber of Birth, you say? Okay, Mulbruk try her best to teach you. There's the God of Water Saraswati, the God of Harvest Lakshmi, the God of Scholars Ganesha, the God of Blood and Battle Kali, and who else... Mulbruk sleepy. You'll have to go there and see for yourself what each god looks like. Why don't you use a magnifying glass? Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Good night.
+
+    Mulbruk sleeping right now. Don't wake me. Stop it! 1
+    That Woman Statue you have. You finally found it. The Four Philosophers are waiting. Now make sure that woman is with child, then sleep within the woman. What are you thinking, you dirty pervert. ...That reminds me, you always fall asleep right after you eat. You'll turn into a cow if you keep that up, you know. Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    That ocarina you have. Actually, isn't that the Philosopher's Ocarina? Ah... The Philosophers are finally awake. My role here may soon come to an end. Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+    When you are able to solve all of the puzzles in the ruins is when the great Mother will sleep forever. It's also said that the ruins will perish. Although Mulbruk can't move from here.
+
+    The day the ruins disappear, is the day my role will come to an end. In that case, Mulbruk don't want to be immortal. Mulbruk want live a normal life in the outside world.
+
+    When the ruins fall apart, will you come save me?
+
+    The Holy Grail you have holds a hidden power. Once you have filled it with the memories of all the lands, power will dwell in the Holy Grail. Apparently the Holy Grail is the only way to receive the powers of the great Mother.
+
+    The first children were snakes from their belly down. Perhaps they were the closest to the Mother's true form. They worshiped the Mother as god, but they didn't understand her wishes. They wanted the Mother's powers and
+    imitated her, but they failed miserably. It seems they were then destroyed by the second children.
+
+    The second children were Giants. Being so big, they were good at making things. Most of the lands within these ruins were built by the Giants. They had the knowledge to return the Mother to the skies, and even made a flying tower for her, but the tower was not strong enough to lift the Mother's large body. Eventually the leaders began to fight amongst themselves, and were then chased away by the third children. The Giants fled to the land they created in order to cool down the tower, and perished there. Mulbruk heard some Giants escaped to the Surface. Have you heard of any rumors?
+
+    The third children were winged, and flying came naturally to them. They were smart, and spread to the Surface using the wisdom of civilizations past. But overpopulation became a problem, and they eventually split into demons and angels, starting a war. They completely forgot about returning the Mother to the heavens. Instead they created a country somewhere on the Surface, but most of it was flooded by the Mother in her wrath, sinking beneath the sea. They then caused an eruption in the ruins, and were destroyed all at once.
+
+    The fourth children had the bodies of fish so that they could survive on the land under the sea. As they were fish, they did not have the ability to fly. They had inherited the civilizations of children past, but once they passed their knowledge on to the fifth children, they lost their purpose.
+
+    The fifth children did not have wings. They weren't fish or snakes or Giants. Just regular people. They had knowledge of the skies, and could make huge pyramids by themselves. But they were too ambitious, trying to become gods, seeking immortality, or creating humans out of clay, and the Mother's wrath was felt yet again. The Mother disrupted the language of the fifth children. But as a result, multiple civilizations were born from one generation of children.
+
+    The sixth children were born of the tree of life that the fifth children left behind. They were born of clay. They multiplied steadily. Giants were born, and they even made vehicles that could fly. They connected these ruins, tried to bring the Giants back to life and went to war out on the Surface. It's really not clear what exactly this generation was trying to accomplish. Maybe because they were born of clay?
+
+    The seventh children includes myself, the Philosophers, and the villagers living outside the ruins. We were also born of the tree of life. But the tree of life was empowered by the Mother, and possessed advanced knowledge. With that knowledge, we arrived at the conclusion to wish for the Mother's death... But we did not have the strength. We searched the history of these ruins, and lived a simple life among nature so that the Mother would not destroy us. And thus our decision to create the eighth children, who would posses both knowledge and power but would not know the Mother. That is your generation. The Philosophers turned their bodies to stone, and waited for someone with strength to appear from amongst you. Someone with the strength to overcome all of the obstacles these ruins present. That is all Mulbruk knows of the history of these ruins. Could you possibly be that strong one, who can put an end to all this?
+
+    But the Mother has not been creating children on her own since the fifth children. Maybe her powers are weakening. Or maybe she can make other children. Will everything end once she is defeated, and the ruins sealed?
+    Mulbruk scared.
+
+    You've been living in the ruins for quite some time now. Are you able to read the La-Mulana script without the help of a device? The numbers are easiest. Each number has its own meaning. 0 is nothing, 1 is beginning, 4 is death and... hmmm... 5 is rebirth, 6 is war, 7 is deceit... 8 is eternity, and 9 is ascension.... I can't remember 2 and 3. 1
+
+    An enemy that sucks life? Does it happen to have a dog-like head? That's probably Anubis. It seems he's the god of the dead. If you had what's known as the Book of the Dead, then it wouldn't be able to suck your life. But Mulbruk don't know where that is. Oh. What Mulbruk have in Mulbruk's hand right now is the Book of the Dead. So here, you can have it. Need me to repeat?
+
+        Yes please.
+        No thank you.
+        Then Mulbruk going back to sleep.
+
+Random[]
+
+    Mmmgh! I can't eat any more. 1
+    That one's big. I mean, really big. Wha! Mulbruk was asleep. 1
+    Hmm. Mulbruk is sleepy. Just 100 years. Let me sleep for 100 more years. 1
+    Give me food. Now that's what I call breakfast. Just slurp them raw from the tail. Whoa! Mulbruk was asleep. 1
+
+    He's after me I tell you. That guy in the hat, he's going to get me... He wants Mulbruk... Wowee! Mulbruk was asleep.
+
+    Ow, ow, ow. I'm tired, but stone floors make poor beds. 1
+
+    My neck, my neck! Mulbruk pulled a muscle.
+
+    Who's that old guy in glasses. He's got no business barging into Mulbruk's room like that. He must be after Mulbruk too... Yipe! Mulbruk was asleep.
+
+    Mmph. What's up with that guy in the hat... Making an innocent girl like Mulbruk talk dirty like that... That's it, it must be that thing called sexual horseshoes...or whatever. Whaa? Mulbruk was asleep.
+
+    Seriously, what's with everyone coming after me. Hrmmmm. I'll slap 'em all around good... Whoa! Mulbruk was asleep.
+
+    Mister! You in the hat! Coming on to an innocent girl like me in my sleep... My allure is overpowering. Overpowering! Mah. Mulbruk was asleep. Really, she was!
+
+    Noo~! The ruins are crumbling. It's caving in. Mulbruk getting out of here... Mulbruk's room leads outside... Hmmph...
+
+    Idiot! You ignorant fool! Zzz...
+
+    Ah, ah, ah... Oh. Oohhhh, ohhh. Put a stone on top of Mulbruk! Ohhh... Zzz...
+
+    Hahahaha. Mulbruk is happy. Hahahahahahaha. Zzz...Zzz...
+
+    So thi- thi- this... This is.... A hamburger...! Zzz.
+
+    ...Wait! That doesn't count! Continue, continue...! Zzz... Snore.
+
+    Grrr. Gr... Grrrrrr. Grrr!!
+
+    Snort. 1
+
+    Hehehe... Bow before Mulbruk, world! Hehehehe... Mulbruk is excellent! Zzz.

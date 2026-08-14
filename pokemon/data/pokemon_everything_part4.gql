@@ -1,0 +1,42 @@
+query MyQuery {
+  pokemon_v2_pokemonspeciesflavortext(where: {language_id: {_eq: 9}}) {
+    id
+    pokemon_species_id
+    version_id
+    flavor_text
+  }
+  pokemon_v2_pokemonspeciesname(where: {language_id: {_eq: 9}}) {
+    id
+    pokemon_species_id
+    genus
+    name
+  }
+  pokemon_v2_pokemonstat {
+    id
+    pokemon_id
+    stat_id
+    base_stat
+    effort
+  }
+  pokemon_v2_pokemontype {
+    id
+    pokemon_id
+    type_id
+    slot
+  }
+  pokemon_v2_pokemontypepast {
+    id
+    pokemon_id
+    generation_id
+    type_id
+    slot
+  }
+  pokemon_v2_region {
+    id
+  }
+  pokemon_v2_regionname(where: {language_id: {_eq: 9}}) {
+    id
+    region_id
+    name
+  }
+}

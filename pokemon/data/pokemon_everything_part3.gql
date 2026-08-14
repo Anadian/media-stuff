@@ -1,0 +1,45 @@
+query MyQuery {
+  pokemon_v2_pokemongameindex {
+    id
+    pokemon_id
+    version_id
+    game_index
+  }
+  pokemon_v2_pokemonhabitat {
+    id
+  }
+  pokemon_v2_pokemonhabitatname(where: {language_id: {_eq: 9}}) {
+    id
+    pokemon_habitat_id
+    name
+  }
+  pokemon_v2_pokemonitem {
+    id
+    pokemon_id
+    version_id
+    item_id
+    rarity
+  }
+  pokemon_v2_pokemonmove {
+    id
+    pokemon_id
+    move_id
+    version_group_id
+    move_learn_method_id
+    level
+  }
+  pokemon_v2_pokemonshape {
+    id
+  }
+  pokemon_v2_pokemonshapename(where: {language_id: {_eq: 9}}) {
+    id
+    pokemon_shape_id
+    name
+    awesome_name
+  }
+  pokemon_v2_pokemonspeciesdescription(where: {language_id: {_eq: 9}}) {
+    id
+    pokemon_species_id
+    description
+  }
+}

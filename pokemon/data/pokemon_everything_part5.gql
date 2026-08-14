@@ -1,0 +1,66 @@
+query MyQuery {
+  pokemon_v2_stat {
+    id
+    game_index
+    move_damage_class_id
+    is_battle_only
+  }
+  pokemon_v2_statname(where: {language_id: {_eq: 9}}) {
+    id
+    stat_id
+    name
+  }
+  pokemon_v2_type {
+    id
+    generation_id
+    move_damage_class_id
+  }
+  pokemon_v2_typeefficacy {
+    id
+    damage_type_id
+    target_type_id
+    damage_factor
+  }
+  pokemon_v2_typeefficacypast {
+    id
+    generation_id
+    damage_type_id
+    target_type_id
+    damage_factor
+  }
+  pokemon_v2_typegameindex {
+    id
+    type_id
+    generation_id
+    game_index
+  }
+  pokemon_v2_typename {
+    id
+    type_id
+    name
+  }
+  pokemon_v2_version {
+    id
+  }
+  pokemon_v2_versiongroup {
+    id
+    generation_id
+    name
+  }
+  pokemon_v2_versiongroupmovelearnmethod {
+    id
+    version_group_id
+    move_learn_method_id
+  }
+  pokemon_v2_versiongroupregion {
+    id
+    version_group_id
+    region_id
+  }
+  pokemon_v2_versionname(where: {language_id: {_eq: 9}}) {
+    id
+    version_id
+    name
+  }
+}
+
