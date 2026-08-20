@@ -1,0 +1,16 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "DungeonsCount": 0,
+        "DungeonsClearedTotal": 0,
+        "DungeonsClearedToday": 0,
+        "SpiritsDiscoveredTotal": 0,
+        "SpiritsDiscoveredToday": 0,
+        "SpiritsDiscoveredList": "",
+        "SpiritsTamedTotal": 0,
+        "SpiritsTamedToday": 0,
+        "SpiritsBanishedTotal": 0,
+        "SpiritsBanishedToday": 0,
+        "GoldEarnedTotal": 0
+    }
+}

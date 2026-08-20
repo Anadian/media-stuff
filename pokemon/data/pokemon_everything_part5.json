@@ -1,0 +1,4960 @@
+{
+  "data": {
+    "pokemon_v2_stat": [
+      {
+        "id": 1,
+        "game_index": 1,
+        "move_damage_class_id": null,
+        "is_battle_only": false
+      },
+      {
+        "id": 2,
+        "game_index": 2,
+        "move_damage_class_id": 2,
+        "is_battle_only": false
+      },
+      {
+        "id": 3,
+        "game_index": 3,
+        "move_damage_class_id": 2,
+        "is_battle_only": false
+      },
+      {
+        "id": 4,
+        "game_index": 5,
+        "move_damage_class_id": 3,
+        "is_battle_only": false
+      },
+      {
+        "id": 5,
+        "game_index": 6,
+        "move_damage_class_id": 3,
+        "is_battle_only": false
+      },
+      {
+        "id": 6,
+        "game_index": 4,
+        "move_damage_class_id": null,
+        "is_battle_only": false
+      },
+      {
+        "id": 7,
+        "game_index": 0,
+        "move_damage_class_id": null,
+        "is_battle_only": true
+      },
+      {
+        "id": 8,
+        "game_index": 0,
+        "move_damage_class_id": null,
+        "is_battle_only": true
+      }
+    ],
+    "pokemon_v2_statname": [
+      {
+        "id": 8,
+        "stat_id": 1,
+        "name": "HP"
+      },
+      {
+        "id": 17,
+        "stat_id": 2,
+        "name": "Attack"
+      },
+      {
+        "id": 26,
+        "stat_id": 3,
+        "name": "Defense"
+      },
+      {
+        "id": 35,
+        "stat_id": 4,
+        "name": "Special Attack"
+      },
+      {
+        "id": 44,
+        "stat_id": 5,
+        "name": "Special Defense"
+      },
+      {
+        "id": 53,
+        "stat_id": 6,
+        "name": "Speed"
+      },
+      {
+        "id": 62,
+        "stat_id": 7,
+        "name": "accuracy"
+      },
+      {
+        "id": 71,
+        "stat_id": 8,
+        "name": "evasion"
+      }
+    ],
+    "pokemon_v2_type": [
+      {
+        "id": 1,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 2,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 3,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 4,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 5,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 6,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 7,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 8,
+        "generation_id": 1,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 9,
+        "generation_id": 2,
+        "move_damage_class_id": 2
+      },
+      {
+        "id": 10,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 11,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 12,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 13,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 14,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 15,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 16,
+        "generation_id": 1,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 17,
+        "generation_id": 2,
+        "move_damage_class_id": 3
+      },
+      {
+        "id": 18,
+        "generation_id": 6,
+        "move_damage_class_id": null
+      },
+      {
+        "id": 19,
+        "generation_id": 9,
+        "move_damage_class_id": null
+      },
+      {
+        "id": 10001,
+        "generation_id": 2,
+        "move_damage_class_id": null
+      },
+      {
+        "id": 10002,
+        "generation_id": 3,
+        "move_damage_class_id": null
+      }
+    ],
+    "pokemon_v2_typeefficacy": [
+      {
+        "id": 1,
+        "damage_type_id": 1,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 2,
+        "damage_type_id": 1,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 3,
+        "damage_type_id": 1,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 4,
+        "damage_type_id": 1,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 5,
+        "damage_type_id": 1,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 6,
+        "damage_type_id": 1,
+        "target_type_id": 6,
+        "damage_factor": 50
+      },
+      {
+        "id": 7,
+        "damage_type_id": 1,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 8,
+        "damage_type_id": 1,
+        "target_type_id": 8,
+        "damage_factor": 0
+      },
+      {
+        "id": 9,
+        "damage_type_id": 1,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 10,
+        "damage_type_id": 1,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 11,
+        "damage_type_id": 1,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 12,
+        "damage_type_id": 1,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 13,
+        "damage_type_id": 1,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 14,
+        "damage_type_id": 1,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 15,
+        "damage_type_id": 1,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 16,
+        "damage_type_id": 1,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 17,
+        "damage_type_id": 1,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 18,
+        "damage_type_id": 1,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 19,
+        "damage_type_id": 2,
+        "target_type_id": 1,
+        "damage_factor": 200
+      },
+      {
+        "id": 20,
+        "damage_type_id": 2,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 21,
+        "damage_type_id": 2,
+        "target_type_id": 3,
+        "damage_factor": 50
+      },
+      {
+        "id": 22,
+        "damage_type_id": 2,
+        "target_type_id": 4,
+        "damage_factor": 50
+      },
+      {
+        "id": 23,
+        "damage_type_id": 2,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 24,
+        "damage_type_id": 2,
+        "target_type_id": 6,
+        "damage_factor": 200
+      },
+      {
+        "id": 25,
+        "damage_type_id": 2,
+        "target_type_id": 7,
+        "damage_factor": 50
+      },
+      {
+        "id": 26,
+        "damage_type_id": 2,
+        "target_type_id": 8,
+        "damage_factor": 0
+      },
+      {
+        "id": 27,
+        "damage_type_id": 2,
+        "target_type_id": 9,
+        "damage_factor": 200
+      },
+      {
+        "id": 28,
+        "damage_type_id": 2,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 29,
+        "damage_type_id": 2,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 30,
+        "damage_type_id": 2,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 31,
+        "damage_type_id": 2,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 32,
+        "damage_type_id": 2,
+        "target_type_id": 14,
+        "damage_factor": 50
+      },
+      {
+        "id": 33,
+        "damage_type_id": 2,
+        "target_type_id": 15,
+        "damage_factor": 200
+      },
+      {
+        "id": 34,
+        "damage_type_id": 2,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 35,
+        "damage_type_id": 2,
+        "target_type_id": 17,
+        "damage_factor": 200
+      },
+      {
+        "id": 36,
+        "damage_type_id": 2,
+        "target_type_id": 18,
+        "damage_factor": 50
+      },
+      {
+        "id": 37,
+        "damage_type_id": 3,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 38,
+        "damage_type_id": 3,
+        "target_type_id": 2,
+        "damage_factor": 200
+      },
+      {
+        "id": 39,
+        "damage_type_id": 3,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 40,
+        "damage_type_id": 3,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 41,
+        "damage_type_id": 3,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 42,
+        "damage_type_id": 3,
+        "target_type_id": 6,
+        "damage_factor": 50
+      },
+      {
+        "id": 43,
+        "damage_type_id": 3,
+        "target_type_id": 7,
+        "damage_factor": 200
+      },
+      {
+        "id": 44,
+        "damage_type_id": 3,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 45,
+        "damage_type_id": 3,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 46,
+        "damage_type_id": 3,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 47,
+        "damage_type_id": 3,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 48,
+        "damage_type_id": 3,
+        "target_type_id": 12,
+        "damage_factor": 200
+      },
+      {
+        "id": 49,
+        "damage_type_id": 3,
+        "target_type_id": 13,
+        "damage_factor": 50
+      },
+      {
+        "id": 50,
+        "damage_type_id": 3,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 51,
+        "damage_type_id": 3,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 52,
+        "damage_type_id": 3,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 53,
+        "damage_type_id": 3,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 54,
+        "damage_type_id": 3,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 55,
+        "damage_type_id": 4,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 56,
+        "damage_type_id": 4,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 57,
+        "damage_type_id": 4,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 58,
+        "damage_type_id": 4,
+        "target_type_id": 4,
+        "damage_factor": 50
+      },
+      {
+        "id": 59,
+        "damage_type_id": 4,
+        "target_type_id": 5,
+        "damage_factor": 50
+      },
+      {
+        "id": 60,
+        "damage_type_id": 4,
+        "target_type_id": 6,
+        "damage_factor": 50
+      },
+      {
+        "id": 61,
+        "damage_type_id": 4,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 62,
+        "damage_type_id": 4,
+        "target_type_id": 8,
+        "damage_factor": 50
+      },
+      {
+        "id": 63,
+        "damage_type_id": 4,
+        "target_type_id": 9,
+        "damage_factor": 0
+      },
+      {
+        "id": 64,
+        "damage_type_id": 4,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 65,
+        "damage_type_id": 4,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 66,
+        "damage_type_id": 4,
+        "target_type_id": 12,
+        "damage_factor": 200
+      },
+      {
+        "id": 67,
+        "damage_type_id": 4,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 68,
+        "damage_type_id": 4,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 69,
+        "damage_type_id": 4,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 70,
+        "damage_type_id": 4,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 71,
+        "damage_type_id": 4,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 72,
+        "damage_type_id": 4,
+        "target_type_id": 18,
+        "damage_factor": 200
+      },
+      {
+        "id": 73,
+        "damage_type_id": 5,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 74,
+        "damage_type_id": 5,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 75,
+        "damage_type_id": 5,
+        "target_type_id": 3,
+        "damage_factor": 0
+      },
+      {
+        "id": 76,
+        "damage_type_id": 5,
+        "target_type_id": 4,
+        "damage_factor": 200
+      },
+      {
+        "id": 77,
+        "damage_type_id": 5,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 78,
+        "damage_type_id": 5,
+        "target_type_id": 6,
+        "damage_factor": 200
+      },
+      {
+        "id": 79,
+        "damage_type_id": 5,
+        "target_type_id": 7,
+        "damage_factor": 50
+      },
+      {
+        "id": 80,
+        "damage_type_id": 5,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 81,
+        "damage_type_id": 5,
+        "target_type_id": 9,
+        "damage_factor": 200
+      },
+      {
+        "id": 82,
+        "damage_type_id": 5,
+        "target_type_id": 10,
+        "damage_factor": 200
+      },
+      {
+        "id": 83,
+        "damage_type_id": 5,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 84,
+        "damage_type_id": 5,
+        "target_type_id": 12,
+        "damage_factor": 50
+      },
+      {
+        "id": 85,
+        "damage_type_id": 5,
+        "target_type_id": 13,
+        "damage_factor": 200
+      },
+      {
+        "id": 86,
+        "damage_type_id": 5,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 87,
+        "damage_type_id": 5,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 88,
+        "damage_type_id": 5,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 89,
+        "damage_type_id": 5,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 90,
+        "damage_type_id": 5,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 91,
+        "damage_type_id": 6,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 92,
+        "damage_type_id": 6,
+        "target_type_id": 2,
+        "damage_factor": 50
+      },
+      {
+        "id": 93,
+        "damage_type_id": 6,
+        "target_type_id": 3,
+        "damage_factor": 200
+      },
+      {
+        "id": 94,
+        "damage_type_id": 6,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 95,
+        "damage_type_id": 6,
+        "target_type_id": 5,
+        "damage_factor": 50
+      },
+      {
+        "id": 96,
+        "damage_type_id": 6,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 97,
+        "damage_type_id": 6,
+        "target_type_id": 7,
+        "damage_factor": 200
+      },
+      {
+        "id": 98,
+        "damage_type_id": 6,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 99,
+        "damage_type_id": 6,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 100,
+        "damage_type_id": 6,
+        "target_type_id": 10,
+        "damage_factor": 200
+      },
+      {
+        "id": 101,
+        "damage_type_id": 6,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 102,
+        "damage_type_id": 6,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 103,
+        "damage_type_id": 6,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 104,
+        "damage_type_id": 6,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 105,
+        "damage_type_id": 6,
+        "target_type_id": 15,
+        "damage_factor": 200
+      },
+      {
+        "id": 106,
+        "damage_type_id": 6,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 107,
+        "damage_type_id": 6,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 108,
+        "damage_type_id": 6,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 109,
+        "damage_type_id": 7,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 110,
+        "damage_type_id": 7,
+        "target_type_id": 2,
+        "damage_factor": 50
+      },
+      {
+        "id": 111,
+        "damage_type_id": 7,
+        "target_type_id": 3,
+        "damage_factor": 50
+      },
+      {
+        "id": 112,
+        "damage_type_id": 7,
+        "target_type_id": 4,
+        "damage_factor": 50
+      },
+      {
+        "id": 113,
+        "damage_type_id": 7,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 114,
+        "damage_type_id": 7,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 115,
+        "damage_type_id": 7,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 116,
+        "damage_type_id": 7,
+        "target_type_id": 8,
+        "damage_factor": 50
+      },
+      {
+        "id": 117,
+        "damage_type_id": 7,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 118,
+        "damage_type_id": 7,
+        "target_type_id": 10,
+        "damage_factor": 50
+      },
+      {
+        "id": 119,
+        "damage_type_id": 7,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 120,
+        "damage_type_id": 7,
+        "target_type_id": 12,
+        "damage_factor": 200
+      },
+      {
+        "id": 121,
+        "damage_type_id": 7,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 122,
+        "damage_type_id": 7,
+        "target_type_id": 14,
+        "damage_factor": 200
+      },
+      {
+        "id": 123,
+        "damage_type_id": 7,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 124,
+        "damage_type_id": 7,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 125,
+        "damage_type_id": 7,
+        "target_type_id": 17,
+        "damage_factor": 200
+      },
+      {
+        "id": 126,
+        "damage_type_id": 7,
+        "target_type_id": 18,
+        "damage_factor": 50
+      },
+      {
+        "id": 127,
+        "damage_type_id": 8,
+        "target_type_id": 1,
+        "damage_factor": 0
+      },
+      {
+        "id": 128,
+        "damage_type_id": 8,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 129,
+        "damage_type_id": 8,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 130,
+        "damage_type_id": 8,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 131,
+        "damage_type_id": 8,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 132,
+        "damage_type_id": 8,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 133,
+        "damage_type_id": 8,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 134,
+        "damage_type_id": 8,
+        "target_type_id": 8,
+        "damage_factor": 200
+      },
+      {
+        "id": 135,
+        "damage_type_id": 8,
+        "target_type_id": 9,
+        "damage_factor": 100
+      },
+      {
+        "id": 136,
+        "damage_type_id": 8,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 137,
+        "damage_type_id": 8,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 138,
+        "damage_type_id": 8,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 139,
+        "damage_type_id": 8,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 140,
+        "damage_type_id": 8,
+        "target_type_id": 14,
+        "damage_factor": 200
+      },
+      {
+        "id": 141,
+        "damage_type_id": 8,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 142,
+        "damage_type_id": 8,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 143,
+        "damage_type_id": 8,
+        "target_type_id": 17,
+        "damage_factor": 50
+      },
+      {
+        "id": 144,
+        "damage_type_id": 8,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 145,
+        "damage_type_id": 9,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 146,
+        "damage_type_id": 9,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 147,
+        "damage_type_id": 9,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 148,
+        "damage_type_id": 9,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 149,
+        "damage_type_id": 9,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 150,
+        "damage_type_id": 9,
+        "target_type_id": 6,
+        "damage_factor": 200
+      },
+      {
+        "id": 151,
+        "damage_type_id": 9,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 152,
+        "damage_type_id": 9,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 153,
+        "damage_type_id": 9,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 154,
+        "damage_type_id": 9,
+        "target_type_id": 10,
+        "damage_factor": 50
+      },
+      {
+        "id": 155,
+        "damage_type_id": 9,
+        "target_type_id": 11,
+        "damage_factor": 50
+      },
+      {
+        "id": 156,
+        "damage_type_id": 9,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 157,
+        "damage_type_id": 9,
+        "target_type_id": 13,
+        "damage_factor": 50
+      },
+      {
+        "id": 158,
+        "damage_type_id": 9,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 159,
+        "damage_type_id": 9,
+        "target_type_id": 15,
+        "damage_factor": 200
+      },
+      {
+        "id": 160,
+        "damage_type_id": 9,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 161,
+        "damage_type_id": 9,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 162,
+        "damage_type_id": 9,
+        "target_type_id": 18,
+        "damage_factor": 200
+      },
+      {
+        "id": 163,
+        "damage_type_id": 10,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 164,
+        "damage_type_id": 10,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 165,
+        "damage_type_id": 10,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 166,
+        "damage_type_id": 10,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 167,
+        "damage_type_id": 10,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 168,
+        "damage_type_id": 10,
+        "target_type_id": 6,
+        "damage_factor": 50
+      },
+      {
+        "id": 169,
+        "damage_type_id": 10,
+        "target_type_id": 7,
+        "damage_factor": 200
+      },
+      {
+        "id": 170,
+        "damage_type_id": 10,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 171,
+        "damage_type_id": 10,
+        "target_type_id": 9,
+        "damage_factor": 200
+      },
+      {
+        "id": 172,
+        "damage_type_id": 10,
+        "target_type_id": 10,
+        "damage_factor": 50
+      },
+      {
+        "id": 173,
+        "damage_type_id": 10,
+        "target_type_id": 11,
+        "damage_factor": 50
+      },
+      {
+        "id": 174,
+        "damage_type_id": 10,
+        "target_type_id": 12,
+        "damage_factor": 200
+      },
+      {
+        "id": 175,
+        "damage_type_id": 10,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 176,
+        "damage_type_id": 10,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 177,
+        "damage_type_id": 10,
+        "target_type_id": 15,
+        "damage_factor": 200
+      },
+      {
+        "id": 178,
+        "damage_type_id": 10,
+        "target_type_id": 16,
+        "damage_factor": 50
+      },
+      {
+        "id": 179,
+        "damage_type_id": 10,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 180,
+        "damage_type_id": 10,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 181,
+        "damage_type_id": 11,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 182,
+        "damage_type_id": 11,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 183,
+        "damage_type_id": 11,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 184,
+        "damage_type_id": 11,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 185,
+        "damage_type_id": 11,
+        "target_type_id": 5,
+        "damage_factor": 200
+      },
+      {
+        "id": 186,
+        "damage_type_id": 11,
+        "target_type_id": 6,
+        "damage_factor": 200
+      },
+      {
+        "id": 187,
+        "damage_type_id": 11,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 188,
+        "damage_type_id": 11,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 189,
+        "damage_type_id": 11,
+        "target_type_id": 9,
+        "damage_factor": 100
+      },
+      {
+        "id": 190,
+        "damage_type_id": 11,
+        "target_type_id": 10,
+        "damage_factor": 200
+      },
+      {
+        "id": 191,
+        "damage_type_id": 11,
+        "target_type_id": 11,
+        "damage_factor": 50
+      },
+      {
+        "id": 192,
+        "damage_type_id": 11,
+        "target_type_id": 12,
+        "damage_factor": 50
+      },
+      {
+        "id": 193,
+        "damage_type_id": 11,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 194,
+        "damage_type_id": 11,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 195,
+        "damage_type_id": 11,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 196,
+        "damage_type_id": 11,
+        "target_type_id": 16,
+        "damage_factor": 50
+      },
+      {
+        "id": 197,
+        "damage_type_id": 11,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 198,
+        "damage_type_id": 11,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 199,
+        "damage_type_id": 12,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 200,
+        "damage_type_id": 12,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 201,
+        "damage_type_id": 12,
+        "target_type_id": 3,
+        "damage_factor": 50
+      },
+      {
+        "id": 202,
+        "damage_type_id": 12,
+        "target_type_id": 4,
+        "damage_factor": 50
+      },
+      {
+        "id": 203,
+        "damage_type_id": 12,
+        "target_type_id": 5,
+        "damage_factor": 200
+      },
+      {
+        "id": 204,
+        "damage_type_id": 12,
+        "target_type_id": 6,
+        "damage_factor": 200
+      },
+      {
+        "id": 205,
+        "damage_type_id": 12,
+        "target_type_id": 7,
+        "damage_factor": 50
+      },
+      {
+        "id": 206,
+        "damage_type_id": 12,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 207,
+        "damage_type_id": 12,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 208,
+        "damage_type_id": 12,
+        "target_type_id": 10,
+        "damage_factor": 50
+      },
+      {
+        "id": 209,
+        "damage_type_id": 12,
+        "target_type_id": 11,
+        "damage_factor": 200
+      },
+      {
+        "id": 210,
+        "damage_type_id": 12,
+        "target_type_id": 12,
+        "damage_factor": 50
+      },
+      {
+        "id": 211,
+        "damage_type_id": 12,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 212,
+        "damage_type_id": 12,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 213,
+        "damage_type_id": 12,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 214,
+        "damage_type_id": 12,
+        "target_type_id": 16,
+        "damage_factor": 50
+      },
+      {
+        "id": 215,
+        "damage_type_id": 12,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 216,
+        "damage_type_id": 12,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 217,
+        "damage_type_id": 13,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 218,
+        "damage_type_id": 13,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 219,
+        "damage_type_id": 13,
+        "target_type_id": 3,
+        "damage_factor": 200
+      },
+      {
+        "id": 220,
+        "damage_type_id": 13,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 221,
+        "damage_type_id": 13,
+        "target_type_id": 5,
+        "damage_factor": 0
+      },
+      {
+        "id": 222,
+        "damage_type_id": 13,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 223,
+        "damage_type_id": 13,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 224,
+        "damage_type_id": 13,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 225,
+        "damage_type_id": 13,
+        "target_type_id": 9,
+        "damage_factor": 100
+      },
+      {
+        "id": 226,
+        "damage_type_id": 13,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 227,
+        "damage_type_id": 13,
+        "target_type_id": 11,
+        "damage_factor": 200
+      },
+      {
+        "id": 228,
+        "damage_type_id": 13,
+        "target_type_id": 12,
+        "damage_factor": 50
+      },
+      {
+        "id": 229,
+        "damage_type_id": 13,
+        "target_type_id": 13,
+        "damage_factor": 50
+      },
+      {
+        "id": 230,
+        "damage_type_id": 13,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 231,
+        "damage_type_id": 13,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 232,
+        "damage_type_id": 13,
+        "target_type_id": 16,
+        "damage_factor": 50
+      },
+      {
+        "id": 233,
+        "damage_type_id": 13,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 234,
+        "damage_type_id": 13,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 235,
+        "damage_type_id": 14,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 236,
+        "damage_type_id": 14,
+        "target_type_id": 2,
+        "damage_factor": 200
+      },
+      {
+        "id": 237,
+        "damage_type_id": 14,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 238,
+        "damage_type_id": 14,
+        "target_type_id": 4,
+        "damage_factor": 200
+      },
+      {
+        "id": 239,
+        "damage_type_id": 14,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 240,
+        "damage_type_id": 14,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 241,
+        "damage_type_id": 14,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 242,
+        "damage_type_id": 14,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 243,
+        "damage_type_id": 14,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 244,
+        "damage_type_id": 14,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 245,
+        "damage_type_id": 14,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 246,
+        "damage_type_id": 14,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 247,
+        "damage_type_id": 14,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 248,
+        "damage_type_id": 14,
+        "target_type_id": 14,
+        "damage_factor": 50
+      },
+      {
+        "id": 249,
+        "damage_type_id": 14,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 250,
+        "damage_type_id": 14,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 251,
+        "damage_type_id": 14,
+        "target_type_id": 17,
+        "damage_factor": 0
+      },
+      {
+        "id": 252,
+        "damage_type_id": 14,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 253,
+        "damage_type_id": 15,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 254,
+        "damage_type_id": 15,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 255,
+        "damage_type_id": 15,
+        "target_type_id": 3,
+        "damage_factor": 200
+      },
+      {
+        "id": 256,
+        "damage_type_id": 15,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 257,
+        "damage_type_id": 15,
+        "target_type_id": 5,
+        "damage_factor": 200
+      },
+      {
+        "id": 258,
+        "damage_type_id": 15,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 259,
+        "damage_type_id": 15,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 260,
+        "damage_type_id": 15,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 261,
+        "damage_type_id": 15,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 262,
+        "damage_type_id": 15,
+        "target_type_id": 10,
+        "damage_factor": 50
+      },
+      {
+        "id": 263,
+        "damage_type_id": 15,
+        "target_type_id": 11,
+        "damage_factor": 50
+      },
+      {
+        "id": 264,
+        "damage_type_id": 15,
+        "target_type_id": 12,
+        "damage_factor": 200
+      },
+      {
+        "id": 265,
+        "damage_type_id": 15,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 266,
+        "damage_type_id": 15,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 267,
+        "damage_type_id": 15,
+        "target_type_id": 15,
+        "damage_factor": 50
+      },
+      {
+        "id": 268,
+        "damage_type_id": 15,
+        "target_type_id": 16,
+        "damage_factor": 200
+      },
+      {
+        "id": 269,
+        "damage_type_id": 15,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 270,
+        "damage_type_id": 15,
+        "target_type_id": 18,
+        "damage_factor": 100
+      },
+      {
+        "id": 271,
+        "damage_type_id": 16,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 272,
+        "damage_type_id": 16,
+        "target_type_id": 2,
+        "damage_factor": 100
+      },
+      {
+        "id": 273,
+        "damage_type_id": 16,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 274,
+        "damage_type_id": 16,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 275,
+        "damage_type_id": 16,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 276,
+        "damage_type_id": 16,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 277,
+        "damage_type_id": 16,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 278,
+        "damage_type_id": 16,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 279,
+        "damage_type_id": 16,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 280,
+        "damage_type_id": 16,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 281,
+        "damage_type_id": 16,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 282,
+        "damage_type_id": 16,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 283,
+        "damage_type_id": 16,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 284,
+        "damage_type_id": 16,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 285,
+        "damage_type_id": 16,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 286,
+        "damage_type_id": 16,
+        "target_type_id": 16,
+        "damage_factor": 200
+      },
+      {
+        "id": 287,
+        "damage_type_id": 16,
+        "target_type_id": 17,
+        "damage_factor": 100
+      },
+      {
+        "id": 288,
+        "damage_type_id": 16,
+        "target_type_id": 18,
+        "damage_factor": 0
+      },
+      {
+        "id": 289,
+        "damage_type_id": 17,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 290,
+        "damage_type_id": 17,
+        "target_type_id": 2,
+        "damage_factor": 50
+      },
+      {
+        "id": 291,
+        "damage_type_id": 17,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 292,
+        "damage_type_id": 17,
+        "target_type_id": 4,
+        "damage_factor": 100
+      },
+      {
+        "id": 293,
+        "damage_type_id": 17,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 294,
+        "damage_type_id": 17,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 295,
+        "damage_type_id": 17,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 296,
+        "damage_type_id": 17,
+        "target_type_id": 8,
+        "damage_factor": 200
+      },
+      {
+        "id": 297,
+        "damage_type_id": 17,
+        "target_type_id": 9,
+        "damage_factor": 100
+      },
+      {
+        "id": 298,
+        "damage_type_id": 17,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 299,
+        "damage_type_id": 17,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 300,
+        "damage_type_id": 17,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 301,
+        "damage_type_id": 17,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 302,
+        "damage_type_id": 17,
+        "target_type_id": 14,
+        "damage_factor": 200
+      },
+      {
+        "id": 303,
+        "damage_type_id": 17,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 304,
+        "damage_type_id": 17,
+        "target_type_id": 16,
+        "damage_factor": 100
+      },
+      {
+        "id": 305,
+        "damage_type_id": 17,
+        "target_type_id": 17,
+        "damage_factor": 50
+      },
+      {
+        "id": 306,
+        "damage_type_id": 17,
+        "target_type_id": 18,
+        "damage_factor": 50
+      },
+      {
+        "id": 307,
+        "damage_type_id": 18,
+        "target_type_id": 1,
+        "damage_factor": 100
+      },
+      {
+        "id": 308,
+        "damage_type_id": 18,
+        "target_type_id": 2,
+        "damage_factor": 200
+      },
+      {
+        "id": 309,
+        "damage_type_id": 18,
+        "target_type_id": 3,
+        "damage_factor": 100
+      },
+      {
+        "id": 310,
+        "damage_type_id": 18,
+        "target_type_id": 4,
+        "damage_factor": 50
+      },
+      {
+        "id": 311,
+        "damage_type_id": 18,
+        "target_type_id": 5,
+        "damage_factor": 100
+      },
+      {
+        "id": 312,
+        "damage_type_id": 18,
+        "target_type_id": 6,
+        "damage_factor": 100
+      },
+      {
+        "id": 313,
+        "damage_type_id": 18,
+        "target_type_id": 7,
+        "damage_factor": 100
+      },
+      {
+        "id": 314,
+        "damage_type_id": 18,
+        "target_type_id": 8,
+        "damage_factor": 100
+      },
+      {
+        "id": 315,
+        "damage_type_id": 18,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 316,
+        "damage_type_id": 18,
+        "target_type_id": 10,
+        "damage_factor": 50
+      },
+      {
+        "id": 317,
+        "damage_type_id": 18,
+        "target_type_id": 11,
+        "damage_factor": 100
+      },
+      {
+        "id": 318,
+        "damage_type_id": 18,
+        "target_type_id": 12,
+        "damage_factor": 100
+      },
+      {
+        "id": 319,
+        "damage_type_id": 18,
+        "target_type_id": 13,
+        "damage_factor": 100
+      },
+      {
+        "id": 320,
+        "damage_type_id": 18,
+        "target_type_id": 14,
+        "damage_factor": 100
+      },
+      {
+        "id": 321,
+        "damage_type_id": 18,
+        "target_type_id": 15,
+        "damage_factor": 100
+      },
+      {
+        "id": 322,
+        "damage_type_id": 18,
+        "target_type_id": 16,
+        "damage_factor": 200
+      },
+      {
+        "id": 323,
+        "damage_type_id": 18,
+        "target_type_id": 17,
+        "damage_factor": 200
+      },
+      {
+        "id": 324,
+        "damage_type_id": 18,
+        "target_type_id": 18,
+        "damage_factor": 100
+      }
+    ],
+    "pokemon_v2_typeefficacypast": [
+      {
+        "id": 1,
+        "generation_id": 1,
+        "damage_type_id": 4,
+        "target_type_id": 7,
+        "damage_factor": 200
+      },
+      {
+        "id": 2,
+        "generation_id": 1,
+        "damage_type_id": 7,
+        "target_type_id": 4,
+        "damage_factor": 200
+      },
+      {
+        "id": 3,
+        "generation_id": 1,
+        "damage_type_id": 8,
+        "target_type_id": 14,
+        "damage_factor": 0
+      },
+      {
+        "id": 4,
+        "generation_id": 1,
+        "damage_type_id": 15,
+        "target_type_id": 10,
+        "damage_factor": 100
+      },
+      {
+        "id": 5,
+        "generation_id": 5,
+        "damage_type_id": 8,
+        "target_type_id": 9,
+        "damage_factor": 50
+      },
+      {
+        "id": 6,
+        "generation_id": 5,
+        "damage_type_id": 17,
+        "target_type_id": 9,
+        "damage_factor": 50
+      }
+    ],
+    "pokemon_v2_typegameindex": [
+      {
+        "id": 1,
+        "type_id": 1,
+        "generation_id": 1,
+        "game_index": 0
+      },
+      {
+        "id": 2,
+        "type_id": 1,
+        "generation_id": 2,
+        "game_index": 0
+      },
+      {
+        "id": 3,
+        "type_id": 1,
+        "generation_id": 3,
+        "game_index": 0
+      },
+      {
+        "id": 4,
+        "type_id": 1,
+        "generation_id": 4,
+        "game_index": 0
+      },
+      {
+        "id": 5,
+        "type_id": 1,
+        "generation_id": 5,
+        "game_index": 0
+      },
+      {
+        "id": 6,
+        "type_id": 1,
+        "generation_id": 6,
+        "game_index": 0
+      },
+      {
+        "id": 7,
+        "type_id": 2,
+        "generation_id": 1,
+        "game_index": 1
+      },
+      {
+        "id": 8,
+        "type_id": 2,
+        "generation_id": 2,
+        "game_index": 1
+      },
+      {
+        "id": 9,
+        "type_id": 2,
+        "generation_id": 3,
+        "game_index": 1
+      },
+      {
+        "id": 10,
+        "type_id": 2,
+        "generation_id": 4,
+        "game_index": 1
+      },
+      {
+        "id": 11,
+        "type_id": 2,
+        "generation_id": 5,
+        "game_index": 1
+      },
+      {
+        "id": 12,
+        "type_id": 2,
+        "generation_id": 6,
+        "game_index": 1
+      },
+      {
+        "id": 13,
+        "type_id": 3,
+        "generation_id": 1,
+        "game_index": 2
+      },
+      {
+        "id": 14,
+        "type_id": 3,
+        "generation_id": 2,
+        "game_index": 2
+      },
+      {
+        "id": 15,
+        "type_id": 3,
+        "generation_id": 3,
+        "game_index": 2
+      },
+      {
+        "id": 16,
+        "type_id": 3,
+        "generation_id": 4,
+        "game_index": 2
+      },
+      {
+        "id": 17,
+        "type_id": 3,
+        "generation_id": 5,
+        "game_index": 2
+      },
+      {
+        "id": 18,
+        "type_id": 3,
+        "generation_id": 6,
+        "game_index": 2
+      },
+      {
+        "id": 19,
+        "type_id": 4,
+        "generation_id": 1,
+        "game_index": 3
+      },
+      {
+        "id": 20,
+        "type_id": 4,
+        "generation_id": 2,
+        "game_index": 3
+      },
+      {
+        "id": 21,
+        "type_id": 4,
+        "generation_id": 3,
+        "game_index": 3
+      },
+      {
+        "id": 22,
+        "type_id": 4,
+        "generation_id": 4,
+        "game_index": 3
+      },
+      {
+        "id": 23,
+        "type_id": 4,
+        "generation_id": 5,
+        "game_index": 3
+      },
+      {
+        "id": 24,
+        "type_id": 4,
+        "generation_id": 6,
+        "game_index": 3
+      },
+      {
+        "id": 25,
+        "type_id": 5,
+        "generation_id": 1,
+        "game_index": 4
+      },
+      {
+        "id": 26,
+        "type_id": 5,
+        "generation_id": 2,
+        "game_index": 4
+      },
+      {
+        "id": 27,
+        "type_id": 5,
+        "generation_id": 3,
+        "game_index": 4
+      },
+      {
+        "id": 28,
+        "type_id": 5,
+        "generation_id": 4,
+        "game_index": 4
+      },
+      {
+        "id": 29,
+        "type_id": 5,
+        "generation_id": 5,
+        "game_index": 4
+      },
+      {
+        "id": 30,
+        "type_id": 5,
+        "generation_id": 6,
+        "game_index": 4
+      },
+      {
+        "id": 31,
+        "type_id": 6,
+        "generation_id": 1,
+        "game_index": 5
+      },
+      {
+        "id": 32,
+        "type_id": 6,
+        "generation_id": 2,
+        "game_index": 5
+      },
+      {
+        "id": 33,
+        "type_id": 6,
+        "generation_id": 3,
+        "game_index": 5
+      },
+      {
+        "id": 34,
+        "type_id": 6,
+        "generation_id": 4,
+        "game_index": 5
+      },
+      {
+        "id": 35,
+        "type_id": 6,
+        "generation_id": 5,
+        "game_index": 5
+      },
+      {
+        "id": 36,
+        "type_id": 6,
+        "generation_id": 6,
+        "game_index": 5
+      },
+      {
+        "id": 37,
+        "type_id": 7,
+        "generation_id": 1,
+        "game_index": 7
+      },
+      {
+        "id": 38,
+        "type_id": 7,
+        "generation_id": 2,
+        "game_index": 7
+      },
+      {
+        "id": 39,
+        "type_id": 7,
+        "generation_id": 3,
+        "game_index": 6
+      },
+      {
+        "id": 40,
+        "type_id": 7,
+        "generation_id": 4,
+        "game_index": 6
+      },
+      {
+        "id": 41,
+        "type_id": 7,
+        "generation_id": 5,
+        "game_index": 6
+      },
+      {
+        "id": 42,
+        "type_id": 7,
+        "generation_id": 6,
+        "game_index": 6
+      },
+      {
+        "id": 43,
+        "type_id": 8,
+        "generation_id": 1,
+        "game_index": 8
+      },
+      {
+        "id": 44,
+        "type_id": 8,
+        "generation_id": 2,
+        "game_index": 8
+      },
+      {
+        "id": 45,
+        "type_id": 8,
+        "generation_id": 3,
+        "game_index": 7
+      },
+      {
+        "id": 46,
+        "type_id": 8,
+        "generation_id": 4,
+        "game_index": 7
+      },
+      {
+        "id": 47,
+        "type_id": 8,
+        "generation_id": 5,
+        "game_index": 7
+      },
+      {
+        "id": 48,
+        "type_id": 8,
+        "generation_id": 6,
+        "game_index": 7
+      },
+      {
+        "id": 49,
+        "type_id": 9,
+        "generation_id": 2,
+        "game_index": 9
+      },
+      {
+        "id": 50,
+        "type_id": 9,
+        "generation_id": 3,
+        "game_index": 8
+      },
+      {
+        "id": 51,
+        "type_id": 9,
+        "generation_id": 4,
+        "game_index": 8
+      },
+      {
+        "id": 52,
+        "type_id": 9,
+        "generation_id": 5,
+        "game_index": 8
+      },
+      {
+        "id": 53,
+        "type_id": 9,
+        "generation_id": 6,
+        "game_index": 8
+      },
+      {
+        "id": 54,
+        "type_id": 10,
+        "generation_id": 1,
+        "game_index": 20
+      },
+      {
+        "id": 55,
+        "type_id": 10,
+        "generation_id": 2,
+        "game_index": 20
+      },
+      {
+        "id": 56,
+        "type_id": 10,
+        "generation_id": 3,
+        "game_index": 10
+      },
+      {
+        "id": 57,
+        "type_id": 10,
+        "generation_id": 4,
+        "game_index": 10
+      },
+      {
+        "id": 58,
+        "type_id": 10,
+        "generation_id": 5,
+        "game_index": 9
+      },
+      {
+        "id": 59,
+        "type_id": 10,
+        "generation_id": 6,
+        "game_index": 9
+      },
+      {
+        "id": 60,
+        "type_id": 11,
+        "generation_id": 1,
+        "game_index": 21
+      },
+      {
+        "id": 61,
+        "type_id": 11,
+        "generation_id": 2,
+        "game_index": 21
+      },
+      {
+        "id": 62,
+        "type_id": 11,
+        "generation_id": 3,
+        "game_index": 11
+      },
+      {
+        "id": 63,
+        "type_id": 11,
+        "generation_id": 4,
+        "game_index": 11
+      },
+      {
+        "id": 64,
+        "type_id": 11,
+        "generation_id": 5,
+        "game_index": 10
+      },
+      {
+        "id": 65,
+        "type_id": 11,
+        "generation_id": 6,
+        "game_index": 10
+      },
+      {
+        "id": 66,
+        "type_id": 12,
+        "generation_id": 1,
+        "game_index": 22
+      },
+      {
+        "id": 67,
+        "type_id": 12,
+        "generation_id": 2,
+        "game_index": 22
+      },
+      {
+        "id": 68,
+        "type_id": 12,
+        "generation_id": 3,
+        "game_index": 12
+      },
+      {
+        "id": 69,
+        "type_id": 12,
+        "generation_id": 4,
+        "game_index": 12
+      },
+      {
+        "id": 70,
+        "type_id": 12,
+        "generation_id": 5,
+        "game_index": 11
+      },
+      {
+        "id": 71,
+        "type_id": 12,
+        "generation_id": 6,
+        "game_index": 11
+      },
+      {
+        "id": 72,
+        "type_id": 13,
+        "generation_id": 1,
+        "game_index": 23
+      },
+      {
+        "id": 73,
+        "type_id": 13,
+        "generation_id": 2,
+        "game_index": 23
+      },
+      {
+        "id": 74,
+        "type_id": 13,
+        "generation_id": 3,
+        "game_index": 13
+      },
+      {
+        "id": 75,
+        "type_id": 13,
+        "generation_id": 4,
+        "game_index": 13
+      },
+      {
+        "id": 76,
+        "type_id": 13,
+        "generation_id": 5,
+        "game_index": 12
+      },
+      {
+        "id": 77,
+        "type_id": 13,
+        "generation_id": 6,
+        "game_index": 12
+      },
+      {
+        "id": 78,
+        "type_id": 14,
+        "generation_id": 1,
+        "game_index": 24
+      },
+      {
+        "id": 79,
+        "type_id": 14,
+        "generation_id": 2,
+        "game_index": 24
+      },
+      {
+        "id": 80,
+        "type_id": 14,
+        "generation_id": 3,
+        "game_index": 14
+      },
+      {
+        "id": 81,
+        "type_id": 14,
+        "generation_id": 4,
+        "game_index": 14
+      },
+      {
+        "id": 82,
+        "type_id": 14,
+        "generation_id": 5,
+        "game_index": 13
+      },
+      {
+        "id": 83,
+        "type_id": 14,
+        "generation_id": 6,
+        "game_index": 13
+      },
+      {
+        "id": 84,
+        "type_id": 15,
+        "generation_id": 1,
+        "game_index": 25
+      },
+      {
+        "id": 85,
+        "type_id": 15,
+        "generation_id": 2,
+        "game_index": 25
+      },
+      {
+        "id": 86,
+        "type_id": 15,
+        "generation_id": 3,
+        "game_index": 15
+      },
+      {
+        "id": 87,
+        "type_id": 15,
+        "generation_id": 4,
+        "game_index": 15
+      },
+      {
+        "id": 88,
+        "type_id": 15,
+        "generation_id": 5,
+        "game_index": 14
+      },
+      {
+        "id": 89,
+        "type_id": 15,
+        "generation_id": 6,
+        "game_index": 14
+      },
+      {
+        "id": 90,
+        "type_id": 16,
+        "generation_id": 1,
+        "game_index": 26
+      },
+      {
+        "id": 91,
+        "type_id": 16,
+        "generation_id": 2,
+        "game_index": 26
+      },
+      {
+        "id": 92,
+        "type_id": 16,
+        "generation_id": 3,
+        "game_index": 16
+      },
+      {
+        "id": 93,
+        "type_id": 16,
+        "generation_id": 4,
+        "game_index": 16
+      },
+      {
+        "id": 94,
+        "type_id": 16,
+        "generation_id": 5,
+        "game_index": 15
+      },
+      {
+        "id": 95,
+        "type_id": 16,
+        "generation_id": 6,
+        "game_index": 15
+      },
+      {
+        "id": 96,
+        "type_id": 17,
+        "generation_id": 2,
+        "game_index": 27
+      },
+      {
+        "id": 97,
+        "type_id": 17,
+        "generation_id": 3,
+        "game_index": 17
+      },
+      {
+        "id": 98,
+        "type_id": 17,
+        "generation_id": 4,
+        "game_index": 17
+      },
+      {
+        "id": 99,
+        "type_id": 17,
+        "generation_id": 5,
+        "game_index": 16
+      },
+      {
+        "id": 100,
+        "type_id": 17,
+        "generation_id": 6,
+        "game_index": 16
+      },
+      {
+        "id": 101,
+        "type_id": 18,
+        "generation_id": 6,
+        "game_index": 17
+      },
+      {
+        "id": 102,
+        "type_id": 10001,
+        "generation_id": 2,
+        "game_index": 19
+      },
+      {
+        "id": 103,
+        "type_id": 10001,
+        "generation_id": 3,
+        "game_index": 9
+      },
+      {
+        "id": 104,
+        "type_id": 10001,
+        "generation_id": 4,
+        "game_index": 9
+      }
+    ],
+    "pokemon_v2_typename": [
+      {
+        "id": 1,
+        "type_id": 1,
+        "name": "ノーマル"
+      },
+      {
+        "id": 2,
+        "type_id": 1,
+        "name": "노말"
+      },
+      {
+        "id": 3,
+        "type_id": 1,
+        "name": "一般"
+      },
+      {
+        "id": 4,
+        "type_id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 5,
+        "type_id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 6,
+        "type_id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 7,
+        "type_id": 1,
+        "name": "Normale"
+      },
+      {
+        "id": 8,
+        "type_id": 1,
+        "name": "Normal"
+      },
+      {
+        "id": 9,
+        "type_id": 1,
+        "name": "ノーマル"
+      },
+      {
+        "id": 10,
+        "type_id": 1,
+        "name": "一般"
+      },
+      {
+        "id": 11,
+        "type_id": 2,
+        "name": "かくとう"
+      },
+      {
+        "id": 12,
+        "type_id": 2,
+        "name": "격투"
+      },
+      {
+        "id": 13,
+        "type_id": 2,
+        "name": "格鬥"
+      },
+      {
+        "id": 14,
+        "type_id": 2,
+        "name": "Combat"
+      },
+      {
+        "id": 15,
+        "type_id": 2,
+        "name": "Kampf"
+      },
+      {
+        "id": 16,
+        "type_id": 2,
+        "name": "Lucha"
+      },
+      {
+        "id": 17,
+        "type_id": 2,
+        "name": "Lotta"
+      },
+      {
+        "id": 18,
+        "type_id": 2,
+        "name": "Fighting"
+      },
+      {
+        "id": 19,
+        "type_id": 2,
+        "name": "かくとう"
+      },
+      {
+        "id": 20,
+        "type_id": 2,
+        "name": "格斗"
+      },
+      {
+        "id": 21,
+        "type_id": 3,
+        "name": "ひこう"
+      },
+      {
+        "id": 22,
+        "type_id": 3,
+        "name": "비행"
+      },
+      {
+        "id": 23,
+        "type_id": 3,
+        "name": "飛行"
+      },
+      {
+        "id": 24,
+        "type_id": 3,
+        "name": "Vol"
+      },
+      {
+        "id": 25,
+        "type_id": 3,
+        "name": "Flug"
+      },
+      {
+        "id": 26,
+        "type_id": 3,
+        "name": "Volador"
+      },
+      {
+        "id": 27,
+        "type_id": 3,
+        "name": "Volante"
+      },
+      {
+        "id": 28,
+        "type_id": 3,
+        "name": "Flying"
+      },
+      {
+        "id": 29,
+        "type_id": 3,
+        "name": "ひこう"
+      },
+      {
+        "id": 30,
+        "type_id": 3,
+        "name": "飞行"
+      },
+      {
+        "id": 31,
+        "type_id": 4,
+        "name": "どく"
+      },
+      {
+        "id": 32,
+        "type_id": 4,
+        "name": "독"
+      },
+      {
+        "id": 33,
+        "type_id": 4,
+        "name": "毒"
+      },
+      {
+        "id": 34,
+        "type_id": 4,
+        "name": "Poison"
+      },
+      {
+        "id": 35,
+        "type_id": 4,
+        "name": "Gift"
+      },
+      {
+        "id": 36,
+        "type_id": 4,
+        "name": "Veneno"
+      },
+      {
+        "id": 37,
+        "type_id": 4,
+        "name": "Veleno"
+      },
+      {
+        "id": 38,
+        "type_id": 4,
+        "name": "Poison"
+      },
+      {
+        "id": 39,
+        "type_id": 4,
+        "name": "どく"
+      },
+      {
+        "id": 40,
+        "type_id": 4,
+        "name": "毒"
+      },
+      {
+        "id": 41,
+        "type_id": 5,
+        "name": "じめん"
+      },
+      {
+        "id": 42,
+        "type_id": 5,
+        "name": "땅"
+      },
+      {
+        "id": 43,
+        "type_id": 5,
+        "name": "地面"
+      },
+      {
+        "id": 44,
+        "type_id": 5,
+        "name": "Sol"
+      },
+      {
+        "id": 45,
+        "type_id": 5,
+        "name": "Boden"
+      },
+      {
+        "id": 46,
+        "type_id": 5,
+        "name": "Tierra"
+      },
+      {
+        "id": 47,
+        "type_id": 5,
+        "name": "Terra"
+      },
+      {
+        "id": 48,
+        "type_id": 5,
+        "name": "Ground"
+      },
+      {
+        "id": 49,
+        "type_id": 5,
+        "name": "じめん"
+      },
+      {
+        "id": 50,
+        "type_id": 5,
+        "name": "地面"
+      },
+      {
+        "id": 51,
+        "type_id": 6,
+        "name": "いわ"
+      },
+      {
+        "id": 52,
+        "type_id": 6,
+        "name": "바위"
+      },
+      {
+        "id": 53,
+        "type_id": 6,
+        "name": "岩石"
+      },
+      {
+        "id": 54,
+        "type_id": 6,
+        "name": "Roche"
+      },
+      {
+        "id": 55,
+        "type_id": 6,
+        "name": "Gestein"
+      },
+      {
+        "id": 56,
+        "type_id": 6,
+        "name": "Roca"
+      },
+      {
+        "id": 57,
+        "type_id": 6,
+        "name": "Roccia"
+      },
+      {
+        "id": 58,
+        "type_id": 6,
+        "name": "Rock"
+      },
+      {
+        "id": 59,
+        "type_id": 6,
+        "name": "いわ"
+      },
+      {
+        "id": 60,
+        "type_id": 6,
+        "name": "岩石"
+      },
+      {
+        "id": 61,
+        "type_id": 7,
+        "name": "むし"
+      },
+      {
+        "id": 62,
+        "type_id": 7,
+        "name": "벌레"
+      },
+      {
+        "id": 63,
+        "type_id": 7,
+        "name": "蟲"
+      },
+      {
+        "id": 64,
+        "type_id": 7,
+        "name": "Insecte"
+      },
+      {
+        "id": 65,
+        "type_id": 7,
+        "name": "Käfer"
+      },
+      {
+        "id": 66,
+        "type_id": 7,
+        "name": "Bicho"
+      },
+      {
+        "id": 67,
+        "type_id": 7,
+        "name": "Coleottero"
+      },
+      {
+        "id": 68,
+        "type_id": 7,
+        "name": "Bug"
+      },
+      {
+        "id": 69,
+        "type_id": 7,
+        "name": "むし"
+      },
+      {
+        "id": 70,
+        "type_id": 7,
+        "name": "虫"
+      },
+      {
+        "id": 71,
+        "type_id": 8,
+        "name": "ゴースト"
+      },
+      {
+        "id": 72,
+        "type_id": 8,
+        "name": "고스트"
+      },
+      {
+        "id": 73,
+        "type_id": 8,
+        "name": "幽靈"
+      },
+      {
+        "id": 74,
+        "type_id": 8,
+        "name": "Spectre"
+      },
+      {
+        "id": 75,
+        "type_id": 8,
+        "name": "Geist"
+      },
+      {
+        "id": 76,
+        "type_id": 8,
+        "name": "Fantasma"
+      },
+      {
+        "id": 77,
+        "type_id": 8,
+        "name": "Spettro"
+      },
+      {
+        "id": 78,
+        "type_id": 8,
+        "name": "Ghost"
+      },
+      {
+        "id": 79,
+        "type_id": 8,
+        "name": "ゴースト"
+      },
+      {
+        "id": 80,
+        "type_id": 8,
+        "name": "幽灵"
+      },
+      {
+        "id": 81,
+        "type_id": 9,
+        "name": "はがね"
+      },
+      {
+        "id": 82,
+        "type_id": 9,
+        "name": "강철"
+      },
+      {
+        "id": 83,
+        "type_id": 9,
+        "name": "鋼"
+      },
+      {
+        "id": 84,
+        "type_id": 9,
+        "name": "Acier"
+      },
+      {
+        "id": 85,
+        "type_id": 9,
+        "name": "Stahl"
+      },
+      {
+        "id": 86,
+        "type_id": 9,
+        "name": "Acero"
+      },
+      {
+        "id": 87,
+        "type_id": 9,
+        "name": "Acciaio"
+      },
+      {
+        "id": 88,
+        "type_id": 9,
+        "name": "Steel"
+      },
+      {
+        "id": 89,
+        "type_id": 9,
+        "name": "はがね"
+      },
+      {
+        "id": 90,
+        "type_id": 9,
+        "name": "钢"
+      },
+      {
+        "id": 91,
+        "type_id": 10,
+        "name": "ほのお"
+      },
+      {
+        "id": 92,
+        "type_id": 10,
+        "name": "불꽃"
+      },
+      {
+        "id": 93,
+        "type_id": 10,
+        "name": "火"
+      },
+      {
+        "id": 94,
+        "type_id": 10,
+        "name": "Feu"
+      },
+      {
+        "id": 95,
+        "type_id": 10,
+        "name": "Feuer"
+      },
+      {
+        "id": 96,
+        "type_id": 10,
+        "name": "Fuego"
+      },
+      {
+        "id": 97,
+        "type_id": 10,
+        "name": "Fuoco"
+      },
+      {
+        "id": 98,
+        "type_id": 10,
+        "name": "Fire"
+      },
+      {
+        "id": 99,
+        "type_id": 10,
+        "name": "ほのお"
+      },
+      {
+        "id": 100,
+        "type_id": 10,
+        "name": "火"
+      },
+      {
+        "id": 101,
+        "type_id": 11,
+        "name": "みず"
+      },
+      {
+        "id": 102,
+        "type_id": 11,
+        "name": "물"
+      },
+      {
+        "id": 103,
+        "type_id": 11,
+        "name": "水"
+      },
+      {
+        "id": 104,
+        "type_id": 11,
+        "name": "Eau"
+      },
+      {
+        "id": 105,
+        "type_id": 11,
+        "name": "Wasser"
+      },
+      {
+        "id": 106,
+        "type_id": 11,
+        "name": "Agua"
+      },
+      {
+        "id": 107,
+        "type_id": 11,
+        "name": "Acqua"
+      },
+      {
+        "id": 108,
+        "type_id": 11,
+        "name": "Water"
+      },
+      {
+        "id": 109,
+        "type_id": 11,
+        "name": "みず"
+      },
+      {
+        "id": 110,
+        "type_id": 11,
+        "name": "水"
+      },
+      {
+        "id": 111,
+        "type_id": 12,
+        "name": "くさ"
+      },
+      {
+        "id": 112,
+        "type_id": 12,
+        "name": "풀"
+      },
+      {
+        "id": 113,
+        "type_id": 12,
+        "name": "草"
+      },
+      {
+        "id": 114,
+        "type_id": 12,
+        "name": "Plante"
+      },
+      {
+        "id": 115,
+        "type_id": 12,
+        "name": "Pflanze"
+      },
+      {
+        "id": 116,
+        "type_id": 12,
+        "name": "Planta"
+      },
+      {
+        "id": 117,
+        "type_id": 12,
+        "name": "Erba"
+      },
+      {
+        "id": 118,
+        "type_id": 12,
+        "name": "Grass"
+      },
+      {
+        "id": 119,
+        "type_id": 12,
+        "name": "くさ"
+      },
+      {
+        "id": 120,
+        "type_id": 12,
+        "name": "草"
+      },
+      {
+        "id": 121,
+        "type_id": 13,
+        "name": "でんき"
+      },
+      {
+        "id": 122,
+        "type_id": 13,
+        "name": "전기"
+      },
+      {
+        "id": 123,
+        "type_id": 13,
+        "name": "電"
+      },
+      {
+        "id": 124,
+        "type_id": 13,
+        "name": "Électrik"
+      },
+      {
+        "id": 125,
+        "type_id": 13,
+        "name": "Elektro"
+      },
+      {
+        "id": 126,
+        "type_id": 13,
+        "name": "Eléctrico"
+      },
+      {
+        "id": 127,
+        "type_id": 13,
+        "name": "Elettro"
+      },
+      {
+        "id": 128,
+        "type_id": 13,
+        "name": "Electric"
+      },
+      {
+        "id": 129,
+        "type_id": 13,
+        "name": "でんき"
+      },
+      {
+        "id": 130,
+        "type_id": 13,
+        "name": "电"
+      },
+      {
+        "id": 131,
+        "type_id": 14,
+        "name": "エスパー"
+      },
+      {
+        "id": 132,
+        "type_id": 14,
+        "name": "에스퍼"
+      },
+      {
+        "id": 133,
+        "type_id": 14,
+        "name": "超能力"
+      },
+      {
+        "id": 134,
+        "type_id": 14,
+        "name": "Psy"
+      },
+      {
+        "id": 135,
+        "type_id": 14,
+        "name": "Psycho"
+      },
+      {
+        "id": 136,
+        "type_id": 14,
+        "name": "Psíquico"
+      },
+      {
+        "id": 137,
+        "type_id": 14,
+        "name": "Psico"
+      },
+      {
+        "id": 138,
+        "type_id": 14,
+        "name": "Psychic"
+      },
+      {
+        "id": 139,
+        "type_id": 14,
+        "name": "エスパー"
+      },
+      {
+        "id": 140,
+        "type_id": 14,
+        "name": "超能力"
+      },
+      {
+        "id": 141,
+        "type_id": 15,
+        "name": "こおり"
+      },
+      {
+        "id": 142,
+        "type_id": 15,
+        "name": "얼음"
+      },
+      {
+        "id": 143,
+        "type_id": 15,
+        "name": "冰"
+      },
+      {
+        "id": 144,
+        "type_id": 15,
+        "name": "Glace"
+      },
+      {
+        "id": 145,
+        "type_id": 15,
+        "name": "Eis"
+      },
+      {
+        "id": 146,
+        "type_id": 15,
+        "name": "Hielo"
+      },
+      {
+        "id": 147,
+        "type_id": 15,
+        "name": "Ghiaccio"
+      },
+      {
+        "id": 148,
+        "type_id": 15,
+        "name": "Ice"
+      },
+      {
+        "id": 149,
+        "type_id": 15,
+        "name": "こおり"
+      },
+      {
+        "id": 150,
+        "type_id": 15,
+        "name": "冰"
+      },
+      {
+        "id": 151,
+        "type_id": 16,
+        "name": "ドラゴン"
+      },
+      {
+        "id": 152,
+        "type_id": 16,
+        "name": "드래곤"
+      },
+      {
+        "id": 153,
+        "type_id": 16,
+        "name": "龍"
+      },
+      {
+        "id": 154,
+        "type_id": 16,
+        "name": "Dragon"
+      },
+      {
+        "id": 155,
+        "type_id": 16,
+        "name": "Drache"
+      },
+      {
+        "id": 156,
+        "type_id": 16,
+        "name": "Dragón"
+      },
+      {
+        "id": 157,
+        "type_id": 16,
+        "name": "Drago"
+      },
+      {
+        "id": 158,
+        "type_id": 16,
+        "name": "Dragon"
+      },
+      {
+        "id": 159,
+        "type_id": 16,
+        "name": "ドラゴン"
+      },
+      {
+        "id": 160,
+        "type_id": 16,
+        "name": "龙"
+      },
+      {
+        "id": 161,
+        "type_id": 17,
+        "name": "あく"
+      },
+      {
+        "id": 162,
+        "type_id": 17,
+        "name": "악"
+      },
+      {
+        "id": 163,
+        "type_id": 17,
+        "name": "惡"
+      },
+      {
+        "id": 164,
+        "type_id": 17,
+        "name": "Ténèbres"
+      },
+      {
+        "id": 165,
+        "type_id": 17,
+        "name": "Unlicht"
+      },
+      {
+        "id": 166,
+        "type_id": 17,
+        "name": "Siniestro"
+      },
+      {
+        "id": 167,
+        "type_id": 17,
+        "name": "Buio"
+      },
+      {
+        "id": 168,
+        "type_id": 17,
+        "name": "Dark"
+      },
+      {
+        "id": 169,
+        "type_id": 17,
+        "name": "あく"
+      },
+      {
+        "id": 170,
+        "type_id": 17,
+        "name": "恶"
+      },
+      {
+        "id": 171,
+        "type_id": 18,
+        "name": "フェアリー"
+      },
+      {
+        "id": 172,
+        "type_id": 18,
+        "name": "페어리"
+      },
+      {
+        "id": 173,
+        "type_id": 18,
+        "name": "妖精"
+      },
+      {
+        "id": 174,
+        "type_id": 18,
+        "name": "Fée"
+      },
+      {
+        "id": 175,
+        "type_id": 18,
+        "name": "Fee"
+      },
+      {
+        "id": 176,
+        "type_id": 18,
+        "name": "Hada"
+      },
+      {
+        "id": 177,
+        "type_id": 18,
+        "name": "Folletto"
+      },
+      {
+        "id": 178,
+        "type_id": 18,
+        "name": "Fairy"
+      },
+      {
+        "id": 179,
+        "type_id": 18,
+        "name": "フェアリー"
+      },
+      {
+        "id": 180,
+        "type_id": 18,
+        "name": "妖精"
+      },
+      {
+        "id": 181,
+        "type_id": 19,
+        "name": "ステラ"
+      },
+      {
+        "id": 182,
+        "type_id": 19,
+        "name": " Stella"
+      },
+      {
+        "id": 183,
+        "type_id": 19,
+        "name": " 스텔라"
+      },
+      {
+        "id": 184,
+        "type_id": 19,
+        "name": "星晶"
+      },
+      {
+        "id": 185,
+        "type_id": 19,
+        "name": "Stellaire"
+      },
+      {
+        "id": 186,
+        "type_id": 19,
+        "name": "Stellar"
+      },
+      {
+        "id": 187,
+        "type_id": 19,
+        "name": "Astral"
+      },
+      {
+        "id": 188,
+        "type_id": 19,
+        "name": "Astrale"
+      },
+      {
+        "id": 189,
+        "type_id": 19,
+        "name": "Stellar"
+      },
+      {
+        "id": 190,
+        "type_id": 19,
+        "name": "ステラ"
+      },
+      {
+        "id": 191,
+        "type_id": 10001,
+        "name": "？？？"
+      },
+      {
+        "id": 192,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 193,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 194,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 195,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 196,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 197,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 198,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 199,
+        "type_id": 10001,
+        "name": "？？？"
+      },
+      {
+        "id": 200,
+        "type_id": 10001,
+        "name": "???"
+      },
+      {
+        "id": 201,
+        "type_id": 10002,
+        "name": "ダーク"
+      },
+      {
+        "id": 202,
+        "type_id": 10002,
+        "name": "다크"
+      },
+      {
+        "id": 203,
+        "type_id": 10002,
+        "name": "暗"
+      },
+      {
+        "id": 204,
+        "type_id": 10002,
+        "name": "Obscur"
+      },
+      {
+        "id": 205,
+        "type_id": 10002,
+        "name": "Crypto"
+      },
+      {
+        "id": 206,
+        "type_id": 10002,
+        "name": "Ombra"
+      },
+      {
+        "id": 207,
+        "type_id": 10002,
+        "name": "Shadow"
+      },
+      {
+        "id": 208,
+        "type_id": 10002,
+        "name": "ダーク"
+      },
+      {
+        "id": 209,
+        "type_id": 10002,
+        "name": "暗"
+      }
+    ],
+    "pokemon_v2_version": [
+      {
+        "id": 1
+      },
+      {
+        "id": 2
+      },
+      {
+        "id": 3
+      },
+      {
+        "id": 4
+      },
+      {
+        "id": 5
+      },
+      {
+        "id": 6
+      },
+      {
+        "id": 7
+      },
+      {
+        "id": 8
+      },
+      {
+        "id": 9
+      },
+      {
+        "id": 10
+      },
+      {
+        "id": 11
+      },
+      {
+        "id": 12
+      },
+      {
+        "id": 13
+      },
+      {
+        "id": 14
+      },
+      {
+        "id": 15
+      },
+      {
+        "id": 16
+      },
+      {
+        "id": 17
+      },
+      {
+        "id": 18
+      },
+      {
+        "id": 19
+      },
+      {
+        "id": 20
+      },
+      {
+        "id": 21
+      },
+      {
+        "id": 22
+      },
+      {
+        "id": 23
+      },
+      {
+        "id": 24
+      },
+      {
+        "id": 25
+      },
+      {
+        "id": 26
+      },
+      {
+        "id": 27
+      },
+      {
+        "id": 28
+      },
+      {
+        "id": 29
+      },
+      {
+        "id": 30
+      },
+      {
+        "id": 31
+      },
+      {
+        "id": 32
+      },
+      {
+        "id": 33
+      },
+      {
+        "id": 34
+      },
+      {
+        "id": 35
+      },
+      {
+        "id": 36
+      },
+      {
+        "id": 37
+      },
+      {
+        "id": 38
+      },
+      {
+        "id": 39
+      },
+      {
+        "id": 40
+      },
+      {
+        "id": 41
+      },
+      {
+        "id": 42
+      },
+      {
+        "id": 43
+      }
+    ],
+    "pokemon_v2_versiongroup": [
+      {
+        "id": 1,
+        "generation_id": 1,
+        "name": "red-blue"
+      },
+      {
+        "id": 2,
+        "generation_id": 1,
+        "name": "yellow"
+      },
+      {
+        "id": 3,
+        "generation_id": 2,
+        "name": "gold-silver"
+      },
+      {
+        "id": 4,
+        "generation_id": 2,
+        "name": "crystal"
+      },
+      {
+        "id": 5,
+        "generation_id": 3,
+        "name": "ruby-sapphire"
+      },
+      {
+        "id": 6,
+        "generation_id": 3,
+        "name": "emerald"
+      },
+      {
+        "id": 7,
+        "generation_id": 3,
+        "name": "firered-leafgreen"
+      },
+      {
+        "id": 8,
+        "generation_id": 4,
+        "name": "diamond-pearl"
+      },
+      {
+        "id": 9,
+        "generation_id": 4,
+        "name": "platinum"
+      },
+      {
+        "id": 10,
+        "generation_id": 4,
+        "name": "heartgold-soulsilver"
+      },
+      {
+        "id": 11,
+        "generation_id": 5,
+        "name": "black-white"
+      },
+      {
+        "id": 12,
+        "generation_id": 3,
+        "name": "colosseum"
+      },
+      {
+        "id": 13,
+        "generation_id": 3,
+        "name": "xd"
+      },
+      {
+        "id": 14,
+        "generation_id": 5,
+        "name": "black-2-white-2"
+      },
+      {
+        "id": 15,
+        "generation_id": 6,
+        "name": "x-y"
+      },
+      {
+        "id": 16,
+        "generation_id": 6,
+        "name": "omega-ruby-alpha-sapphire"
+      },
+      {
+        "id": 17,
+        "generation_id": 7,
+        "name": "sun-moon"
+      },
+      {
+        "id": 18,
+        "generation_id": 7,
+        "name": "ultra-sun-ultra-moon"
+      },
+      {
+        "id": 19,
+        "generation_id": 7,
+        "name": "lets-go-pikachu-lets-go-eevee"
+      },
+      {
+        "id": 20,
+        "generation_id": 8,
+        "name": "sword-shield"
+      },
+      {
+        "id": 21,
+        "generation_id": 8,
+        "name": "the-isle-of-armor"
+      },
+      {
+        "id": 22,
+        "generation_id": 8,
+        "name": "the-crown-tundra"
+      },
+      {
+        "id": 23,
+        "generation_id": 8,
+        "name": "brilliant-diamond-and-shining-pearl"
+      },
+      {
+        "id": 24,
+        "generation_id": 8,
+        "name": "legends-arceus"
+      },
+      {
+        "id": 25,
+        "generation_id": 9,
+        "name": "scarlet-violet"
+      },
+      {
+        "id": 26,
+        "generation_id": 9,
+        "name": "the-teal-mask"
+      },
+      {
+        "id": 27,
+        "generation_id": 9,
+        "name": "the-indigo-disk"
+      }
+    ],
+    "pokemon_v2_versiongroupmovelearnmethod": [
+      {
+        "id": 1,
+        "version_group_id": 1,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 2,
+        "version_group_id": 1,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 3,
+        "version_group_id": 1,
+        "move_learn_method_id": 5
+      },
+      {
+        "id": 4,
+        "version_group_id": 2,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 5,
+        "version_group_id": 2,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 6,
+        "version_group_id": 2,
+        "move_learn_method_id": 5
+      },
+      {
+        "id": 7,
+        "version_group_id": 3,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 8,
+        "version_group_id": 3,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 9,
+        "version_group_id": 3,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 10,
+        "version_group_id": 4,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 11,
+        "version_group_id": 4,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 12,
+        "version_group_id": 4,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 13,
+        "version_group_id": 4,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 14,
+        "version_group_id": 5,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 15,
+        "version_group_id": 5,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 16,
+        "version_group_id": 5,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 17,
+        "version_group_id": 6,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 18,
+        "version_group_id": 6,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 19,
+        "version_group_id": 6,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 20,
+        "version_group_id": 6,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 21,
+        "version_group_id": 6,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 22,
+        "version_group_id": 7,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 23,
+        "version_group_id": 7,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 24,
+        "version_group_id": 7,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 25,
+        "version_group_id": 7,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 26,
+        "version_group_id": 8,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 27,
+        "version_group_id": 8,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 28,
+        "version_group_id": 8,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 29,
+        "version_group_id": 8,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 30,
+        "version_group_id": 8,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 31,
+        "version_group_id": 9,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 32,
+        "version_group_id": 9,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 33,
+        "version_group_id": 9,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 34,
+        "version_group_id": 9,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 35,
+        "version_group_id": 9,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 36,
+        "version_group_id": 9,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 37,
+        "version_group_id": 10,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 38,
+        "version_group_id": 10,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 39,
+        "version_group_id": 10,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 40,
+        "version_group_id": 10,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 41,
+        "version_group_id": 10,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 42,
+        "version_group_id": 10,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 43,
+        "version_group_id": 11,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 44,
+        "version_group_id": 11,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 45,
+        "version_group_id": 11,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 46,
+        "version_group_id": 11,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 47,
+        "version_group_id": 11,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 48,
+        "version_group_id": 11,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 49,
+        "version_group_id": 12,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 50,
+        "version_group_id": 12,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 51,
+        "version_group_id": 13,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 52,
+        "version_group_id": 13,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 53,
+        "version_group_id": 13,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 54,
+        "version_group_id": 14,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 55,
+        "version_group_id": 14,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 56,
+        "version_group_id": 14,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 57,
+        "version_group_id": 14,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 58,
+        "version_group_id": 14,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 59,
+        "version_group_id": 14,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 60,
+        "version_group_id": 15,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 61,
+        "version_group_id": 15,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 62,
+        "version_group_id": 15,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 63,
+        "version_group_id": 15,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 64,
+        "version_group_id": 15,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 65,
+        "version_group_id": 15,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 66,
+        "version_group_id": 16,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 67,
+        "version_group_id": 16,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 68,
+        "version_group_id": 16,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 69,
+        "version_group_id": 16,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 70,
+        "version_group_id": 16,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 71,
+        "version_group_id": 16,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 72,
+        "version_group_id": 17,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 73,
+        "version_group_id": 17,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 74,
+        "version_group_id": 17,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 75,
+        "version_group_id": 17,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 76,
+        "version_group_id": 17,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 77,
+        "version_group_id": 17,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 78,
+        "version_group_id": 17,
+        "move_learn_method_id": 11
+      },
+      {
+        "id": 79,
+        "version_group_id": 18,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 80,
+        "version_group_id": 18,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 81,
+        "version_group_id": 18,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 82,
+        "version_group_id": 18,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 83,
+        "version_group_id": 18,
+        "move_learn_method_id": 6
+      },
+      {
+        "id": 84,
+        "version_group_id": 18,
+        "move_learn_method_id": 10
+      },
+      {
+        "id": 85,
+        "version_group_id": 18,
+        "move_learn_method_id": 11
+      },
+      {
+        "id": 86,
+        "version_group_id": 19,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 87,
+        "version_group_id": 19,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 88,
+        "version_group_id": 19,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 89,
+        "version_group_id": 20,
+        "move_learn_method_id": 1
+      },
+      {
+        "id": 90,
+        "version_group_id": 20,
+        "move_learn_method_id": 2
+      },
+      {
+        "id": 91,
+        "version_group_id": 20,
+        "move_learn_method_id": 3
+      },
+      {
+        "id": 92,
+        "version_group_id": 20,
+        "move_learn_method_id": 4
+      },
+      {
+        "id": 93,
+        "version_group_id": 20,
+        "move_learn_method_id": 10
+      }
+    ],
+    "pokemon_v2_versiongroupregion": [
+      {
+        "id": 1,
+        "version_group_id": 1,
+        "region_id": 1
+      },
+      {
+        "id": 2,
+        "version_group_id": 2,
+        "region_id": 1
+      },
+      {
+        "id": 3,
+        "version_group_id": 3,
+        "region_id": 1
+      },
+      {
+        "id": 4,
+        "version_group_id": 3,
+        "region_id": 2
+      },
+      {
+        "id": 5,
+        "version_group_id": 4,
+        "region_id": 1
+      },
+      {
+        "id": 6,
+        "version_group_id": 4,
+        "region_id": 2
+      },
+      {
+        "id": 7,
+        "version_group_id": 5,
+        "region_id": 3
+      },
+      {
+        "id": 8,
+        "version_group_id": 6,
+        "region_id": 3
+      },
+      {
+        "id": 9,
+        "version_group_id": 7,
+        "region_id": 1
+      },
+      {
+        "id": 10,
+        "version_group_id": 8,
+        "region_id": 4
+      },
+      {
+        "id": 11,
+        "version_group_id": 9,
+        "region_id": 4
+      },
+      {
+        "id": 12,
+        "version_group_id": 10,
+        "region_id": 1
+      },
+      {
+        "id": 13,
+        "version_group_id": 10,
+        "region_id": 2
+      },
+      {
+        "id": 14,
+        "version_group_id": 11,
+        "region_id": 5
+      },
+      {
+        "id": 15,
+        "version_group_id": 14,
+        "region_id": 5
+      },
+      {
+        "id": 16,
+        "version_group_id": 15,
+        "region_id": 6
+      },
+      {
+        "id": 17,
+        "version_group_id": 16,
+        "region_id": 3
+      },
+      {
+        "id": 18,
+        "version_group_id": 17,
+        "region_id": 7
+      },
+      {
+        "id": 19,
+        "version_group_id": 18,
+        "region_id": 7
+      },
+      {
+        "id": 20,
+        "version_group_id": 19,
+        "region_id": 1
+      },
+      {
+        "id": 21,
+        "version_group_id": 20,
+        "region_id": 8
+      },
+      {
+        "id": 22,
+        "version_group_id": 21,
+        "region_id": 8
+      },
+      {
+        "id": 23,
+        "version_group_id": 22,
+        "region_id": 8
+      },
+      {
+        "id": 24,
+        "version_group_id": 23,
+        "region_id": 4
+      },
+      {
+        "id": 25,
+        "version_group_id": 24,
+        "region_id": 9
+      },
+      {
+        "id": 26,
+        "version_group_id": 25,
+        "region_id": 10
+      },
+      {
+        "id": 27,
+        "version_group_id": 26,
+        "region_id": 10
+      },
+      {
+        "id": 28,
+        "version_group_id": 27,
+        "region_id": 10
+      }
+    ],
+    "pokemon_v2_versionname": [
+      {
+        "id": 8,
+        "version_id": 1,
+        "name": "Red"
+      },
+      {
+        "id": 17,
+        "version_id": 2,
+        "name": "Blue"
+      },
+      {
+        "id": 26,
+        "version_id": 3,
+        "name": "Yellow"
+      },
+      {
+        "id": 35,
+        "version_id": 4,
+        "name": "Gold"
+      },
+      {
+        "id": 44,
+        "version_id": 5,
+        "name": "Silver"
+      },
+      {
+        "id": 53,
+        "version_id": 6,
+        "name": "Crystal"
+      },
+      {
+        "id": 62,
+        "version_id": 7,
+        "name": "Ruby"
+      },
+      {
+        "id": 71,
+        "version_id": 8,
+        "name": "Sapphire"
+      },
+      {
+        "id": 80,
+        "version_id": 9,
+        "name": "Emerald"
+      },
+      {
+        "id": 89,
+        "version_id": 10,
+        "name": "FireRed"
+      },
+      {
+        "id": 98,
+        "version_id": 11,
+        "name": "LeafGreen"
+      },
+      {
+        "id": 107,
+        "version_id": 12,
+        "name": "Diamond"
+      },
+      {
+        "id": 116,
+        "version_id": 13,
+        "name": "Pearl"
+      },
+      {
+        "id": 125,
+        "version_id": 14,
+        "name": "Platinum"
+      },
+      {
+        "id": 134,
+        "version_id": 15,
+        "name": "HeartGold"
+      },
+      {
+        "id": 143,
+        "version_id": 16,
+        "name": "SoulSilver"
+      },
+      {
+        "id": 152,
+        "version_id": 17,
+        "name": "Black"
+      },
+      {
+        "id": 161,
+        "version_id": 18,
+        "name": "White"
+      },
+      {
+        "id": 169,
+        "version_id": 19,
+        "name": "Colosseum"
+      },
+      {
+        "id": 176,
+        "version_id": 20,
+        "name": "XD"
+      },
+      {
+        "id": 184,
+        "version_id": 21,
+        "name": "Black 2"
+      },
+      {
+        "id": 193,
+        "version_id": 22,
+        "name": "White 2"
+      },
+      {
+        "id": 202,
+        "version_id": 23,
+        "name": "X"
+      },
+      {
+        "id": 211,
+        "version_id": 24,
+        "name": "Y"
+      },
+      {
+        "id": 220,
+        "version_id": 25,
+        "name": "Omega Ruby"
+      },
+      {
+        "id": 229,
+        "version_id": 26,
+        "name": "Alpha Sapphire"
+      },
+      {
+        "id": 238,
+        "version_id": 27,
+        "name": "Sun"
+      },
+      {
+        "id": 247,
+        "version_id": 28,
+        "name": "Moon"
+      },
+      {
+        "id": 256,
+        "version_id": 29,
+        "name": "Ultra Sun"
+      },
+      {
+        "id": 265,
+        "version_id": 30,
+        "name": "Ultra Moon"
+      },
+      {
+        "id": 274,
+        "version_id": 31,
+        "name": "Let's Go, Pikachu!"
+      },
+      {
+        "id": 283,
+        "version_id": 32,
+        "name": "Let's Go, Eevee!"
+      },
+      {
+        "id": 292,
+        "version_id": 33,
+        "name": "Sword"
+      },
+      {
+        "id": 301,
+        "version_id": 34,
+        "name": "Shield"
+      },
+      {
+        "id": 310,
+        "version_id": 35,
+        "name": "The Isle of Armor"
+      },
+      {
+        "id": 319,
+        "version_id": 36,
+        "name": "The Crown Tundra"
+      },
+      {
+        "id": 328,
+        "version_id": 37,
+        "name": "Brilliant Diamond"
+      },
+      {
+        "id": 337,
+        "version_id": 38,
+        "name": "Shining Pearl"
+      },
+      {
+        "id": 346,
+        "version_id": 39,
+        "name": "Legends: Arceus"
+      },
+      {
+        "id": 355,
+        "version_id": 40,
+        "name": "Scarlet"
+      },
+      {
+        "id": 364,
+        "version_id": 41,
+        "name": "Violet"
+      },
+      {
+        "id": 371,
+        "version_id": 42,
+        "name": "The teal mask"
+      },
+      {
+        "id": 378,
+        "version_id": 43,
+        "name": "The indigo disk"
+      }
+    ]
+  }
+}

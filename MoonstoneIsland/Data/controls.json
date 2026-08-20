@@ -1,0 +1,41 @@
+{
+"_comment":"E or Space - confirm, Esc - cancel menu or dialog, R - special action, Enter - pickup item, ` - hide ui, I/C/M/J/L - open menu tabs. Gamepad: A=0, B=1, X=2, Y=3, LShoulder=4, LT=6, RShoulder=5, RT=7, LStick button=10, RStick button=11",
+
+
+"Esc": {"Keyboard": 27, "Gamepad": 1},
+"Shift": {"Keyboard": 16, "Gamepad": 7},
+"HideUI": {"Keyboard": 192, "Gamepad": 10},
+"Confirm": {"Keyboard": 32, "Gamepad": 0},
+"Use": {"Keyboard": 69, "Gamepad": 2},
+
+"SpecialAction": {"Keyboard": 82, "Gamepad": 1},
+"InventorySort": {"Keyboard": 82, "Gamepad": 2},
+"InventorySplit": {"Keyboard": 81, "Gamepad": 10},
+"InventoryQuickStack": {"Keyboard": 84, "Gamepad": 11},
+
+
+"MenuInventory": {"Keyboard": 73, "Gamepad": 3},
+"MenuCrafting": {"Keyboard": 67, "Gamepad": 1000},
+"MenuMap": {"Keyboard": 77, "Gamepad": 8},
+"MenuQuests": {"Keyboard": 74, "Gamepad": 1000},
+"MenuRelationships": {"Keyboard": 76, "Gamepad": 1000},
+"MenuResearch": {"Keyboard": 66, "Gamepad": 1000},
+
+"SettingsMenuGamepad": {"Keyboard": 1000, "Gamepad": 9},
+
+
+"QuickWheel": {"Keyboard": 81, "Gamepad": 6},
+
+
+
+
+"__comment":"      W/A/S/D to move, Left/Right arrows to navigate inventory",
+
+"Left": {"Keyboard": 65, "Gamepad": 14},
+"Right": {"Keyboard": 68, "Gamepad": 15},
+"Up": {"Keyboard": 87, "Gamepad": 12},
+"Down": {"Keyboard": 83, "Gamepad": 13},
+"MenuLeft": {"Keyboard": 37, "Gamepad": 4},
+"MenuRight": {"Keyboard": 39, "Gamepad": 5}
+
+}

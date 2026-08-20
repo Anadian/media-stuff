@@ -1,0 +1,344 @@
+0				tavernkeeper_bedroom_loop	TavernkeeperRoom		1		
+1	Mon	6:00	174			tavernkeeper_tavern_to_mountain			
+2	Mon	8:54		tavernkeeper_mountain_loop					
+3	Mon	18:50	10			mountaintop_to_cave			1
+4	Mon	19:00	15		CliffCave	mountain_cave_enter			
+5	Mon	19:15		mountain_cave_loop	CliffCave				
+6	Mon	20:50	17		CliffCave	mountain_cave_exit			1
+7	Mon	21:07	184			cave_to_tavern			1
+8	Tue,Wed,Thu,Fri,Sat	6:30	48			tavern_to_square			
+9	Tue,Wed,Thu,Fri,Sat	7:18		square_loop					
+10	Tue,Wed,Thu,Fri,Sat	11:04	48			square_to_tavern			1
+11	Tue,Wed,Thu,Fri,Sat	11:52		tavernkeeper_bar_loop	Tavern				
+12	Tue,Wed,Thu,Fri,Sat	23:59		tavernkeeper_bedroom_loop	TavernkeeperRoom				
+13	Sun	11:00	40			tavernkeeper_tavern_to_lake2			
+14	Sun	11:40		tavernkeeper_lake2_loop					
+15	Sun	20:00	42			tavernkeeper_lake2_to_tavern			1
+16	Mon	4:00	300	married_home_loop	Home			1	
+17	Mon	21:07	300	married_home_loop	Home			1	
+18	Tue,Wed,Thu,Fri,Sat	4:00	300	married_home_loop	Home			1	
+19	Tue,Wed,Thu,Fri,Sat	23:59	130	married_home_loop	Home			1	
+20	Sun	4:00	720	married_home_loop	Home			1	
+21	Sun	20:00	360	married_home_loop	Home			1	
+0				artist_bedroom_loop	ArtistRoom		1		
+1	Mon	7:10	112			artist_shack_to_dock			
+2	Mon	9:02		artist_dock_painting_loop					
+3	Mon	18:44	16			artist_dock_to_dock_lookout			
+4	Mon	19:00		dock_lookout_loop					
+5	Mon	21:00	132			dock_lookout_to_shack			1
+6	Tue	7:00	190			artist_shack_to_mountain			
+7	Tue	10:10		artist_mountain_loop					
+8	Tue	20:00	190			artist_mountain_to_shack			1
+9	Wed,Thu,Fri,Sat,Sun	7:10	25			shack_to_bridge			
+10	Wed,Thu,Fri,Sat,Sun	7:35		bridge_loop					
+11	Wed,Thu,Fri,Sat,Sun	11:50	15			bridge_to_tavern			1
+12	Wed,Thu,Fri,Sat,Sun	12:05	25		Tavern	artist_tavern_enter			
+13	Wed,Thu,Fri,Sat,Sun	12:30		artist_tavern_loop	Tavern				
+14	Wed,Thu,Fri,Sat,Sun	23:38	22		Tavern	artist_tavern_exit			1
+15	Wed,Thu,Fri,Sat,Sun	24:00	85			tavern_to_shack_longway			1
+16	Mon	4:00	302	married_home_loop	Home			1	
+17	Mon	21:00	300	married_home_loop	Home			1	
+18	Tue	4:00	720	married_home_loop	Home			1	
+19	Tue	20:00	360	married_home_loop	Home			1	
+20	Wed,Thu,Fri,Sat,Sun	4:00	360	married_home_loop	Home			1	
+21	Wed,Thu,Fri,Sat,Sun	24:00	120	married_home_loop	Home			1	
+0				fisherman_bedroom_loop	FishermanRoom		1		
+1				married_home_loop	Home		1	1	
+2	Mon,Tue,Wed,Thu,Fri,Sat	5:57	33			lighthouse_to_fishingshop			1
+3	Mon,Tue,Wed,Thu,Fri,Sat	6:30		fisherman_shop_loop	FishingShop				
+4	Mon,Tue,Wed,Thu,Sat	17:00	13			fishingshop_to_dock			
+5	Mon,Tue,Wed,Thu,Sat	17:13		fisherman_dock_fishing_loop					
+6	Mon,Tue,Wed,Thu,Sat	22:00	40			dock_to_lighthouse			1
+7	Fri	17:00	100			fishingshop_to_tavern			1
+8	Fri	18:40	14		Tavern	fisherman_tavern_enter			
+9	Fri	18:54		fisherman_tavern_loop	Tavern				
+10	Sun	8:00	112			lighthouse_to_lake			
+11	Sun	9:52		fisherman_lake_fishing_loop					
+12	Sun	19:31	19			fisherman_lake_to_tavern			1
+13	Sun	19:50	14		Tavern	fisherman_tavern_enter			
+14	Sun	20:04		fisherman_tavern_loop	Tavern				
+15	Fri,Sun	21:47	13		Tavern	fisherman_tavern_exit			1
+16	Fri,Sun	22:00	130			tavern_to_lighthouse			1
+17	Mon,Tue,Wed,Thu,Fri,Sat	4:00	150	married_home_loop	Home			1	
+18	Sun	4:00	720	married_home_loop	Home			1	
+19	Mon,Tue,Wed,Thu,Sat	20:00		married_home_loop	Home			1	
+20	Fri,Sun	22:00		married_home_loop	Home			1	
+0				blacksmith_bedroom_loop	BlacksmithRoom		1		
+1	Mon,Wed,Thu,Fri,Sat	6:30	27			house_to_smithy			1
+2	Mon,Wed,Thu,Fri,Sat	6:57		blacksmith_shop_loop	Smithy				
+3	Mon	17:00	37			blacksmith_smithy_to_lake			
+4	Mon	17:37		blacksmith_lake_loop					
+5	Mon	22:00	65			lake_to_house			1
+6	Wed,Thu,Fri,Sat	17:00	28			smithy_to_tavern			1
+7	Wed,Thu,Fri,Sat	17:28	13		Tavern	blacksmith_tavern_enter			
+8	Wed,Thu,Fri,Sat	17:41		blacksmith_tavern_loop	Tavern				
+9	Tue	7:00	19			house_to_square			
+10	Tue	7:19		square_loop					
+11	Tue	9:00	200			square_to_hotsprings			
+12	Tue	12:20		blacksmith_hotsprings_loop					
+13	Tue	16:50	205			hotsprings_to_bridge			
+14	Tue	20:15		blacksmith_bridge_loop					
+15	Tue	22:00	38			bridge_to_house			1
+16	Sun	7:00	19			house_to_square			
+17	Sun	7:19		square_loop					
+18	Sun	11:10	63			square_to_tavern			1
+19	Sun	12:13	13		Tavern	blacksmith_tavern_enter			
+20	Sun	12:26		blacksmith_tavern_loop	Tavern				
+21	Wed,Thu,Sat	21:47	13		Tavern	blacksmith_tavern_exit			1
+22	Wed,Thu,Sat	22:00	54			tavern_to_house			1
+23	Fri,Sun	22:47	13		Tavern	blacksmith_tavern_exit			1
+24	Fri,Sun	23:00	54			tavern_to_house			1
+25	Mon,Wed,Thu,Fri,Sat	4:00	177	married_home_loop	Home			1	
+26	Mon	22:00	240	married_home_loop	Home			1	
+27	Tue	4:00	240	married_home_loop	Home			1	
+28	Tue	22:00	240	married_home_loop	Home			1	
+29	Sun	4:00	720	married_home_loop	Home			1	
+30	Wed,Thu,Sat	22:00	300	married_home_loop	Home			1	
+31	Fri,Sun	23:00	120	married_home_loop	Home			1	
+0				herbalist_bedroom_loop	HerbalistRoom		1		
+1	Mon,Wed,Thu,Fri,Sat	8:00		herbalist_shop_loop	Conservatory				
+2	Mon,Wed,Thu,Sat	18:00	65			conservatory_to_beach1			
+3	Mon,Wed,Thu,Sat	19:05		beach1_loop					
+4	Mon,Wed,Thu,Sat	20:00	75			beach1_to_square			
+5	Mon,Wed,Thu,Sat	21:15		square_loop					
+6	Mon,Wed,Thu,Sat	22:00	35			square_to_conservatory			1
+7	Tue	7:05	37			conservatory_to_bridge			
+8	Tue	7:42		bridge_loop					
+9	Tue	12:00	10			bridge_to_tavern			1
+10	Tue	12:10	10		Tavern	herbalist_tavern_enter			
+11	Tue	12:20		herbalist_tavern_loop	Tavern				
+12	Tue	16:52	8		Tavern	herbalist_tavern_exit			1
+13	Tue	17:00	150			tavern_to_cave			1
+14	Tue	19:30	12		CliffCave	mountain_cave_enter			
+15	Tue	19:42		mountain_cave_loop	CliffCave				
+16	Tue	20:50	15		CliffCave	mountain_cave_exit			1
+17	Tue	21:05	130			cave_to_conservatory			1
+18	Fri	18:00	47			conservatory_to_tavern			1
+19	Fri	18:47	10		Tavern	herbalist_tavern_enter			
+20	Fri	18:57		herbalist_tavern_loop	Tavern				
+21	Fri	21:30	8		Tavern	herbalist_tavern_exit			1
+22	Fri	21:38	50			tavern_to_conservatory			1
+23	Sun	7:20	115			conservatory_to_hotsprings			
+24	Sun	9:15		herbalist_hotsprings_loop					
+25	Sun	14:00	84			hotsprings_to_beach2			
+26	Sun	15:24		beach2_loop					
+27	Sun	18:00	85			beach2_to_bridge			
+28	Sun	19:25		bridge_loop					
+29	Sun	22:00	40			bridge_to_conservatory			1
+30	Mon,Wed,Thu,Fri,Sat	4:00	240	married_home_loop	Home			1	
+31	Mon,Wed,Thu,Sat	22:00	240	married_home_loop	Home			1	
+32	Tue	4:00	360	married_home_loop	Home			1	
+33	Tue	21:05	300	married_home_loop	Home			1	
+34	Fri	21:38	300	married_home_loop	Home			1	
+35	Sun	4:00	720	married_home_loop	Home			1	
+36	Sun	22:00	240	married_home_loop	Home			1	
+0				botanist_bedroom_loop	BotanistRoom		1		
+1	Mon,Tue,Wed,Fri,Sat	8:00		botanist_shop_loop	Conservatory				
+2	Mon,Tue,Sat	18:00	46			conservatory_to_lake2			
+3	Mon,Tue,Sat	18:46		botanist_lake2_loop					
+4	Mon,Tue,Sat	19:10	25			botanist_stroll_part1			
+5	Mon,Tue,Sat	19:35	100			botanist_stroll_part2			
+6	Mon,Tue,Sat	21:15	114			botanist_stroll_part3			1
+7	Wed	18:00	130			botanist_conservatory_to_hotsprings			
+8	Wed	20:10		botanist_hotsprings_loop					
+9	Wed	21:50	135			botanist_hotsprings_to_conservatory			1
+10	Thu	7:00	29			conservatory_to_shop			1
+11	Thu	7:29	5		GeneralStore	botanist_shop_visit_enter			
+12	Thu	7:34		botanist_shop_visit_loop	GeneralStore				
+13	Thu	10:00	5		GeneralStore	botanist_shop_visit_exit			1
+14	Thu	10:05	72			botanist_shop_to_pier			
+15	Thu	11:12		botanist_pier_loop					
+16	Thu	16:58	97			botanist_pier_to_tavern			1
+17	Thu	18:35	11		Tavern	botanist_tavern_enter			
+18	Thu	18:46		botanist_tavern_loop	Tavern				
+19	Thu	23:00	8		Tavern	botanist_tavern_exit			1
+20	Thu	23:08	55			botanist_tavern_to_conservatory			1
+21	Fri	18:00	54			conservatory_to_tavern			1
+22	Fri	18:54	11		Tavern	botanist_tavern_enter			
+23	Fri	19:05		botanist_tavern_loop	Tavern				
+24	Fri	21:00	8		Tavern	botanist_tavern_exit			1
+25	Fri	21:08	55			botanist_tavern_to_conservatory			1
+26	Sun	7:00	130			botanist_conservatory_to_hotsprings			
+27	Sun	9:10		botanist_hotsprings_loop					
+28	Sun	12:00	86			botanist_hotsprings_to_mountain			
+29	Sun	13:26		botanist_mountain_loop					
+30	Sun	18:00	142			botanist_mountain_to_conservatory			1
+31	Mon,Tue,Wed,Thu,Fri,Sat	4:00	240	married_home_loop	Home			1	
+32	Mon,Tue,Sat	21:15	300	married_home_loop	Home			1	
+33	Wed	21:50	300	married_home_loop	Home			1	
+34	Thu	23:08	180	married_home_loop	Home			1	
+35	Fri	21:08	300	married_home_loop	Home			1	
+36	Sun	4:00	600	married_home_loop	Home			1	
+37	Sun	18:00	480	married_home_loop	Home			1	
+0				shopkeeper_bedroom_loop	ShopkeeperRoom		1		
+1	Mon,Tue,Thu,Fri,Sat	6:32	12			shack_to_shop			1
+2	Mon,Tue,Thu,Fri,Sat	6:45		shopkeeper_shop_loop	GeneralStore				
+3	Mon,Tue,Sat	17:00	18			shop_to_lake2			
+4	Mon,Tue,Sat	17:18		shopkeeper_lake2_loop					
+5	Mon,Tue,Sat	19:10	25			shopkeeper_stroll_part1			
+6	Mon,Tue,Sat	19:35	100			shopkeeper_stroll_part2			
+7	Mon,Tue,Sat	21:15	128			shopkeeper_stroll_part3			1
+8	Wed	7:00	25			shack_to_square2			
+9	Wed	7:25		square2_loop					
+10	Wed	11:17	43			square2_to_tavern			1
+11	Wed	12:00	10		Tavern	shopkeeper_tavern_enter			
+12	Wed	12:10		shopkeeper_tavern_loop	Tavern				
+13	Wed	16:00	8		Tavern	shopkeeper_tavern_exit			1
+14	Wed	16:08	153			tavern_to_hotsprings			
+15	Wed	18:41		shopkeeper_hotsprings_loop					
+16	Wed	21:50	145			hotsprings_to_shack			1
+17	Thu,Fri	17:00	24			shop_to_tavern			1
+18	Thu,Fri	17:24	10		Tavern	shopkeeper_tavern_enter			
+19	Thu,Fri	17:34		shopkeeper_tavern_loop	Tavern				
+20	Thu	23:00	8		Tavern	shopkeeper_tavern_exit			1
+21	Thu	23:08	30			shopkeeper_tavern_to_shack			1
+22	Fri	21:00	8		Tavern	shopkeeper_tavern_exit			1
+23	Fri	21:08	30			shopkeeper_tavern_to_shack			1
+24	Sun	6:48	142			shack_to_hotsprings			
+25	Sun	9:10		shopkeeper_hotsprings_loop					
+26	Sun	12:00	88			shopkeeper_hotsprings_to_mountain			
+27	Sun	13:28		mountain_loop					
+28	Sun	18:00	158			shopkeeper_mountain_to_shack			1
+29	Mon,Tue,Thu,Fri,Sat	4:00	165	married_home_loop	Home			1	
+30	Mon,Tue,Sat	21:15	300	married_home_loop	Home			1	
+31	Wed	4:00	360	married_home_loop	Home			1	
+32	Wed	21:50	300	married_home_loop	Home			1	
+33	Thu	23:08	180	married_home_loop	Home			1	
+34	Fri	21:08	300	married_home_loop	Home			1	
+35	Sun	4:00	600	married_home_loop	Home			1	
+36	Sun	18:00	480	married_home_loop	Home			1	
+0				carpenter_bedroom_loop	CarpenterRoom		1		
+1	Mon,Tue,Wed,Thu,Fri,Sat	6:15	25			skylight_to_workshop			1
+2	Mon,Tue,Wed,Thu,Fri,Sat	6:40		carpenter_shop_loop	Workshop				
+3	Mon,Tue,Thu,Sat	17:00	129			workshop_to_hotsprings			
+4	Mon,Tue,Thu,Sat	19:09		carpenter_hotsprings_loop					
+5	Mon,Tue,Thu,Sat	21:00	155			hotsprings_to_skylight			1
+6	Wed,Fri	17:00	52			workshop_to_tavern			1
+7	Wed	17:52	15		Tavern	carpenter_tavern_enter			
+8	Wed	18:07		carpenter_tavern_loop	Tavern				
+9	Wed	22:17	13		Tavern	carpenter_tavern_exit			1
+10	Fri	17:52	25		Tavern	carpenter_tavernstage_enter			
+11	Fri	18:17		carpenter_tavernstage_loop	Tavern				
+12	Fri	22:05	25		Tavern	carpenter_tavernstage_exit			1
+13	Wed,Fri	22:30	42			tavern_to_skylight			1
+14	Sun	8:00	12			skylight_to_square2			
+15	Sun	8:12		carpenter_square2_loop					
+16	Sun	12:00	42			carpenter_square2_to_bridge			
+17	Sun	12:42		carpenter_bridge_loop					
+18	Sun	15:00	210			bridge_to_cave			1
+19	Sun	18:30	18		CliffCave	mountain_cave_enter			
+20	Sun	18:48		mountain_cave_loop	CliffCave				
+21	Sun	21:00	18		CliffCave	mountain_cave_exit			1
+22	Sun	21:18	171			cave_to_skylight			1
+23	Mon,Tue,Wed,Thu,Fri,Sat	4:00	160	married_home_loop	Home			1	
+24	Mon,Tue,Thu,Sat	21:00	300	married_home_loop	Home			1	
+25	Wed,Fri	22:30	240	married_home_loop	Home			1	
+26	Sun	4:00	870	married_home_loop	Home			1	
+27	Sun	21:18	480	married_home_loop	Home			1	
+0				professor_bedroom_loop	ProfessorRoom		1		
+1	Mon,Tue,Wed,Thu,Fri,Sat	7:00		professor_shop_loop	ScienceCenter				
+2	Mon,Tue	17:00	160			sciencecenter_to_mountain			
+3	Mon,Tue	19:40		professor_mountain_loop					
+4	Mon,Tue	23:00	160			mountain_to_sciencecenter			1
+5	Wed,Thu	17:00	25			sciencecenter_to_lake			
+6	Wed,Thu	17:25		professor_lake_loop					
+7	Wed,Thu	23:35	25			lake_to_sciencecenter			1
+8	Fri	17:00	32			sciencecenter_to_tavern			1
+9	Fri	17:32	10		Tavern	professor_tavern_enter			
+10	Fri	17:42		professor_tavern_loop	Tavern				
+11	Sat	17:00		professor_bedroom_loop	ProfessorRoom				
+12	Sun	7:00	106			sciencecenter_to_beach1			
+13	Sun	8:46		beach1_loop					
+14	Sun	11:00	83			beach1_to_tavern			1
+15	Sun	12:23	10		Tavern	professor_tavern_enter			
+16	Sun	12:33		professor_tavern_loop	Tavern				
+17	Fri,Sun	22:22	8		Tavern	professor_tavern_exit			1
+18	Fri,Sun	22:30	33			tavern_to_sciencecenter			1
+19	Mon,Tue,Wed,Thu,Fri,Sat	4:00	180	married_home_loop	Home			1	
+20	Mon,Tue	23:00	180	married_home_loop	Home			1	
+21	Wed,Thu	23:35	180	married_home_loop	Home			1	
+22	Sat	21:00	300	married_home_loop	Home			1	
+23	Sun	4:00	720	married_home_loop	Home			1	
+24	Fri,Sun	22:30	240	married_home_loop	Home			1	
+0				historian_bedroom_loop	HistorianRoom		1		
+1	Mon,Tue,Wed	14:00	182			house_to_mountain			
+2	Mon,Tue,Wed	17:02		historian_mountain_loop					
+3	Mon,Tue,Wed	19:00	193			mountain_to_lake			
+4	Mon,Tue,Wed	22:13		historian_lake_loop					
+5	Mon,Tue,Wed	24:00	50			lake_to_house			1
+6	Thu	15:00	30			house_to_bridge			
+7	Thu	15:30		bridge_loop					
+8	Thu	17:00	13			bridge_to_tavern			1
+9	Thu	17:13	17		Tavern	historian_tavern_enter			
+10	Thu	17:30		historian_tavern_loop	Tavern				
+11	Fri	9:00	173			house_to_hotsprings			
+12	Fri	11:53		historian_hotsprings_loop					
+13	Fri	15:00	180			hotsprings_to_tavern			1
+14	Fri	18:00	17		Tavern	historian_tavern_enter			
+15	Fri	18:17		historian_tavern_loop	Tavern				
+16	Sat	09:00	48			historian_house_to_lake			
+17	Sat	09:48		historian_lake_loop					
+18	Sat	17:00	15			lake_to_tavern			1
+19	Sat	17:15	17		Tavern	historian_tavern_enter			
+20	Sat	17:32		historian_tavern_loop	Tavern				
+21	Thu,Fri,Sat	23:00	17		Tavern	historian_tavern_exit			1
+22	Thu,Fri,Sat	23:17	44			tavern_to_house			1
+23	Sun	11:00	187			house_to_cave			1
+24	Sun	14:07	18		CliffCave	mountain_cave_enter			
+25	Sun	14:25		mountain_cave_loop	CliffCave				
+26	Sun	16:42	18		CliffCave	mountain_cave_exit			1
+27	Sun	17:00	110			cave_to_hotsprings			
+28	Sun	18:50		historian_hotsprings_loop					
+29	Sun	23:00	178			hotsprings_to_house			1
+30	Mon,Tue,Wed,Thu	4:00	360	married_home_loop	Home			1	
+31	Mon,Tue,Wed	24:00	120	married_home_loop	Home			1	
+32	Fri	4:00	473	married_home_loop	Home			1	
+33	Sat	4:00	420	married_home_loop	Home			1	
+34	Thu,Fri,Sat	23:17	180	married_home_loop	Home			1	
+35	Sun	4:00	780	married_home_loop	Home			1	
+36	Sun	23:00	180	married_home_loop	Home			1	
+0				magicman_shop_loop	MagicManShop		1		
+1	Mon,Wed,Sat,Fri	5:00	10			magicman_hut_to_square			
+2	Mon,Wed,Sat,Fri	5:10		magicman_square_loop					
+3	Mon,Wed,Sat	8:00	81			square_to_lake			
+4	Mon,Wed,Sat	9:21		lake_loop					
+5	Mon,Wed,Sat	12:00	185			lake_to_beach3			
+6	Mon,Wed,Sat	15:05		beach3_loop					
+7	Mon,Wed,Sat	18:00	156			beach3_to_bridge			
+8	Mon,Wed,Sat	20:36		bridge_loop					
+9	Mon,Wed,Sat	22:00	51			magicman_bridge_to_hut			1
+10	Tue,Thu	5:00	248			magicman_hut_to_mountain			
+11	Tue,Thu	9:08		magicman_mountain_loop					
+12	Tue,Thu	18:00	5			magicman_mountain_to_cave			1
+13	Tue,Thu	18:05	24		CliffCave	mountain_cave_enter2			
+14	Tue,Thu	18:29		mountain_cave_loop2	CliffCave				
+15	Tue,Thu	20:34	26		CliffCave	mountain_cave_exit2			1
+16	Tue,Thu	21:00	248			magicman_mountain_to_hut			1
+17	Fri	9:00	145			square_to_beach1			
+18	Fri	11:25		beach1_loop					
+19	Fri	16:10	161			beach1_to_tavern			1
+20	Fri	18:52	13		Tavern	magicman_tavern_enter1			
+21	Fri	19:06		magicman_tavern_loop1	Tavern				
+22	Fri	22:50	13		Tavern	magicman_tavern_exit1			1
+23	Fri	23:04	68			magicman_tavern_to_hut			1
+24	Sun	5:00	149			magicman_hut_to_beach3			
+25	Sun	7:29		beach3_loop					
+26	Sun	11:00	164			beach3_to_lake2			
+27	Sun	13:44		magicman_lake2_loop					
+28	Sun	17:00	60			lake2_to_tavern			1
+29	Sun	18:00	22		Tavern	magicman_tavern_enter2			
+30	Sun	18:22		magicman_tavern_loop2	Tavern				
+31	Sun	22:50	22		Tavern	magicman_tavern_exit2			1
+32	Sun	23:12	68			magicman_tavern_to_hut			1
+33	Fri	4:00	450	married_home_loop	Home			1	
+34	Tue,Thu	21:00	360	married_home_loop	Home			1	
+35	Mon,Tue,Wed,Thu,Sat,Sun	4:00	360	married_home_loop	Home			1	
+36	Mon,Wed,Sat	22:00	300	married_home_loop	Home			1	
+37	Fri,Sun	23:12	300	married_home_loop	Home			1	
+Tavern	tavernkeeper		Tue,Wed,Thu,Fri,Sat,Sun	12:00	719
+Smithy	blacksmith		Mon,Wed,Thu,Fri,Sat	7:00	600
+FishingShop	fisherman		Mon,Tue,Wed,Thu,Fri,Sat	6:30	630
+GeneralStore	shopkeeper		Mon,Tue,Thu,Fri,Sat	7:00	600
+Conservatory	botanist		Mon,Tue,Wed,Thu,Fri,Sat	8:00	600
+Workshop	carpenter		Mon,Tue,Wed,Thu,Fri,Sat	7:00	600
+ScienceCenter	professor		Mon,Tue,Wed,Thu,Fri,Sat	7:00	600

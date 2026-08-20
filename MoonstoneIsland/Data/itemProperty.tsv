@@ -1,0 +1,1656 @@
+Crops	Type	Rarity	Stages	Resilience	Yield	Water	Reharvestable	Stamina	HP	Armor	Vitality	Power	Speed	XP	Tame	Season	Biome
+																	
+// SPRING CROPS																	
+flax	crop	1	1-1-2-2	2	1	0	0	20							10	spring	Earth,Water
+stoneFruit	crop	2	1-2-1-2	2	1	0	0	50								spring	Earth,Water
+lilyPad	crop	2	1-2-2-2	2	1	1	0	20	15							spring	
+catTail	crop	1	1-1-1-3	2	1	1	1	20					3			spring	
+nightShade	crop	2	1-2-3-2	2	1	0	0	-10			-3					spring	Poison
+mandrake	crop	3	1-3-3-3	2	1	0	0	-10				-3				spring	Poison
+nimbusPlant	crop	2	1-3-3-2	2	1	0	0	20				3				spring	Electric
+bolt	crop	1	1-2-3-2	2	1	0	1	20					5			spring	Electric
+fireFlower	crop	1	1-1-2-2	2	1	0	0	20							30	spring	Fire
+hotPepper	crop	3	1-2-3-4	2	1	0	1	20			3					spring	Fire
+spiritBane	crop	4	1-3-3-4	2	1	0	0	20				5	-5			spring	Dark
+bloodRoot	crop	1	1-2-2-2	2	1	0	0	20			5		-5			spring	Dark
+magicMushroom	crop	1	1-2-2-2	2	1	0	0	100								spring	Psychic
+yarrow	crop	3	1-2-4-3	2	1	0	0	20	30							spring	Psychic
+																	
+// SUMMER CROPS	Type	Rarity	Stages	Resilience	Yield	Water	Reharvestable	Stamina	HP	Armor	Vitality	Power	Speed	XP	Tame	Season	Biome
+mossball	crop	1	1-1-1-1	2	1	0	0	20	10			1	1			summer	Earth,Water
+popsiplant	crop	2	1-1-2-1	2	1	0	0	20			1		2			summer	Earth,Water
+beachpeach	crop	2	1-1-1-1	2	1	1	0	40								summer	
+pinwheelflower	crop	1	1-1-1-1	2	1	1	0	20				2			20	summer	
+umbrellashroom	crop	1	1-2-1-1	2	1	0	0	20			-1	-2				summer	Poison
+erdenleaf	crop	2	1-1-2-2	2	1	0	0	20		-2						summer	Poison
+stunflower	crop	3	1-2-1-2	2	1	0	0	20					2		30	summer	Electric
+zaplant	crop	2	1-1-2-1	2	1	0	0	20		1		3				summer	Electric
+hotairfruit	crop	3	1-1-1-1	2	1	0	0	20	20					50		summer	Fire
+flameroot	crop	4	1-2-1-1	2	1	0	0	20					4			summer	Fire
+pricklyplant	crop	3	1-2-2-1	2	1	0	0	20				-4	8			summer	Dark
+wingfruit	crop	4	1-2-1-2	2	1	0	0	20			-8	8				summer	Dark
+tinyflower	crop	2	1-1-1-1	2	1	0	0	20						50	30	summer	Psychic
+eyeberry	crop	3	1-1-2-2	2	1	0	0	20						100		summer	Psychic
+																	
+// FALL CROPS	Type	Rarity	Stages	Resilience	Yield	Water	Reharvestable	Stamina	HP	Armor	Vitality	Power	Speed	XP	Tame	Season	Biome
+squish	crop	1	1-3-3-1	2	1	0	1	60								fall	Earth,Water
+applum	crop	2	1-3-3-2	2	1	0	1	30	20							fall	Earth,Water
+flagflower	crop	1	1-3-2-1	2	1	1	1	30							40	fall	
+fuzzball	crop	2	1-3-2-2	2	1	1	1	30			1	1	1			fall	
+grumpkin	crop	2	1-1-3-2	2	1	0	1	-10			-1	-1	-1			fall	Poison
+mushin	crop	3	1-3-3-2	2	1	0	1	-10					-3			fall	Poison
+electricone	crop	3	1-3-3-2	2	1	0	1	30				4				fall	Electric
+plantern	crop	2	1-2-3-2	2	1	0	1	30					4			fall	Electric
+heatplant	crop	3	1-4-2-2	2	1	0	1	30			4					fall	Fire
+colberry	crop	2	1-4-3-1	2	1	0	1	30	40							fall	Fire
+spectreflower	crop	3	1-3-3-3	2	1	0	1	30					-2		50	fall	Dark
+skeleplant	crop	2	1-2-2-2	2	1	0	1	30		2	-2					fall	Dark
+willowisp	crop	2	1-2-2-2	2	1	0	1	30						250		fall	Psychic
+ghostshroom	crop	4	1-2-4-3	2	1	0	1	30	100							fall	Psychic
+																	
+// WINTER CROPS	Type	Rarity	Stages	Resilience	Yield	Water	Reharvestable	Stamina	HP	Armor	Vitality	Power	Speed	XP	Tame	Season	Biome
+snowmanplant	crop	1	2-4-3-3	2	1	0	1	40	50		1					winter	Earth,Water
+crescentplant	crop	2	2-3-4-4	2	1	0	0	40			5					winter	Earth,Water
+chillyberry	crop	2	2-3-3-4	2	3	1	0	40		1	1					winter	
+snowflobes	crop	1	2-3-4-3	2	1	1	0	80								winter	
+saplant	crop	1	2-4-4-3	2	1	0	1	-10					-5			winter	Poison
+flakeflower	crop	2	2-3-3-3	2	1	0	0	-10			-2	-2	-2		50	winter	Poison
+bulbshroom	crop	1	2-3-3-4	2	1	0	0	40				3	3			winter	Electric
+popcornplant	crop	2	2-4-4-2	2	3	0	1	40		-1						winter	Electric
+rubyplant	crop	1	2-4-4-4	2	1	0	0	40			2	2	2			winter	Fire
+sweaterplant	crop	2	2-3-4-5	2	1	0	0	40		3						winter	Fire
+blackpearl	crop	2	2-4-4-3	2	3	0	0	40		-3		5				winter	Dark
+icicleroot	crop	1	2-4-3-4	2	1	0	0	40		5	-5	-5	-5			winter	Dark
+snowdropflower	crop	3	2-3-4-4	2	1	0	0	40						500	100	winter	Psychic
+giftplant	crop	4	2-4-4-4	2	1	0	0	40						1000		winter	Psychic
+																	
+																	
+ladderplant	crop	1		5	0	0	0									any	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+
+Fish	Type	Rarity	Stamina	Biome
+																	
+sisyphish	fish	2	30	Earth													
+zenfish	fish	1	30	Earth													
+ringfish	fish	1	30	Earth													
+bunnyfish	fish	3	30	Earth													
+flyingfish	fish	1	30	Water													
+pizzafish	fish	1	30	Water													
+jewelfish	fish	2	30	Water													
+moonfish	fish	3	30	Water													
+fangfish	fish	1	30	Poison													
+spinefish	fish	2	30	Poison													
+blobfish	fish	3	30	Poison													
+joltfish	fish	1	30	Electric													
+lightningEel	fish	2	30	Electric													
+sparkstar	fish	3	30	Electric													
+steelfish	fish	1	30	Fire													
+tigerfish	fish	2	30	Fire													
+cinderfish	fish	3	30	Fire													
+eyefish	fish	1	30	Dark													
+meanfish	fish	2	30	Dark													
+voidfish	fish	3	30	Dark													
+oldBoot	fish	1	-10	Earth,Water,Poison,Electric,Fire,Dark													
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+
+Placeables	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road
+bridge	placeable	0	floor		16	1	1			1		1					
+fenceWood	placeable	1			16	1	1										
+fenceStone	placeable	1			16	1	1										
+gate	placeable	1			16		1										
+chest	placeable	1		1			1	1	1	1	1	1					
+chestFancy	placeable	1		1			1	1	1	1	1	1					
+mailbox	placeable	1		1		1	1	1	1	1	1	1					
+calendar	placeable	0	on_wall	1		1	1	1	1	1	1	1					
+torch	placeable	0				1	1			1	1		1				
+signWood	placeable	0					1	1		1	1	1					
+sellCrate	placeable	1		1		1	1	1	1	1	1	1					
+furnace	placeable	1		1		1	1	1		1	1	1					
+furnaceUpgraded	placeable	1		1		1	1	1		1	1	1					
+workbench	placeable	1		1		1	1	1		1	1	1					
+brazier	placeable	1		1		1	1	1		1	1	1					
+cauldron	placeable	1		1		1	1	1		1	1	1					
+alchemyLab	placeable	1		1		1	1	1		1	1	1					
+enchanter	placeable	1		1		1	1	1		1	1	1					
+anvil	placeable	1		1		1	1	1		1	1	1					
+compostBin	placeable	1		1		1	1			1	1	1					
+loom	placeable	1		1		1	1	1			1						
+mailbox	placeable	1		1		1	1	1			1	1					
+mirror	placeable	1		1		1	1	1									
+moonstoneMachine	placeable	1		1		1	1	1	1	1	1	1					
+warpTotem	placeable	1					1										
+chestCommunity	placeable	1		1													
+recycler	placeable	1		1		1	1	1	1		1	1					
+cookingPrepStation	placeable	1		1			1	1		1	1	1					
+cookbook	placeable	1		1			1	1		1	1	1					
+stove	placeable	1		1			1	1		1	1	1					
+stove_cooking0	placeable	1		1			1	1		1	1	1					
+stove_cooking1	placeable	1		1			1	1		1	1	1					
+stove_cooking2	placeable	1		1			1	1		1	1	1					
+stove_cooking3	placeable	1		1			1	1		1	1	1					
+keg	placeable	1					1	1		1	1	1					
+juicer	placeable	1		1			1	1		1	1	1					
+																	
+wallSmall	placeable	1					1	1		1	1	1					
+wallBig	placeable	1					1	1		1	1	1					
+																	
+windowWood	placeable	0	on_wall					1				1					
+windowStone	placeable	0	on_wall					1				1					
+windowWhite	placeable	0	on_wall					1				1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+bed	placeable	1	bed	1				1									
+counter	placeable	1	table				1	1		1	1	1					
+counterSink	placeable	1					1	1		1	1	1					
+pantry	placeable	1					1	1		1	1	1					
+chair	placeable	1					1	1		1	1	1					
+chairWicker	placeable	1					1	1		1	1	1					
+library	placeable	1					1	1		1	1	1					
+tableDining	placeable	1	table				1	1		1	1	1					
+tableCoffee	placeable	1	table				1	1		1	1	1					
+tableBedside	placeable	1	table				1	1		1	1	1					
+tableRound	placeable	1	table				1	1		1	1	1					
+rug	placeable	0	floor				1	1		1	1	1					
+rugStriped	placeable	0	floor				1	1		1	1	1					
+rugPurple	placeable	0	floor				1	1		1	1	1					
+potGarden	placeable	1	tabletop				1	1		1	1	1					
+candle	placeable	0	tabletop	1		2	1	1		1	1	1					
+lantern	placeable	1	tabletop				1	1		1	1	1	1				
+bookStack	placeable	1	tabletop				1	1		1	1	1					
+gramophone	placeable	1	tabletop				1	1		1	1	1					
+chairCozy	placeable	1					1	1		1	1	1					
+couchCozy	placeable	1	bed	1			1	1		1	1	1					
+chairWindsor	placeable	1					1	1		1	1	1					
+fridge	placeable	1					1	1		1	1	1					
+customFloorTile	placeable	0	floor				1	1		1	1	1					
+customWallpaper	placeable	0	on_wall				1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+openBook	placeable	0	tabletop				1	1		1	1	1					
+yellowCushion	placeable	0	tabletop				1	1		1	1	1					
+standingLamp	placeable	1					1	1		1	1	1					
+laundryBasket	placeable	1	tabletop				1	1		1	1	1					
+slippers	placeable	0	tabletop				1	1		1	1	1					
+tableHerbalist	placeable	1					1	1		1	1	1					
+TV	placeable	1	tabletop				1	1		1	1	1					
+hutchWhite	placeable	1	table				1	1		1	1	1					
+stoolPink	placeable	1					1	1		1	1	1					
+vanity	placeable	1					1	1		1	1	1					
+bedDouble	placeable	1	bed	1				1									
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+chairWindsor	placeable	1					1	1		1	1	1					
+lifeSaver	placeable	1	tabletop				1	1		1	1	1					
+tableCoffeeRound	placeable	1	table				1	1		1	1	1					
+lampBrass	placeable	1	tabletop				1	1		1	1	1					
+paddle	placeable	1	tabletop				1	1		1	1	1					
+boots	placeable	0	tabletop				1	1		1	1	1					
+chairComfy	placeable	1					1	1		1	1	1					
+garbageCan	placeable	1	tabletop				1	1		1	1	1					
+fireplaceNautical	placeable	1				1	1	1		1	1	1					
+																	
+																	
+wireRack	placeable	1	table				1	1		1	1	1					
+tallDrawers	placeable	1					1	1		1	1	1					
+stepLadder	placeable	1	tabletop				1	1		1	1	1					
+tableGarden	placeable	1					1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+deskBell	placeable	0	tabletop				1	1		1	1	1					
+crystal	placeable	0	tabletop				1	1		1	1	1					
+cupEmpty	placeable	0	tabletop				1	1		1	1	1					
+cupFull	placeable	0	tabletop				1	1		1	1	1					
+bottlePink	placeable	0	tabletop				1	1		1	1	1					
+plateDirty	placeable	0	tabletop				1	1		1	1	1					
+plateStack	placeable	0	tabletop				1	1		1	1	1					
+stoolDark	placeable	1	tabletop				1	1		1	1	1					
+stoolLight	placeable	1	tabletop				1	1		1	1	1					
+stoolBlue	placeable	1	tabletop				1	1		1	1	1					
+mailPile	placeable	0	tabletop				1	1		1	1	1					
+plantTiny	placeable	1	tabletop				1	1		1	1	1					
+orrery	placeable	1	tabletop				1	1		1	1	1					
+moonstoneChunk	placeable	0	tabletop				1	1		1	1	1					
+paintGreen	placeable	1	tabletop				1	1		1	1	1					
+paintRed	placeable	1	tabletop				1	1		1	1	1					
+moonStars	placeable	0	on_wall				1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+anchor	placeable	1	tabletop				1	1		1	1	1					
+barrel	placeable	1	tabletop				1	1		1	1	1					
+boards	placeable	1	tabletop				1	1		1	1	1					
+bookMountain	placeable	1	tabletop				1	1		1	1	1					
+bootsYellow	placeable	0	tabletop				1	1		1	1	1					
+bottleGreen	placeable	0	tabletop				1	1		1	1	1					
+bottleOrange	placeable	0	tabletop				1	1		1	1	1					
+boxes	placeable	1	tabletop				1	1		1	1	1					
+bulletinBoard	placeable	0	on_wall				1	1		1	1	1					
+chalkboard	placeable	0	on_wall				1	1		1	1	1					
+crateBucket	placeable	1					1	1		1	1	1					
+divingBell	placeable	1					1	1		1	1	1					
+firepoker	placeable	0					1	1		1	1	1					
+fireplaceBrick	placeable	1	table			1	1	1		1	1	1					
+fishermanLantern	placeable	1	tabletop				1	1		1	1	1					
+fishingRodRack	placeable	1					1	1		1	1	1					
+greasePuddle	placeable	0	tabletop				1	1		1	1	1					
+historianPainting	placeable	0	on_wall				1	1		1	1	1					
+lampRed	placeable	1	tabletop				1	1		1	1	1					
+lighthouseBulb	placeable	1					1	1		1	1	1					
+logs	placeable	1	tabletop				1	1		1	1	1					
+paintBuckets	placeable	1	tabletop				1	1		1	1	1					
+paintingMoonrise	placeable	0	on_wall				1	1		1	1	1					
+planks	placeable	1	tabletop				1	1		1	1	1					
+posterForSale	placeable	0	on_wall				1	1		1	1	1					
+posterMug	placeable	0	on_wall				1	1		1	1	1					
+posterPink	placeable	0	on_wall				1	1		1	1	1					
+posterStar	placeable	0	on_wall				1	1		1	1	1					
+posterTable	placeable	0	on_wall				1	1		1	1	1					
+posterTools	placeable	0	on_wall				1	1		1	1	1					
+rugBlack	placeable	0	floor				1	1		1	1	1					
+rugBlue	placeable	0	floor				1	1		1	1	1					
+rugGreen	placeable	0	floor				1	1		1	1	1					
+rugGreenFlowers	placeable	0	floor				1	1		1	1	1					
+sawdust	placeable	0					1	1		1	1	1					
+																	
+stoolPurple	placeable	1	tabletop				1	1		1	1	1					
+stoolRectangular	placeable	1	tabletop				1	1		1	1	1					
+tableBedsidePurple	placeable	1	table				1	1		1	1	1					
+tableSmallRound	placeable	1	table				1	1		1	1	1					
+telescope	placeable	1					1	1		1	1	1					
+toolbox	placeable	1	tabletop				1	1		1	1	1					
+toolRack	placeable	0	on_wall				1	1		1	1	1					
+towels	placeable	0	tabletop				1	1		1	1	1					
+traps	placeable	1					1	1		1	1	1					
+wallChain	placeable	0	on_wall				1	1		1	1	1					
+wallChisels	placeable	0	on_wall				1	1		1	1	1					
+																	
+windowRectangular	placeable	0	on_wall				1	1		1	1	1					
+windowTavern	placeable	0	on_wall				1	1		1	1	1					
+yarnBalls	placeable	0	tabletop				1	1		1	1	1					
+yellowMat	placeable	0	floor				1	1		1	1	1					
+grindstone	placeable	1	floor				1	1		1	1	1					
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+treeEarth	placeable	1					1	1		1	1	1					
+treeWater	placeable	1					1	1		1	1	1					
+treePoison	placeable	1					1	1		1	1	1					
+treeElectric	placeable	1					1	1		1	1	1					
+treeFire	placeable	1				1	1	1		1	1	1					
+treeDark	placeable	1					1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+bath	placeable	1					1	1		1	1	1					
+bedFancy	placeable	1	bed	1				1									
+bedFourPost	placeable	1	bed	1				1									
+bedMattress	placeable	1	bed	1				1									
+bedMessy	placeable	1	bed	1				1									
+benchGreen	placeable	1					1	1		1	1	1					
+benchLiveEdge	placeable	1					1	1		1	1	1					
+bellows	placeable	1	tabletop				1	1		1	1	1					
+bookCase	placeable	1					1	1		1	1	1					
+booksInset	placeable	0	on_wall				1	1		1	1	1					
+chairBean	placeable	1					1	1		1	1	1					
+chairMulticolor	placeable	1					1	1		1	1	1					
+cooler	placeable	1	tabletop				1	1		1	1	1					
+couchModern	placeable	1	bed	1			1	1		1	1	1					
+deskGardening	placeable	1					1	1		1	1	1					
+deskOffice	placeable	1					1	1		1	1	1					
+deskPainter	placeable	1					1	1		1	1	1					
+deskWitch	placeable	1					1	1		1	1	1					
+divider	placeable	1					1	1		1	1	1					
+easel	placeable	1	tabletop				1	1		1	1	1					
+fridgeMessy	placeable	1					1	1		1	1	1					
+gindstone	placeable	1					1	1		1	1	1					
+																	
+kitchenIsland	placeable	1					1	1		1	1	1					
+lampDesigner	placeable	1	tabletop				1	1		1	1	1					
+lampFancy	placeable	1	tabletop				1	1		1	1	1					
+paintings	placeable	1	tabletop				1	1		1	1	1					
+quenchingBath	placeable	1					1	1		1	1	1					
+rackHat	placeable	1	tabletop				1	1		1	1	1					
+rackWooden	placeable	1	tabletop				1	1		1	1	1					
+rugPersian	placeable	0	floor				1	1		1	1	1					
+rugRed	placeable	0	floor				1	1		1	1	1					
+rugRound	placeable	0	floor				1	1		1	1	1					
+rugZag	placeable	0	floor				1	1		1	1	1					
+rugZig	placeable	0	floor				1	1		1	1	1					
+spinningWheel	placeable	1					1	1		1	1	1					
+stoveWood	placeable	1					1	1		1	1	1					
+tableLiveEdge	placeable	1	table				1	1		1	1	1					
+tableSaw	placeable	1					1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+candles	placeable	1	tabletop			1	1	1		1	1	1					
+cobweb	placeable	0	tabletop,on_wall				1	1		1	1	1					
+gravestone	placeable	1	tabletop			1	1	1		1	1	1					
+ironBatArchway	placeable	0					1	1		1	1	1					
+jackOLantern	placeable	1	tabletop				1	1		1	1	1					
+jillOLantern	placeable	1	tabletop				1	1		1	1	1					
+rugEye	placeable	0	floor				1	1		1	1	1					
+rugTongue	placeable	0	floor				1	1		1	1	1					
+marigold	placeable	1	tabletop				1	1		1	1	1					
+crunchboi	placeable	1	tabletop				1	1		1	1	1					
+skull	placeable	1	tabletop				1	1		1	1	1					
+																	
+archwayCandycane	placeable	0					1	1		1	1	1					
+rugFuzzy	placeable	0	floor				1	1		1	1	1					
+gingerbreadBoi	placeable	1	tabletop				1	1		1	1	1					
+gingerbreadLass	placeable	1	tabletop				1	1		1	1	1					
+icicles	placeable	0	tabletop				1	1		1	1	1					
+poinsettia	placeable	1	tabletop				1	1		1	1	1					
+presents	placeable	1	tabletop				1	1		1	1	1					
+roast	placeable	0	tabletop				1	1		1	1	1					
+snowboard	placeable	1	tabletop				1	1		1	1	1					
+frostopher	placeable	1	tabletop				1	1		1	1	1					
+snowmelia	placeable	1	tabletop				1	1		1	1	1					
+firepit	placeable	1		1		2	1	1		1	1	1					
+snowflakeGarland	placeable	0	on_wall				1	1		1	1	1					
+snowglobe	placeable	0	tabletop				1	1		1	1	1					
+holidayTreeLights	placeable	0	on_tree			1	1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+chocolateBox	placeable	0	tabletop				1	1		1	1	1					
+petals	placeable	0	tabletop				1	1		1	1	1	1				
+archwayHeart	placeable	0					1	1		1	1	1					
+bedHeart	placeable	1	bed	1			1	1		1	1	1					
+heartTub	placeable	1					1	1		1	1	1					
+lampHeart	placeable	0	tabletop				1	1		1	1	1					
+portraitFrame	placeable	0	on_wall				1	1		1	1	1					
+rugHeart	placeable	0	floor				1	1		1	1	1					
+windowHeart	placeable	0	on_wall				1	1		1	1	1					
+champagne	placeable	0	tabletop				1	1		1	1	1					
+lampLava	placeable	0	tabletop				1	1		1	1	1					
+couchLove	placeable	1	bed	1			1	1		1	1	1					
+bouquetRed	placeable	0	tabletop				1	1		1	1	1					
+bouquetBlue	placeable	0	tabletop				1	1		1	1	1					
+chairWhite	placeable	1					1	1		1	1	1					
+rugRunner	placeable	0	floor				1	1		1	1	1					
+lampStreet	placeable	1					1	1		1	1	1					
+																	
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+broomRack	placeable	1					1	1		1	1	1					
+candelabra	placeable	1		1		2	1	1		1	1	1					
+crystalBall	placeable	0	tabletop				1	1		1	1	1					
+rugFishbo	placeable	0	floor				1	1		1	1	1					
+rugHat	placeable	0	floor				1	1		1	1	1					
+fishboStatue	placeable	1					1	1		1	1	1					
+lectern	placeable	1					1	1		1	1	1					
+windowStained	placeable	0	on_wall					1									
+scrollBox	placeable	1					1	1		1	1	1					
+summoningCircle	placeable	0	floor				1	1		1	1	1					
+curtainTattered	placeable	0	on_wall					1									
+couchWitchy	placeable	1	bed	1			1	1		1	1	1					
+itemFrame	placeable	0	on_wall	1		1		1									
+chalkBarrel	placeable	1					1	1		1	1	1					
+																	
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+sigilChalk	placeable	0					1			1	1						
+beacon	placeable	1					1										
+sprinkler	placeable	1			16	1	1					1					
+spiritStorageMachine	placeable	1		1		1	1	1	1	1	1	1					
+spiritBarn	placeable	1				1	1										
+greenhouse	placeable	1				1	1										
+homeTent	placeable	1				1	1										
+homeCabin	placeable	1				1	1										
+homeFancy	placeable	1				1	1										
+homeScienceCenter	placeable	1				1	1										
+homeTreeFort	placeable	1				1	1										
+homeTower	placeable	1				1	1										
+homeHaunted	placeable	1				1	1										
+homeLighthouse	placeable	1				1	1										
+homePumpkin	placeable	1				1	1										
+homeSnowman	placeable	1				1	1										
+homeGingerbread	placeable	1				1	1										
+homeHeart	placeable	1				1	1										
+homeLovebird	placeable	1				1	1										
+homeHat	placeable	1				1	1										
+homeFishbowl	placeable	1				1	1										
+homeHotel	placeable	1				1	1										
+homeBakery	placeable	1				1	1										
+homeMushroom	placeable	1				1	1										
+homePresent	placeable	1				1	1										
+greenhouseSmall	placeable	1				1	1										
+spiritBarnMushroom	placeable	1				1	1										
+spiritBarnSprout	placeable	1				1	1										
+spiritBarnFarm	placeable	1				1	1										
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+barbecue	placeable	1		1		2	1	1			1						
+blanketBeach	placeable	0	floor				1	1			1	1	1				
+chairBeach	placeable	1					1	1			1						
+towelBeach	placeable	0					1	1			1	1	1				
+coolerBeach	placeable	1	tabletop				1	1			1						
+chairLounge	placeable	1					1	1			1						
+floatieSnorcko	placeable	1					1	1			1						
+bucketBeach	placeable	0					1	1			1	1	1				
+pool	placeable	0	floor				1	1			1						
+floatie	placeable	1					1	1			1	1	1				
+torchTiki	placeable	0		1		2	1	1			1						
+umbrellaBeach	placeable	1					1	1			1	1	1				
+																	
+rugDonut	placeable	0	floor				1	1	1	1	1	1	1				
+rugPizza	placeable	0	floor				1	1	1	1	1	1	1				
+scale	placeable	0	tabletop				1	1		1	1	1	1				
+cloche	placeable	0	tabletop				1	1		1	1	1	1				
+cuttingBoard	placeable	0	tabletop				1	1		1	1	1	1				
+fruitBowl	placeable	0	tabletop				1	1		1	1	1	1				
+knives	placeable	0	tabletop				1	1		1	1	1	1				
+toaster	placeable	0	tabletop	1			1	1		1	1	1	1				
+potRack	placeable	0	on_wall				1	1		1	1	1	1				
+placemat	placeable	0	tabletop				1	1		1	1	1	1				
+counterTiled	placeable	1	table				1	1		1	1						
+counterTiledSink	placeable	1	table				1	1		1	1						
+counterMarble	placeable	1	table				1	1		1	1						
+counterMarbleSink	placeable	1	table				1	1		1	1						
+																	
+autumnArchway	placeable	0					1	1		1	1	1					
+rugElectricone	placeable	0	floor				1	1	1	1	1	1	1				
+rugFireworks	placeable	0	floor				1	1	1	1	1	1	1				
+lampGhostshroom	placeable	1				1	1	1		1	1	1					
+rugGhostshroom	placeable	0					1	1	1	1	1	1	1				
+stoolLeaf	placeable	1					1	1		1	1	1					
+stoolMushroom	placeable	1					1	1		1	1	1					
+tableMushroom	placeable	1	table				1	1		1	1	1					
+leaves	placeable	0					1	1		1	1	1	1				
+statueMoon	placeable	1					1	1	1	1	1	1					
+statueSpirit	placeable	1					1	1	1	1	1	1					
+cookingTrophy	placeable	1	tabletop				1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+rugWreath	placeable	0	floor				1	1	1	1	1	1	1				
+taroDecoration	placeable	1					1	1	1	1	1	1	1				
+starBig	placeable	1					1	1			1	1	1				
+cookiePlate	placeable	1	tabletop				1	1			1	1	1				
+																	
+stall	placeable	1							1								
+stallAuto	placeable	1							1								
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+pathWood	placeable	0	floor				1	1		1	1	1					
+pathStone	placeable	0	floor				1	1		1	1	1					
+																	
+nest	placeable	1	in_stall						1								
+eggDark	placeable	0	in_stall						1								
+eggPoison	placeable	0	in_stall						1								
+eggEarth	placeable	0	in_stall						1								
+eggElectric	placeable	0	in_stall						1								
+eggFire	placeable	0	in_stall						1								
+eggIce	placeable	0	in_stall						1								
+eggPsychic	placeable	0	in_stall						1								
+eggWater	placeable	0	in_stall						1								
+eggSpecial	placeable	0	in_stall						1								
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+plantPurpleHeart	placeable	1	tabletop				1	1		1	1	1					
+plantDaisy	placeable	1	tabletop				1	1		1	1	1					
+plantZanzibarGem	placeable	1	tabletop				1	1		1	1	1					
+plantViolet	placeable	1	tabletop				1	1		1	1	1					
+plantColeus	placeable	1	tabletop				1	1		1	1	1					
+plantRubber	placeable	1	tabletop				1	1		1	1	1					
+plantMonstera	placeable	1	tabletop				1	1		1	1	1					
+plantVinca	placeable	1	tabletop				1	1		1	1	1					
+plantJade	placeable	1	tabletop				1	1		1	1	1					
+plantLily	placeable	1	tabletop				1	1		1	1	1					
+plantHydrangea	placeable	1	tabletop				1	1		1	1	1					
+plantHydrangeaPlanter	placeable	1	tabletop				1	1		1	1	1					
+plantFisherman	placeable	1	tabletop				1	1		1	1	1					
+plantHistorian	placeable	1	tabletop				1	1		1	1	1					
+plantHanging	placeable	0	on_wall				1	1		1	1	1					
+plantIvy	placeable	1	tabletop				1	1		1	1	1					
+plantFlytrap	placeable	1	tabletop				1	1		1	1	1					
+																	
+	Type	Solid	Category	Interact	Grid	NoRotation	Wilderness	Home	Barn	Dungeon	Mine	Greenhouse	Road				
+replantableTree	placeable	1					1										
+replantableRock	placeable	1					1										
+replantableGrass	placeable	1					1										
+																	
+																	
+																	
+
+Meals	Type	Category	PreparationTime	Quest	Stamina	WalkSpeed	FlySpeed	SpiritFeed
+						// percents	// percents										
+																	
+mealSpiritSoup	meal	meal_general	30														
+mealBirthdayCake	meal	meal_general	120														
+mealDubiousDish	meal	meal_general			-30												
+mealBurntFood	meal	meal_general			-50												
+																	
+mealStonefruitDonuts	meal	meal_spring	30	shopkeeper	150	10											
+mealNightshadeNoodles	meal	meal_spring	40		-30		5										
+mealHotPepperPasta	meal	meal_spring	20	artist	180												
+mealSpiritbaneSoup	meal	meal_spring	50		210			1									
+																	
+mealPopsiplantPudding	meal	meal_summer	30		80	10											
+mealPinwheelCake	meal	meal_summer	50	historian	100												
+mealZaplantRamen	meal	meal_summer	20	herbalist	120			1									
+mealTinyFlowerTart	meal	meal_summer	40		150		10										
+																	
+mealSquishSoup	meal	meal_fall	30	blacksmith	200												
+mealFlagFlan	meal	meal_fall	30				15										
+mealGrumpkinPie	meal	meal_fall	40	carpenter	-90	10	10										
+mealColberryLasagna	meal	meal_fall	50			10	10	1									
+																	
+mealSnowmanBread	meal	meal_winter	30	botanist	150		10										
+mealChillyBerrySherbet	meal	meal_winter	120		170	5											
+mealSweaterCookies	meal	meal_winter	40		200		10	1									
+mealIcicleIceCream	meal	meal_winter	50	magicman			15										
+																	
+mealSisyphishFriedRice	meal	meal_fish	30		120			1									
+mealBunnyfishDumplings	meal	meal_fish	20		200			1									
+mealPizzafishPie	meal	meal_fish	60	professor	300			1									
+mealMoonfishTacos	meal	meal_fish	30		220			1									
+mealLightningEelSushi	meal	meal_fish	40		500			1									
+mealSweetSourSpinefish	meal	meal_fish	40		330	10											
+mealTigerfishandChips	meal	meal_fish	50	fisherman	270												
+mealVoidfishPaella	meal	meal_fish	60		420												
+																	
+																	
+	Type	Category	PreparationTime	Quest	Stamina	WalkSpeed	FlySpeed	SpiritFeed									
+coffee	beverage					10											
+wine	beverage					-10											
+beer	beverage					-10											
+																	
+wineRose	beverage					-10											
+wineOrange	beverage					-10											
+wineRed	beverage					-10											
+wineDessert	beverage					-10											
+																	
+beerPilsner	beverage					-10											
+beerCerveza	beverage					-10											
+beerIPA	beverage					-10											
+beerStout	beverage					-10											
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+

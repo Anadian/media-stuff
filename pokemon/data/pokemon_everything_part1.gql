@@ -1,0 +1,341 @@
+query samplePokeAPIquery {
+  pokemon_v2_ability {
+    id
+    name
+    generation_id
+    is_main_series
+  }
+  pokemon_v2_abilitychange {
+    id
+    ability_id
+    version_group_id
+  }
+  pokemon_v2_abilitychangeeffecttext(where: {language_id: {_eq: 9}}) {
+    id
+    ability_change_id
+    effect
+  }
+  pokemon_v2_abilityeffecttext(where: {language_id: {_eq: 9}}) {
+    id
+    ability_id
+    effect
+    short_effect
+  }
+  pokemon_v2_abilityflavortext(where: {language_id: {_eq: 9}}) {
+    id
+    ability_id
+    version_group_id
+    flavor_text
+  }
+  pokemon_v2_abilityname(where: {language_id: {_eq: 9}}) {
+    id
+    ability_id
+    name
+  }
+  pokemon_v2_characteristic {
+    id
+    stat_id
+    gene_mod_5
+  }
+  pokemon_v2_characteristicdescription(where: {language_id: {_eq: 9}}) {
+    id
+    characteristic_id
+    description
+  }
+  pokemon_v2_egggroup {
+    id
+  }
+  pokemon_v2_egggroupname(where: {language_id: {_eq: 9}}) {
+    id
+    egg_group_id
+    name
+  }
+  pokemon_v2_evolutionchain {
+    id
+    baby_trigger_item_id
+  }
+  pokemon_v2_evolutiontrigger {
+    id
+  }
+  pokemon_v2_evolutiontriggername(where: {language_id: {_eq: 9}}) {
+    id
+    evolution_trigger_id
+    name
+  }
+  pokemon_v2_experience {
+    id
+    growth_rate_id
+    level
+    experience
+  }
+  pokemon_v2_gender {
+    id
+    name
+  }
+  pokemon_v2_generation {
+    id
+    region_id
+    name
+  }
+  pokemon_v2_generationname(where: {language_id: {_eq: 9}}) {
+    id
+    generation_id
+    name
+  }
+  pokemon_v2_growthrate {
+    id
+    formula
+    name
+  }
+  pokemon_v2_growthratedescription(where: {language_id: {_eq: 9}}) {
+    id
+    growth_rate_id
+    description
+  }
+  pokemon_v2_item {
+    id
+    item_category_id
+    item_fling_effect_id
+    cost
+    fling_power
+  }
+  pokemon_v2_itemattribute {
+    id
+  }
+  pokemon_v2_itemattributedescription(where: {language_id: {_eq: 9}}) {
+    id
+    item_attribute_id
+    description
+  }
+  pokemon_v2_itemattributemap {
+    id
+    item_id
+    item_attribute_id
+  }
+  pokemon_v2_itemattributename(where: {language_id: {_eq: 9}}) {
+    id
+    item_attribute_id
+    name
+  }
+  pokemon_v2_itemcategory {
+    id
+    item_pocket_id
+  }
+  pokemon_v2_itemcategoryname(where: {language_id: {_eq: 9}}) {
+    id
+    item_category_id
+    name
+  }
+  pokemon_v2_itemeffecttext(where: {language_id: {_eq: 9}}) {
+    id
+    item_id
+    effect
+    short_effect
+  }
+  pokemon_v2_itemflavortext(where: {language_id: {_eq: 9}}) {
+    id
+    item_id
+    version_group_id
+    flavor_text
+  }
+  pokemon_v2_itemflingeffect {
+    id
+    name
+  }
+  pokemon_v2_itemgameindex {
+    id
+    item_id
+    generation_id
+    game_index
+  }
+  pokemon_v2_itemname(where: {language_id: {_eq: 9}}) {
+    id
+    item_id
+    name
+  }
+  pokemon_v2_itempocket {
+    id
+  }
+  pokemon_v2_itempocketname(where: {language_id: {_eq: 9}}) {
+    id
+    item_pocket_id
+    name
+  }
+  pokemon_v2_itemsprites {
+    id
+    item_id
+    sprites
+  }
+  pokemon_v2_language {
+    id
+    iso639
+    name
+    official
+  }
+  pokemon_v2_languagename(where: {language_id: {_eq: 9}}) {
+    id
+    language_id
+    local_language_id
+    name
+  }
+  pokemon_v2_location {
+    id
+    region_id
+  }
+  pokemon_v2_locationarea {
+    id
+    location_id
+    game_index
+  }
+  pokemon_v2_locationareaname(where: {language_id: {_eq: 9}}) {
+    id
+    location_area_id
+    name
+  }
+  pokemon_v2_locationname(where: {language_id: {_eq: 9}}) {
+    id
+    location_id
+    name
+  }
+  pokemon_v2_machine {
+    id
+    item_id
+    machine_number
+    move_id
+    version_group_id
+    growth_rate_id
+  }
+  pokemon_v2_move {
+    id
+    type_id
+    generation_id
+    move_damage_class_id
+    move_effect_chance
+    move_effect_id
+    move_target_id
+    power
+    accuracy
+    pp
+    priority
+  }
+  pokemon_v2_moveattribute {
+    id
+  }
+  pokemon_v2_moveattributedescription(where: {language_id: {_eq: 9}}) {
+    id
+    move_attribute_id
+    description
+  }
+  pokemon_v2_moveattributename(where: {language_id: {_eq: 9}}) {
+    id
+    move_attribute_id
+    name
+  }
+  pokemon_v2_movebattlestyle {
+    id
+  }
+  pokemon_v2_movebattlestylename(where: {language_id: {_eq: 9}}) {
+    id
+    move_battle_style_id
+    name
+  }
+  pokemon_v2_movechange {
+    id
+    move_id
+    type_id
+    version_group_id
+    move_effect_id
+    move_effect_chance
+    power
+    pp
+  }
+  pokemon_v2_movedamageclass {
+    id
+  }
+  pokemon_v2_movedamageclassdescription(where: {language_id: {_eq: 9}}) {
+    id
+    move_damage_class_id
+    description
+  }
+  pokemon_v2_movedamageclassname(where: {language_id: {_eq: 9}}) {
+    id
+    move_damage_class_id
+    name
+  }
+  pokemon_v2_moveeffect {
+    id
+  }
+  pokemon_v2_moveeffectchange {
+    id
+    move_effect_id
+    version_group_id
+  }
+  pokemon_v2_moveeffecteffecttext(where: {language_id: {_eq: 9}}) {
+    id
+    move_effect_id
+    effect
+    short_effect
+  }
+  pokemon_v2_moveflavortext(where: {language_id: {_eq: 9}}) {
+    id
+    move_id
+    version_group_id
+    flavor_text
+  }
+  pokemon_v2_movelearnmethod {
+    id
+  }
+  pokemon_v2_movelearnmethoddescription(where: {language_id: {_eq: 9}}) {
+    id
+    move_learn_method_id
+    description
+  }
+  pokemon_v2_movelearnmethodname(where: {language_id: {_eq: 9}}) {
+    id
+    move_learn_method_id
+    name
+  }
+  pokemon_v2_movemeta {
+    id
+    move_id
+    ailment_chance
+    crit_rate
+    drain
+    flinch_chance
+    healing
+    max_hits
+    max_turns
+    min_hits
+    min_turns
+    move_meta_ailment_id
+    move_meta_category_id
+    stat_chance
+  }
+  pokemon_v2_movemetaailment {
+    id
+  }
+  pokemon_v2_movemetaailmentname(where: {language_id: {_eq: 9}}) {
+    id
+    move_meta_ailment_id
+    name
+  }
+  pokemon_v2_movemetacategory {
+    id
+  }
+  pokemon_v2_movemetacategorydescription(where: {language_id: {_eq: 9}}) {
+    id
+    move_meta_category_id
+    description
+  }
+  pokemon_v2_movemetastatchange {
+    id
+    move_id
+    stat_id
+    change
+  }
+  pokemon_v2_movename(where: {language_id: {_eq: 9}}) {
+    id
+    move_id
+    name
+  }
+}

@@ -1,0 +1,2870 @@
+{
+    "c2array": true,
+    "size": [
+        11,
+        86,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Code"
+            ],
+            [
+                "hint1"
+            ],
+            [
+                "hint2"
+            ],
+            [
+                "hint3"
+            ],
+            [
+                "hint4"
+            ],
+            [
+                "hint5"
+            ],
+            [
+                "hint6"
+            ],
+            [
+                "hint7"
+            ],
+            [
+                "hint8"
+            ],
+            [
+                "hint9"
+            ],
+            [
+                "hint10"
+            ],
+            [
+                "hint11"
+            ],
+            [
+                "hint12"
+            ],
+            [
+                "hint13"
+            ],
+            [
+                "hint14"
+            ],
+            [
+                "hint15"
+            ],
+            [
+                "hint16"
+            ],
+            [
+                "hint17"
+            ],
+            [
+                "hint18"
+            ],
+            [
+                "hint19"
+            ],
+            [
+                "hint20"
+            ],
+            [
+                "hint21"
+            ],
+            [
+                "hint22"
+            ],
+            [
+                "hint23"
+            ],
+            [
+                "hint24"
+            ],
+            [
+                "hint25"
+            ],
+            [
+                "hint26"
+            ],
+            [
+                "hint27"
+            ],
+            [
+                "hint28"
+            ],
+            [
+                "hint29"
+            ],
+            [
+                "hint30"
+            ],
+            [
+                "hint31"
+            ],
+            [
+                "hint32"
+            ],
+            [
+                "hint33"
+            ],
+            [
+                "hint34"
+            ],
+            [
+                "hint35"
+            ],
+            [
+                "hint36"
+            ],
+            [
+                "hint37"
+            ],
+            [
+                "hint38"
+            ],
+            [
+                "hint39"
+            ],
+            [
+                "hint40"
+            ],
+            [
+                "hint41"
+            ],
+            [
+                "hint42"
+            ],
+            [
+                "hint43"
+            ],
+            [
+                "hint44"
+            ],
+            [
+                "hint45"
+            ],
+            [
+                "hint46"
+            ],
+            [
+                "hint47"
+            ],
+            [
+                "hint48"
+            ],
+            [
+                "hint49"
+            ],
+            [
+                "hint50"
+            ],
+            [
+                "hint51"
+            ],
+            [
+                "hint52"
+            ],
+            [
+                "hint53"
+            ],
+            [
+                "hint54"
+            ],
+            [
+                "hint55"
+            ],
+            [
+                "hint56"
+            ],
+            [
+                "hint57"
+            ],
+            [
+                "hint58"
+            ],
+            [
+                "hint59"
+            ],
+            [
+                "hint60"
+            ],
+            [
+                "hint61"
+            ],
+            [
+                "hint62"
+            ],
+            [
+                "hint63"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Day"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                10
+            ],
+            [
+                ""
+            ],
+            [
+                10
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                14
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                28
+            ],
+            [
+                28
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "Controls"
+            ],
+            [
+                "gamepad"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "gamepad"
+            ],
+            [
+                "gamepad"
+            ],
+            [
+                "gamepad"
+            ],
+            [
+                "keyboard"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "keyboard"
+            ],
+            [
+                "keyboard"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "//UNUSED"
+            ],
+            [
+                "keyboard"
+            ],
+            [
+                "keyboard"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "EN"
+            ],
+            [
+                "You can use the right thumbstick to nudge items when placing them"
+            ],
+            [
+                "Moonstones glow after sunset"
+            ],
+            [
+                "Crafting recipes can be found in mines and dungeons"
+            ],
+            [
+                "Some crops can be harvested multiple times without needing to replant them"
+            ],
+            [
+                "Casting your fishing line further increases your chance to catch rarer fish"
+            ],
+            [
+                "You can place crops on the ground to distract Spirits that are chasing you, or to lure out Spirits when they can't be found"
+            ],
+            [
+                "Spirits in the Spirit Barn will run away if not fed for several days"
+            ],
+            [
+                "Healing pools recharge every day"
+            ],
+            [
+                "Any crops you have planted outside will wilt on the first day of a new season"
+            ],
+            [
+                "Spirits kept in a Spirit Barn will drop Spirit Resources if fed everyday"
+            ],
+            [
+                "Place a Spirit egg in a nest inside a Spirit Barn to hatch it"
+            ],
+            [
+                "Fertilizers boost crop stats"
+            ],
+            [
+                "You can use the Alchemy Lab to combine the stats of two crops"
+            ],
+            [
+                "Craft Charms to protect yourself from environmental hazards such as poison clouds, lightning, and fire"
+            ],
+            [
+                "You can construct bridges to travel between islands"
+            ],
+            [
+                "Enclosing an area in fences will prevent Spirits from spawning in that area"
+            ],
+            [
+                "Some crafting recipes can only be crafted at specific stations"
+            ],
+            [
+                "Crops with the Tame stat can be fed to wild Spirits in battle to tame them"
+            ],
+            [
+                "Craft Beacons to mark spots on your map"
+            ],
+            [
+                "Many items crafted in the Decoration Station can be rotated"
+            ],
+            [
+                "A Psychic Storm occurs on one random island every night"
+            ],
+            [
+                "Craft Sprinklers so you don't have to water your crops by hand"
+            ],
+            [
+                "Craft a Mailbox to receive Mail wherever you place it"
+            ],
+            [
+                "Items sold at shops in town sell for 50% more"
+            ],
+            [
+                "Every Friday night, everyone in town meets at the Tavern"
+            ],
+            [
+                "Ossono's Dish of the Day may significantly increase your stamina! It may also reduce it..."
+            ],
+            [
+                "Don’t know what to gift? Talking to people can teach you about their likes and dislikes"
+            ],
+            [
+                "Gifting someone a Moonstone Bracelet will start a relationship with them"
+            ],
+            [
+                "Gifting someone a Grass Bracelet will end a relationship with them"
+            ],
+            [
+                "Moonstone Bracelets and Grass Bracelets can be unlocked on the Social skill tree"
+            ],
+            [
+                "Feed debuffing crops and concoctions to enemy Spirits to weaken them"
+            ],
+            [
+                "Taming an enemy Spirit is a quick way to win the battle!"
+            ],
+            [
+                "Decks with fewer cards are more predictable"
+            ],
+            [
+                "The number of cards in your draw and discard piles is shown above the buttons on the left in battle"
+            ],
+            [
+                "Raising your Spirit's Power stat will make their attacks do more damage"
+            ],
+            [
+                "Raising your Spirit's Speed stat will make their Bash cards remove more Armor"
+            ],
+            [
+                "As your Spirit reaches higher levels, rarer cards will show up during level up"
+            ],
+            [
+                "Brushing and feeding Spirits make them happy. Happy Spirits are more likely to drop Spirit Resources"
+            ],
+            [
+                "Spirits in the medallion don’t need to eat every day, but you can still feed them crops to increase their stats"
+            ],
+            [
+                "Some Spirits have abilities which are activated only when they are following you"
+            ],
+            [
+                "The dial on the outer edge of your compass indicates how strong the Spirits are on the island you are on"
+            ],
+            [
+                "Sleep in your bed or rent a room in the tavern to have a good night's sleep"
+            ],
+            [
+                "Dates always start at 20:00. Don't be late!"
+            ],
+            [
+                "Sometimes you can find a treasure when fishing"
+            ],
+            [
+                "Some shops update their stock daily"
+            ],
+            [
+                "Find new crafting recipes by exploring the world and completing quests"
+            ],
+            [
+                "Hold R trigger to Sprint"
+            ],
+            [
+                "Click the left thumbstick to hide the UI"
+            ],
+            [
+                "Use the right thumbstick to adjust the camera"
+            ],
+            [
+                "Use keys 1 to 0 to quickly select a slot in your toolbar"
+            ],
+            [
+                "You can craft multiple ingots in the furnace"
+            ],
+            [
+                "Islands can be zoomed in on when using the map"
+            ],
+            [
+                "You can place items on placeable walls"
+            ],
+            [
+                "You can click+hold to craft multiple items"
+            ],
+            [
+                "You can click+hold to feed multiple crops to spirits"
+            ],
+            [
+                "Magic Man sometimes sells shop-exclusive cards"
+            ],
+            [
+                "Tobin sells special lures to catch specific fish"
+            ],
+            [
+                "If you let go a spirit, it will start spawning in the wild"
+            ],
+            [
+                "Sometimes villagers put random items in the Community chest"
+            ],
+            [
+                "Upgrade your taming skills to tame higher level Spirits"
+            ],
+            [
+                "You can send spirits to the Science Center for storage if there is no space in your Barn"
+            ],
+            [
+                "You can install multiple homes, they all lead to the same pocket dimension"
+            ],
+            [
+                "Carry a spare Tent with you when exploring outer islands to avoid passing out"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Hold Shift to Sprint"
+            ],
+            [
+                "Press ` to hide the UI"
+            ],
+            [
+                ""
+            ],
+            [
+                "If you let go a spirit, it will start spawning on islands."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "FR"
+            ],
+            [
+                "Tu peux utiliser le stick droit pour déplacer légèrement un objet lorsque tu le places."
+            ],
+            [
+                "Les pierres de lune luisent quand il fait nuit."
+            ],
+            [
+                "Tu peux trouver des plans dans les mines et les donjons."
+            ],
+            [
+                "Certaines cultures peuvent être récoltées plusieurs fois sans être replantées."
+            ],
+            [
+                "Plus tu lances ta ligne loin, plus tu as de chances d'attraper des poissons rares."
+            ],
+            [
+                "Tu peux placer des cultures sur le sol pour distraire les esprits qui te poursuivent ou pour en attirer lorsqu'il n'y en a pas."
+            ],
+            [
+                "Les esprits quitteront l'abri s'ils ne sont pas nourris pendant plusieurs jours."
+            ],
+            [
+                "Les sources régénérantes se rechargent tous les jours."
+            ],
+            [
+                "Les cultures plantées en extérieur se flétriront au début de chaque nouvelle saison."
+            ],
+            [
+                "Les esprits qui logent dans l'abri donneront des ressources s'ils sont nourris tous les jours."
+            ],
+            [
+                "Place un œuf d'esprit dans un nid à l'intérieur d'un abri pour le faire éclore."
+            ],
+            [
+                "L'engrais renforce les attributs des cultures."
+            ],
+            [
+                "Tu peux utiliser le labo d'alchimie pour combiner les attributs de deux cultures."
+            ],
+            [
+                "Fabrique des amulettes pour te protéger des dangers environnementaux tels que les nuages empoisonnés, la foudre et le feu."
+            ],
+            [
+                "Tu peux construire des ponts pour voyager entre les îles."
+            ],
+            [
+                "Si tu clôtures une zone, aucun esprit ne pourra y apparaître."
+            ],
+            [
+                "Certains plans ne peuvent être utilisés que sur certains ateliers."
+            ],
+            [
+                "Tu peux apprivoiser des esprits sauvages en leur donnant des cultures dotées de l'attribut Apprivoisement."
+            ],
+            [
+                "Fabrique des balises pour marquer certains emplacements sur la carte."
+            ],
+            [
+                "La plupart des objets de l'atelier de décoration peuvent être placés dans plusieurs sens."
+            ],
+            [
+                "Tous les soirs, une tempête psychique éclate sur une île aléatoire."
+            ],
+            [
+                "Fabrique des arroseurs pour éviter d'avoir à arroser tes cultures manuellement."
+            ],
+            [
+                "Fabrique une boîte à lettres pour recevoir ton courrier là où tu la places."
+            ],
+            [
+                "Les commerçants de l'île achèteront tes articles 50 % plus cher."
+            ],
+            [
+                "Tous les vendredis soir, les habitants de l'île se retrouvent à la taverne."
+            ],
+            [
+                "Le plat du jour d'Ossono peut augmenter considérablement ton endurance, mais il peut aussi la réduire..."
+            ],
+            [
+                "Tu ne sais pas quoi offrir aux habitants de l'île ? Parle-leur pour en apprendre plus sur leurs goûts."
+            ],
+            [
+                "Si tu offres un bracelet en pierre de lune à quelqu'un, tu seras alors en couple avec cette personne."
+            ],
+            [
+                "Si tu offres un bracelet végétal à quelqu'un, tu mettras un terme à ta relation avec cette personne."
+            ],
+            [
+                "Le bracelet en pierre de lune et le bracelet végétal se débloquent sur l'arbre des compétences sociales."
+            ],
+            [
+                "Tu peux affaiblir les esprits ennemis en leur donnant des préparations et des cultures aux attributs négatifs."
+            ],
+            [
+                "Apprivoiser un esprit ennemi est un moyen très rapide de remporter un combat !"
+            ],
+            [
+                "Les decks composés de peu de cartes sont plus prévisibles."
+            ],
+            [
+                "Le nombre de cartes de ta pioche et de ta défausse est indiqué au-dessus des boutons situés à gauche lors d'un combat."
+            ],
+            [
+                "Si tu augmentes la puissance de ton esprit, ses attaques infligeront plus de dégâts."
+            ],
+            [
+                "Si tu augmentes la vitesse de ton esprit, ses cartes Impact réduiront davantage l'armure des ennemis."
+            ],
+            [
+                "Lorsque ton esprit atteint un certain niveau, des cartes plus rares apparaîtront à chaque gain de niveau."
+            ],
+            [
+                "Brosse et nourris tes esprits pour les rendre heureux, ce qui leur confère plus de chances de donner des ressources."
+            ],
+            [
+                "Les esprits dans ton médaillon n'ont pas besoin d'être nourris tous les jours, mais tu peux quand même leur donner à manger pour augmenter leurs attributs."
+            ],
+            [
+                "Certains esprits possèdent des aptitudes qui s'activent uniquement lorsqu'ils te suivent."
+            ],
+            [
+                "Le cadran qui entoure ta boussole t'indique le niveau des esprits sur l'île où tu te trouves."
+            ],
+            [
+                "Dors dans ton lit ou loue une chambre à la taverne pour bénéficier d'un sommeil réparateur."
+            ],
+            [
+                "Les rendez-vous commencent toujours à 20 heures. Ne sois pas en retard !"
+            ],
+            [
+                "Parfois, tu peux trouver un trésor en pêchant."
+            ],
+            [
+                "Certaines boutiques mettent leurs stocks à jour quotidiennement."
+            ],
+            [
+                "Trouve de nouveaux plans en explorant le monde et en accomplissant des quêtes."
+            ],
+            [
+                "Maintiens la gâchette droite pour courir."
+            ],
+            [
+                "Appuie sur le stick gauche pour masquer l'interface."
+            ],
+            [
+                "Utilise le stick droit pour régler la caméra."
+            ],
+            [
+                "Utilise les touches de 1 à 0 pour sélectionner rapidement un emplacement dans ta barre d'objets."
+            ],
+            [
+                "Tu peux fabriquer plusieurs lingots dans le fourneau."
+            ],
+            [
+                "Tu peux zoomer sur les îles quand tu utilises la carte."
+            ],
+            [
+                "Tu peux placer des objets sur certains murs."
+            ],
+            [
+                "Tu peux cliquer et maintenir pour fabriquer plusieurs objets d'un coup."
+            ],
+            [
+                "Tu peux cliquer et maintenir pour donner plusieurs cultures à manger à tes esprits."
+            ],
+            [
+                "Le mage vend parfois des cartes exclusives."
+            ],
+            [
+                "Tobin vend des hameçons spéciaux permettant de pêcher des poissons spécifiques."
+            ],
+            [
+                "Si tu abandonnes un esprit, il commencera à apparaître dans la nature."
+            ],
+            [
+                "Les villageois placent parfois des objets aléatoires dans le coffre communautaire."
+            ],
+            [
+                "Améliore tes compétences d'apprivoisement pour pouvoir apprivoiser des esprits de niveau supérieur."
+            ],
+            [
+                "Tu peux stocker tes esprits dans le labo si ton abri est plein."
+            ],
+            [
+                "Tu peux créer plusieurs maisons : elles mèneront toutes à la même dimension miniature."
+            ],
+            [
+                "Emporte toujours une tente quand tu explores les autres îles pour éviter de perdre connaissance."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Maintiens la touche Maj pour courir."
+            ],
+            [
+                "Appuie sur « ù » pour masquer l'interface."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "DE"
+            ],
+            [
+                "Du kannst den rechten Stick benutzen, um Gegenstände leicht anzustoßen, wenn du sie platzierst."
+            ],
+            [
+                "Mondsteine leuchten nach Sonnenuntergang."
+            ],
+            [
+                "Herstellungsrezepte sind in Minen und Verliesen zu finden."
+            ],
+            [
+                "Manche Pflanzen können mehrfach geerntet werden, ohne erneut gesät werden zu müssen."
+            ],
+            [
+                "Je weiter du den Köder wirfst, desto größer ist deine Chance, seltene Fische zu fangen."
+            ],
+            [
+                "Du kannst Pflanzen auf dem Boden platzieren, um Geister abzulenken, die dich verfolgen, oder um Geister hervorzulocken, wenn du sie nicht siehst."
+            ],
+            [
+                "Geister in der Geisterscheune laufen davon, wenn du sie mehrere Tage lang nicht fütterst."
+            ],
+            [
+                "Heilquelle laden sich jeden Tag wieder auf."
+            ],
+            [
+                "Alle Pflanzen, die du im Freien gepflanzt hast, verwelken am ersten Tag einer neuen Saison."
+            ],
+            [
+                "Geister in einer Geisterscheune erzeugen Geisterressourcen, wenn sie täglich gefüttert werden."
+            ],
+            [
+                "Platziere ein Geisterei in einem Nest in einer Geisterscheune, damit es ausgebrütet wird."
+            ],
+            [
+                "Düngemittel verbessern die Eigenschaften von Pflanzen."
+            ],
+            [
+                "Im Alchemielabor kannst du die Eigenschaften zweier Pflanzen kombinieren."
+            ],
+            [
+                "Erschaffe Talismane, um dich vor Gefahren wie Giftwolken, Blitzen und Feuer zu schützen."
+            ],
+            [
+                "Du kannst Brücken bauen, um dich von einer Insel zur anderen zu bewegen."
+            ],
+            [
+                "Wenn du einen Bereich einzäunst, erscheinen dort keine Geister mehr."
+            ],
+            [
+                "Manche Herstellungsrezepte können nur an bestimmten Arbeitsstationen hergestellt werden."
+            ],
+            [
+                "Pflanzen mit der Eigenschaft \"Zähmen\" können im Kampf an wilde Geister verfüttert werden, um sie zu zähmen."
+            ],
+            [
+                "Stelle Leuchtfeuer her, um Orte auf deiner Karte zu markieren."
+            ],
+            [
+                "Viele Gegenstände, die an der Dekorationsstation hergestellt wurden, können gedreht werden."
+            ],
+            [
+                "Jede Nacht bricht ein Psychosturm auf einer zufälligen Insel los."
+            ],
+            [
+                "Stelle Sprenger her, um deine Pflanzen nicht von Hand bewässern zu müssen."
+            ],
+            [
+                "Stelle einen Briefkasten her, um dort Post zu erhalten, wo du ihn platzierst."
+            ],
+            [
+                "Gegenstände, die in Läden in der Stadt verkauft werden, bringen 50% mehr Geld."
+            ],
+            [
+                "Jeden Freitagabend treffen sich die Stadtbewohner in der Taverne."
+            ],
+            [
+                "Ossonos Tagesgericht kann deine Ausdauer massiv erhöhen. Oder auch senken ..."
+            ],
+            [
+                "Du weißt nicht, was du schenken sollst? Rede mit anderen, um zu erfahren, was sie mögen und was nicht."
+            ],
+            [
+                "Wenn du jemandem ein Mondsteinarmband schenkst, gehst du eine Beziehung mit dieser Person ein."
+            ],
+            [
+                "Wenn du jemandem ein Grasarmband schenkst, beendest du eine Beziehung mit dieser Person."
+            ],
+            [
+                "Mondsteinarmbänder und Grasarmbänder können im Fähigkeitsbaum \"Soziales\" freigeschaltet werden."
+            ],
+            [
+                "Verfüttere schwächende Pflanzen und Mixturen an feindliche Geister, um sie zu schwächen."
+            ],
+            [
+                "Einen feindlich gesonnenen Geist zu zähmen, ist ein schneller Weg, den Kampf zu gewinnen."
+            ],
+            [
+                "Decks mit weniger Karten sind berechenbarer."
+            ],
+            [
+                "Wie viele Karten in deinem Nachzieh- und Ablagestapel sind, siehst du im Kampf über den Feldern auf der linken Seite."
+            ],
+            [
+                "Wenn du die Kraft deines Geists steigerst, verursachen seine Angriffe mehr Schaden."
+            ],
+            [
+                "Wenn du das Tempo deines Geists steigerst, entfernen seine Hieb-Karten mehr Rüstung."
+            ],
+            [
+                "Je höher die Stufe deines Geists, desto seltener die Karten beim Stufenaufstieg."
+            ],
+            [
+                "Wenn du Geister striegelst und fütterst, sind sie glücklich. Glückliche Geister erzeugen mit höherer Wahrscheinlichkeit Geisterressourcen."
+            ],
+            [
+                "Die Geister im Medaillon müssen nicht jeden Tag fressen, aber du kannst sie trotzdem mit Pflanzen füttern, um ihre Eigenschaften zu verbessern."
+            ],
+            [
+                "Manche Geister besitzen Fähigkeiten, die erst aktiviert werden, wenn sie dir folgen."
+            ],
+            [
+                "Das Rad am Rand deines Kompasses zeigt an, wie stark die Geister auf der Insel sind, auf der du gerade bist."
+            ],
+            [
+                "Schlaf in deinem Bett oder nimm dir ein Zimmer in der Taverne, um eine geruhsame Nacht zu verbringen."
+            ],
+            [
+                "Rendezvous fangen immer um 20 Uhr an. Komm nicht zu spät!"
+            ],
+            [
+                "Manchmal findest du beim Fischen einen Schatz."
+            ],
+            [
+                "Manche Läden haben jeden Tag ein anderes Angebot."
+            ],
+            [
+                "Finde neue Herstellungsrezepte, indem du die Welt erkundest und Quests abschließt."
+            ],
+            [
+                "Halte RT gedrückt, um zu sprinten."
+            ],
+            [
+                "Drücke den linken Stick, um die Spielanzeigen auszublenden."
+            ],
+            [
+                "Benutze den rechten Stick, um die Kamera einzustellen."
+            ],
+            [
+                "Benutze die Tasten 1 bis 0, um schnell einen Platz in deiner Werkzeugleiste auszuwählen."
+            ],
+            [
+                "Am Hochofen kannst du mehrere Barren herstellen."
+            ],
+            [
+                "Benutzt du die Karte, kannst du Inseln ranzoomen."
+            ],
+            [
+                "An platzierbaren Wänden kannst du Gegenstände platzieren."
+            ],
+            [
+                "Mit Klicken+Halten stellst du mehrere Gegenstände her."
+            ],
+            [
+                "Mit Klicken+Halten fütterst du Geister mit mehreren Pflanzen."
+            ],
+            [
+                "Der Magier verkauft manchmal Karten, die es nur im Laden gibt."
+            ],
+            [
+                "Tobin verkauft spezielle Köder, um besondere Fische zu fangen."
+            ],
+            [
+                "Wenn du einen Geist freilässt, erscheint er in der Wildnis."
+            ],
+            [
+                "Manchmal legen Dorfbewohner zufällige Gegenstände in die Gemeinschaftstruhe."
+            ],
+            [
+                "Verbessere dein Zähmen, um höherstufige Geister zu zähmen."
+            ],
+            [
+                "Wenn in deiner Scheune kein Platz mehr ist, kannst du Geister zum Aufbewahren ins Forschungszentrum schicken."
+            ],
+            [
+                "Du kannst mehrere Häuser errichten, sie führen alle in die gleiche Nebendimension."
+            ],
+            [
+                "Nimm ein zusätzliches Zelt mit, wenn du die äußeren Inseln erkundest. So verhinderst du es, ohnmächtig zu werden."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Halte die Umschalttaste gedrückt, um zu sprinten."
+            ],
+            [
+                "Drücke `, um die Spielanzeigen auszublenden."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "ES"
+            ],
+            [
+                "Usa la palanca derecha para empujar los objetos cuando los coloques."
+            ],
+            [
+                "Las piedras lunares brillan al anochecer."
+            ],
+            [
+                "Puedes encontrar diseños de fabricación en minas y mazmorras."
+            ],
+            [
+                "Algunos cultivos se pueden cosechar varias veces sin tener que volver a plantarlos."
+            ],
+            [
+                "Cuanto más lejos lances el sedal, más probabilidades tendrás de que piquen peces poco comunes."
+            ],
+            [
+                "Cultiva el suelo para distraer a los espíritus que te persiguen o para atraerlos cuando no se dejan ver."
+            ],
+            [
+                "Los espíritus del establo escaparán si pasas varios días sin darles de comer."
+            ],
+            [
+                "Los estanques curativos se recargan todos los días."
+            ],
+            [
+                "Los cultivos que plantes fuera se marchitan el primer día tras el cambio de estación."
+            ],
+            [
+                "Los espíritus que estén en el establo soltarán recursos si les das de comer todos los días."
+            ],
+            [
+                "Deja un espirihuevo en un nido dentro del establo para que eclosione."
+            ],
+            [
+                "El fertilizante mejora los atributos de los cultivos."
+            ],
+            [
+                "Puedes usar el laboratorio de alquimia para combinar los atributos de dos cultivos."
+            ],
+            [
+                "Fabrica amuletos para protegerte de peligros ambientales, como las nubes de veneno, los rayos o el fuego."
+            ],
+            [
+                "Puedes construir puentes para viajar entre islas."
+            ],
+            [
+                "Si cercas una zona, evitarás que aparezcan espíritus en su interior."
+            ],
+            [
+                "Ciertos diseños de fabricación solo pueden fabricarse en bancos concretos."
+            ],
+            [
+                "Dale un cultivo con el atributo de facilidad de doma a un espíritu silvestre durante el combate para domarlo."
+            ],
+            [
+                "Fabrica balizas para marcar puntos en el mapa."
+            ],
+            [
+                "La mayoría de los objetos creados en el banco de decoración se pueden rotar."
+            ],
+            [
+                "Todas las noches se desata una tormenta psíquica en alguna isla."
+            ],
+            [
+                "Fabrica aspersores para no tener que regar manualmente los cultivos."
+            ],
+            [
+                "Fabrica un buzón y colócalo donde quieras recibir el correo."
+            ],
+            [
+                "Recibirás un 50 % más si vendes los objetos en las tiendas del pueblo."
+            ],
+            [
+                "Los viernes por la noche se reúne todo el pueblo en la taberna."
+            ],
+            [
+                "El plato del día de Ossono aumenta mucho tu resistencia. Aunque también podría reducirla..."
+            ],
+            [
+                "¿No sabes qué regalar? Habla con la gente para conocer mejor sus gustos."
+            ],
+            [
+                "Si le regalas una pulsera de piedra lunar a alguien, significa que quieres iniciar una relación."
+            ],
+            [
+                "Si le regalas una pulsera de hierba a alguien, significa que quieres terminar la relación."
+            ],
+            [
+                "Las pulseras de piedra lunar y de hierba se desbloquean desde el árbol de habilidades Social."
+            ],
+            [
+                "Dales cultivos y brebajes con desventajas a los espíritus enemigos para debilitarlos."
+            ],
+            [
+                "¡Doma a un espíritu para ganar el combate en un abrir y cerrar de ojos!"
+            ],
+            [
+                "Los mazos con pocas cartas son más predecibles."
+            ],
+            [
+                "Durante el combate, se muestra el número de cartas que hay en el mazo y en la pila de descartes encima de los botones de la izquierda."
+            ],
+            [
+                "Aumenta el Vigor de tu espíritu para que sus ataques inflijan más daño."
+            ],
+            [
+                "Aumenta la Velocidad de tu espíritu para que sus cartas de Aporrear eliminen más Armadura."
+            ],
+            [
+                "A medida que tu espíritu suba de nivel, irán apareciendo cartas más inusuales."
+            ],
+            [
+                "Cepilla y da de comer a los espíritu para hacerlos felices. Si un espíritu está contento, es más probable que suelte recursos de espíritus."
+            ],
+            [
+                "Los espíritus que están en el medallón no necesitan comer todos los días, pero puedes darles cultivos igualmente para mejorar sus atributos."
+            ],
+            [
+                "Algunos espíritus tienen ciertas habilidades que solo se activan cuando te siguen."
+            ],
+            [
+                "El disco externo de la brújula indica lo fuertes que son los espíritus de la isla en la que te encuentras."
+            ],
+            [
+                "Duerme en tu cama o alquila una habitación en la taberna para descansar bien por la noche."
+            ],
+            [
+                "Las citas siempre empiezan a las 20:00, ¡no llegues tarde!"
+            ],
+            [
+                "Puedes encontrar algún que otro tesoro pescando."
+            ],
+            [
+                "Algunas tiendas actualizan sus existencias todos los días."
+            ],
+            [
+                "Explora el mundo y completa misiones para encontrar diseños de fabricación nuevos."
+            ],
+            [
+                "Mantén pulsado el gatillo derecho para correr."
+            ],
+            [
+                "Pulsa la palanca izquierda para ocultar la interfaz."
+            ],
+            [
+                "Utiliza la palanca derecha para ajustar la cámara."
+            ],
+            [
+                "Usa los números del 1 al 0 para seleccionar una ranura de la barra de herramientas."
+            ],
+            [
+                "Puedes fabricar varios lingotes en la fragua."
+            ],
+            [
+                "Puedes ampliar las islas al usar el mapa."
+            ],
+            [
+                "Se pueden colocar objetos en las paredes que lo permitan."
+            ],
+            [
+                "Haz clic y mantén pulsado para fabricar varios objetos."
+            ],
+            [
+                "Haz clic y mantén pulsado para darles varios cultivos a los espíritus."
+            ],
+            [
+                "A veces, el mago vende cartas exclusivas en la tienda."
+            ],
+            [
+                "Tobin vende cebos especiales para atrapar un tipo de pez en concreto."
+            ],
+            [
+                "Si sueltas un espíritu, este empezará a aparecer como espíritu silvestre."
+            ],
+            [
+                "A veces, la gente del pueblo mete objetos aleatorios en el cofre comunitario."
+            ],
+            [
+                "Mejora tus habilidades de doma para domar a espíritus de mayor nivel."
+            ],
+            [
+                "Si no queda espacio en el establo, puedes guardar los espíritus en el centro científico."
+            ],
+            [
+                "Puedes construir varias casas. Todas llevan a la misma dimensión de bolsillo."
+            ],
+            [
+                "Lleva siempre una tienda contigo mientras exploras las islas exteriores para no desmayarte."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Mantén pulsada Mayús para correr."
+            ],
+            [
+                "Pulsa la tecla ` para ocultar la interfaz."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "BR"
+            ],
+            [
+                "Use o direcional analógico direito para deslocar itens quando for posicioná-los."
+            ],
+            [
+                "As Selenitas brilham após o pôr do sol."
+            ],
+            [
+                "Receitas de criação podem ser encontradas em minas e masmorras."
+            ],
+            [
+                "Algumas plantações podem ser colhidas inúmeras vezes sem precisar replantá-las."
+            ],
+            [
+                "Lançar a sua linha de pesca mais longe aumenta a chance de pescar peixes raros."
+            ],
+            [
+                "Você pode colocar plantações no solo para distrair os Espíritos que estão te perseguindo ou para atraí-los quando não puderem ser encontrados."
+            ],
+            [
+                "Os Espíritos na Morada dos Espíritos fugirão se não forem alimentados por muitos dias."
+            ],
+            [
+                "Piscinas terapêuticas recarregam todos os dias."
+            ],
+            [
+                "Toda plantação na área externa murchará no primeiro dia de uma nova estação."
+            ],
+            [
+                "Os Espíritos mantidos na Morada dos Espíritos deixarão cair recursos de Espírito se alimentados todos os dias."
+            ],
+            [
+                "Coloque um ovo de Espírito em um ninho dentro da Morada dos Espíritos para chocá-lo."
+            ],
+            [
+                "Fertilizantes reforçam os atributos da plantação."
+            ],
+            [
+                "Você pode usar o laboratório de alquimia para combinar os atributos de duas plantações."
+            ],
+            [
+                "Crie amuletos para se proteger dos perigos climáticos como nuvens de veneno, raios e fogo."
+            ],
+            [
+                "Você pode construir pontes para viajar entre as ilhas."
+            ],
+            [
+                "Fechar uma área com cercas prevenirá que Espíritos apareçam no local."
+            ],
+            [
+                "Algumas receitas de criação só podem ser criadas em estações específicas."
+            ],
+            [
+                "Plantações com atributo de Doma podem ser dadas a Espíritos Selvagens na batalha para domá-los."
+            ],
+            [
+                "Crie Marcadores para marcar lugares no seu mapa."
+            ],
+            [
+                "Muitos itens criados na Estação de Decoração podem ser girados."
+            ],
+            [
+                "Uma tempestade paranormal ocorre em uma ilha aleatória toda noite."
+            ],
+            [
+                "Crie irrigadores para não ter que regar suas plantações manualmente."
+            ],
+            [
+                "Crie uma caixa de correio para receber correspondência em qualquer lugar que a colocar."
+            ],
+            [
+                "Os itens vendidos na cidade vendem por 50% a mais."
+            ],
+            [
+                "Toda sexta-feira à noite, todo mundo na cidade se encontra na Taverna."
+            ],
+            [
+                "O prato do dia da Ossono pode aumentar significativamente a sua Resistência! Mas também pode reduzi-la...."
+            ],
+            [
+                "Não sabe o que dar de presente? Conversar com as pessoas pode te ajudar a descobrir do que elas gostam ou não."
+            ],
+            [
+                "Dar um bracelete de Selenita a alguém inicia um relacionamento."
+            ],
+            [
+                "Dar um bracelete de grama a alguém termina um relacionamento."
+            ],
+            [
+                "Os braceletes de Selenita e os braceletes de grama podem ser desbloqueados na árvore de habilidade social."
+            ],
+            [
+                "Alimente os Espíritos inimigos com plantações ou preparações de enfraquecimento para enfraquecê-los."
+            ],
+            [
+                "Domar um Espírito inimigo é uma forma rápida de vencer a batalha!."
+            ],
+            [
+                "Baralhos com poucas cartas são mais previsíveis."
+            ],
+            [
+                "O número de cartas em sua pilha de compra e descarte é mostrado acima dos botões à esquerda da batalha."
+            ],
+            [
+                "Elevar o atributo de Poder do seu Espírito fará com que os ataques causem mais dano."
+            ],
+            [
+                "Elevar o atributo de Velocidade do seu Espírito fará com que as cartas Golpear removam mais Armadura."
+            ],
+            [
+                "Conforme seu Espírito alcança níveis mais altos, cartas mais raras aparecerão durante a subida de nível."
+            ],
+            [
+                "Escovar e alimentar os Espíritos os deixam felizes. Espíritos felizes têm mais chances de deixar cair recursos de Espírito."
+            ],
+            [
+                "Os Espíritos no medalhão não precisam comer todos os dias, mas você ainda pode alimentá-los com plantações para aumentar os atributos deles."
+            ],
+            [
+                "Alguns Espíritos têm habilidades que só são ativadas quando eles estão te seguindo."
+            ],
+            [
+                "O mostrador na borda externa da sua bússola indica quão forte os Espíritos são na ilha atual."
+            ],
+            [
+                "Durma na sua cama ou alugue um quarto na Taverna para ter uma boa noite de sono."
+            ],
+            [
+                "Os encontros sempre começam às 20h00. Não se atrase!"
+            ],
+            [
+                "Às vezes você pode encontrar um tesouro enquanto pesca."
+            ],
+            [
+                "Algumas lojas atualizam o estoque diariamente."
+            ],
+            [
+                "Encontre novas receitas de criação explorando o mundo e completando missões."
+            ],
+            [
+                "Segure o gatilho direito para correr."
+            ],
+            [
+                "Clique com o direcional analógico esquerdo para ocultar a interface do usuário."
+            ],
+            [
+                "Use o direcional analógico direito para ajustar a câmera."
+            ],
+            [
+                "Use as teclas de 1 a 0 para selecionar rapidamente um espaço na sua barra de ferramentas."
+            ],
+            [
+                "Você pode criar várias barras na fornalha."
+            ],
+            [
+                "Você pode aumentar ou diminuir o zoom das ilhas usando o mapa."
+            ],
+            [
+                "Você pode colocar itens em paredes alocáveis."
+            ],
+            [
+                "Você pode clicar+segurar para criar vários itens."
+            ],
+            [
+                "Você pode clicar+segurar para alimentar Espíritos com várias colheitas."
+            ],
+            [
+                "Às vezes, o Homem Mágico vende cartas exclusivas na loja."
+            ],
+            [
+                "Tobin vende iscas especiais para fisgar peixes específicos."
+            ],
+            [
+                "Se você libertar um Espírito, ele vai começar a aparecer pelo mundo."
+            ],
+            [
+                "Às vezes os moradores colocam itens aleatórios no Baú Comunitário."
+            ],
+            [
+                "Melhore suas habilidades de doma para domar Espíritos de nível mais alto."
+            ],
+            [
+                "Você pode armazenar Espíritos no Centro de Ciências caso não haja mais espaço na sua Morada."
+            ],
+            [
+                "Você pode ter várias casas, e todas elas levam à mesma dimensão compactada."
+            ],
+            [
+                "Sempre tenha uma Barraca extra em mãos quando estiver explorando as ilhas exteriores para não desmaiar."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "Segure Shift para correr."
+            ],
+            [
+                "Aperte ‘ para ocultar a interface do usuário."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "CN"
+            ],
+            [
+                "放置物品时，可以使用右摇杆轻推物品"
+            ],
+            [
+                "月石在日落后会发光"
+            ],
+            [
+                "制作配方可以在矿洞和地下城中找到"
+            ],
+            [
+                "有些作物可以多次收割，无需重新种植"
+            ],
+            [
+                "将钓鱼线抛掷得更远会增加捕获稀有鱼类的几率"
+            ],
+            [
+                "可以在地上放置作物来让引开追赶你的精灵，或者在找不到精灵时用来引诱它们"
+            ],
+            [
+                "精灵棚里的精灵如果多日得不到喂食就会逃跑"
+            ],
+            [
+                "治疗池每天都会重新充能"
+            ],
+            [
+                "在室外种植的任何作物都会在新季节到来的第一天枯萎"
+            ],
+            [
+                "只要每天喂食，存放在精灵棚中的精灵将会掉落精灵资源"
+            ],
+            [
+                "将精灵蛋放入精灵棚内的巢中可进行孵化"
+            ],
+            [
+                "肥料可以给作物属性加成"
+            ],
+            [
+                "可以使用魔法实验室将两种作物的属性结合"
+            ],
+            [
+                "制作护身符来保护自己免受毒云、闪电、火等环境危害的伤害"
+            ],
+            [
+                "可以建造桥梁在岛屿之间旅行"
+            ],
+            [
+                "用栅栏围住一个区域将阻止精灵在该区域内生成"
+            ],
+            [
+                "一些制作配方只能在特定的制作台制作"
+            ],
+            [
+                "可以在战斗中将具有驯服属性的作物喂给野生精灵来驯服它们"
+            ],
+            [
+                "制作信标即可在地图上标记地点"
+            ],
+            [
+                "装饰台中制作的许多物品都可以旋转"
+            ],
+            [
+                "每晚都会在一个随机岛屿上发生一场超自然风暴"
+            ],
+            [
+                "制作洒水器，这样不必动手也能给作物浇水"
+            ],
+            [
+                "制作一个邮箱，无论把它放在哪里都可以接收邮件"
+            ],
+            [
+                "镇上商店出售的物品，售价会高出 50%"
+            ],
+            [
+                "每个星期五晚上，镇上的所有人都会来到酒馆聚会"
+            ],
+            [
+                "奥索诺的特色菜肴有几率显著提升你的耐力！也有几率使耐力下降……"
+            ],
+            [
+                "不知道送什么礼物？与人交谈可以让你了解他们的好恶"
+            ],
+            [
+                "赠送某人月石手镯将使你们开启一段交往关系"
+            ],
+            [
+                "赠送某人青草手环将使你们结束一段交往关系"
+            ],
+            [
+                "可以在社交技能树上解锁月石手镯和青草手环"
+            ],
+            [
+                "向敌方的精灵喂食具有减益效果的作物和调制糊糊来削弱它们"
+            ],
+            [
+                "驯服敌方的精灵是赢得战斗的高效方法！"
+            ],
+            [
+                "卡牌数较少的卡组更容易预测"
+            ],
+            [
+                "在战斗中，抽牌堆和弃牌堆中的卡牌数显示左侧按钮的上方"
+            ],
+            [
+                "提高精灵的能量属性将使它们的攻击造成更大伤害"
+            ],
+            [
+                "提高精灵的速度属性将使它们的猛击卡消除更多防御"
+            ],
+            [
+                "当你的精灵达到更高等级时，升级过程中会出现更稀有的卡牌"
+            ],
+            [
+                "给精灵刷毛和喂食让它们心情愉快。快乐的精灵有更大几率掉落精灵资源"
+            ],
+            [
+                "徽章中的精灵不需要每天进食，但你仍然可以给它们喂食作物来提升它们的属性"
+            ],
+            [
+                "有些精灵拥有只有在跟随你时才会激活的能力"
+            ],
+            [
+                "指南针外缘的刻度盘会显示你所在岛屿上的精灵有多强大"
+            ],
+            [
+                "睡在自己的床上或在酒馆租个房间，睡个好觉"
+            ],
+            [
+                "约会总是从 20:00 开始别迟到了！"
+            ],
+            [
+                "有时钓鱼时还能发现宝藏"
+            ],
+            [
+                "有些商店每天都会更新库存"
+            ],
+            [
+                "通过探索世界和完成任务来寻找新的制作配方"
+            ],
+            [
+                "按住右扳机键进行冲刺"
+            ],
+            [
+                "按一下左摇杆隐藏 UI"
+            ],
+            [
+                "使用右摇杆调整视角"
+            ],
+            [
+                "使用 1 至 0 键快速选择工具栏中的栏位"
+            ],
+            [
+                "你可以在锻造炉里制作多个金属锭。"
+            ],
+            [
+                "使用地图时可以放大，仔细地查看岛屿。"
+            ],
+            [
+                "你可以在具有收纳功能的墙壁上放置物品。"
+            ],
+            [
+                "你可以“点击+长按”，制作多个物品。"
+            ],
+            [
+                "你可以“点击+按住”，给精灵喂食多种作物。"
+            ],
+            [
+                "魔术师有时会出售商店专属卡牌。"
+            ],
+            [
+                "托宾会出售特殊的鱼饵，可用来捕捉特定的鱼。"
+            ],
+            [
+                "如果你放走一个精灵，它就会开始在野外生成。"
+            ],
+            [
+                "有时候，村民会在社区捐献箱里放一些随机物品。"
+            ],
+            [
+                "升级驯服技能，驯服等级更高的精灵。"
+            ],
+            [
+                "如果你的棚屋没有空间，你可以把精灵送到科学中心，储存起来。"
+            ],
+            [
+                "你可以打造多个住家，它们都通向同一个口袋维度。"
+            ],
+            [
+                "探险外岛时，建议随身携带备用帐篷，避免晕倒。"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "按住 Shift 键进行冲刺"
+            ],
+            [
+                "按 ` 隐藏 UI"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "JP"
+            ],
+            [
+                "サムスティック（右）で、アイテム設置時にアイテムをゆっくり動かせる"
+            ],
+            [
+                "ムーンストーンは日没後に光る"
+            ],
+            [
+                "クラフトレシピは鉱山やダンジョンで見つかる"
+            ],
+            [
+                "植え直さなくても複数回収穫できる作物もある"
+            ],
+            [
+                "釣り糸を遠くに垂らすほど、珍しいサカナがかかる可能性が上がる"
+            ],
+            [
+                "作物を地面に置くと、追いかけてくる精霊の気を逸らしたり、見つからない精霊を誘き寄せたりできる"
+            ],
+            [
+                "小屋にいる精霊は数日エサをやらないと逃げてしまう"
+            ],
+            [
+                "回復の泉が使えるのは1日に1回"
+            ],
+            [
+                "外に植えた作物はすべて、季節が変わると初日に枯れてしまう"
+            ],
+            [
+                "小屋にいる精霊は毎日エサをやれば精霊の資源を落とす"
+            ],
+            [
+                "精霊のタマゴをふ化させるには小屋内の巣に置こう"
+            ],
+            [
+                "肥料は作物のステータスを強化してくれる"
+            ],
+            [
+                "錬金術ラボでは2つの作物のステータスを結合させられる"
+            ],
+            [
+                "毒の雲や雷、炎といった自然の脅威から身を守るにはチャームを作ろう"
+            ],
+            [
+                "島と島のあいだを移動するには橋を作ろう"
+            ],
+            [
+                "柵で囲んだエリアには精霊が近づかない"
+            ],
+            [
+                "特定のステーションでしか作れないクラフトレシピもある"
+            ],
+            [
+                "手なづけステータスを持つ作物をバトル中に野生の精霊へ食べさせれば、手なづけられる"
+            ],
+            [
+                "ビーコンを作ってマップにしるしを付けよう"
+            ],
+            [
+                "装飾ステーションで作成したアイテムの多くは回転させられる"
+            ],
+            [
+                "サイキックストームは毎晩ランダムな島で起こる"
+            ],
+            [
+                "スプリンクラーを作れば手ずから作物に水をやらなくて済む"
+            ],
+            [
+                "好きな場所に郵便受けを作って手紙を受け取ろう"
+            ],
+            [
+                "アイテムは街にあるショップで＋50%の価格で売れる"
+            ],
+            [
+                "毎週金曜日は街の全員が酒場に集まる"
+            ],
+            [
+                "オソーノの「今日の料理」を食べると、スタミナが大幅に上がるかもしれないし、下がるかもしれない…"
+            ],
+            [
+                "何をプレゼントすべきかわからない？ 会話をしていれば好き嫌いを教えてもらえる"
+            ],
+            [
+                "ムーンストーンのブレスレットを渡すと交際が始まる"
+            ],
+            [
+                "草のブレスレットを渡すと交際が終わる"
+            ],
+            [
+                "ムーンストーンのブレスレットと草のブレスレットは「人間関係」スキルツリーでアンロック可能だ"
+            ],
+            [
+                "敵対している精霊にデバフ効果のある作物や調合物を食べさせれば、弱体化させられる"
+            ],
+            [
+                "敵対している精霊を手なづければ、バトルに簡単に勝利できる！"
+            ],
+            [
+                "デッキのカード数は少ないほど不利だ"
+            ],
+            [
+                "バトル中、手札と捨て札のカード数は左のボタンの上に表示される"
+            ],
+            [
+                "精霊のパワーを上昇させると攻撃時の与ダメージが増える"
+            ],
+            [
+                "精霊のスピードを上昇させると「なぐる」で減らせるアーマー数が増える"
+            ],
+            [
+                "精霊のレベルが上がると、レベルアップ中に現れるカードのレア度も上がる"
+            ],
+            [
+                "精霊にエサをやったりブラシをかけたりしてやると、喜んで精霊の資源を落としやすくなる"
+            ],
+            [
+                "メダル内の精霊は毎日エサをやる必要はないけれど、ステータスを上げるにはエサをやろう"
+            ],
+            [
+                "後ろをついてきているときだけ発動するアビリティを持つ精霊もいる"
+            ],
+            [
+                "コンパスの外縁にある目盛りは、現在地の島にいる精霊の強さを示している"
+            ],
+            [
+                "ベッドで眠るか酒場で部屋を借りると、ぐっすり眠れる"
+            ],
+            [
+                "デートは必ず20時に始まる。遅れないように！"
+            ],
+            [
+                "釣りをしていると宝物が見つかることがある"
+            ],
+            [
+                "毎日在庫を更新するお店もある"
+            ],
+            [
+                "冒険したりクエストをクリアしたりして新しいレシピを見つけよう"
+            ],
+            [
+                "「Rトリガー」長押しでダッシュする"
+            ],
+            [
+                "サムスティック（左）を押すとUIが非表示になる"
+            ],
+            [
+                "サムスティック（右）でカメラを調整できる"
+            ],
+            [
+                "キー「1」～「0」でツールバーのスロットをすばやく選択できる"
+            ],
+            [
+                "かまどでは複数のインゴットが作れます"
+            ],
+            [
+                "マップを使うと、島々を拡大できます"
+            ],
+            [
+                "設置可能な壁にはアイテムを置けます"
+            ],
+            [
+                "クリック＋長押しで、複数のアイテムを作成できます"
+            ],
+            [
+                "クリック＋長押しで、精霊に複数の作物を与えられます"
+            ],
+            [
+                "魔法使いはときどき、ショップ限定のカードを売っています"
+            ],
+            [
+                "トービンが売っている特別なルアーは、特定のサカナを釣ることができます"
+            ],
+            [
+                "精霊を逃がすと、島々に出現するようになります"
+            ],
+            [
+                "村人たちはときどき、コミュニティチェストにアイテムをランダムに入れます"
+            ],
+            [
+                "手なづけスキルをアップグレードすると、レベルの高い精霊を手なづけられます"
+            ],
+            [
+                "小屋に空きがなければ、精霊を科学センターへ送ってあずかってもらいましょう"
+            ],
+            [
+                "家は複数設置できますが、中の空間は共有されます"
+            ],
+            [
+                "外の島々を冒険するときには予備のテントを持ち運び、気絶するのを避けましょう"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                "「Shift」長押しでダッシュする"
+            ],
+            [
+                "「`」を押すとUIが非表示になる"
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ],
+        [
+            [
+                "RU"
+            ],
+            [
+                "Используйте правый стик, чтобы немного подвинуть предметы при их размещении."
+            ],
+            [
+                "Лунные камни светятся после заката."
+            ],
+            [
+                "Схемы для крафта можно найти в шахтах и подземельях."
+            ],
+            [
+                "Некоторые растения можно собирать несколько раз за сезон, не пересаживая их."
+            ],
+            [
+                "Более дальний заброс удочки увеличивает шанс поймать редкую рыбу."
+            ],
+            [
+                "Бросьте растение на землю, чтобы отвлечь Духов, которые преследуют вас, или чтобы приманить их."
+            ],
+            [
+                "Духи из Амбара убегут, если их не кормить несколько дней."
+            ],
+            [
+                "Исцеляющие источники восстанавливаются каждый день."
+            ],
+            [
+                "Все растения, высаженные не в теплице, завянут в первый день нового сезона."
+            ],
+            [
+                "Духи, содержащиеся в Амбаре, будут давать особые Субстанции, если их регулярно кормить."
+            ],
+            [
+                "Поместите яйцо Духа в гнездо внутри Амбара, и тогда из него кто-нибудь вылупится."
+            ],
+            [
+                "Удобрения повышают аттрибуты растений."
+            ],
+            [
+                "Вы можете использовать Алхимическую лабораторию, чтобы объединить аттрибуты двух растений."
+            ],
+            [
+                "Создавайте Амулеты, чтобы защитить себя от опасностей окружающей среды, таких как ядовитые облака, молнии и огонь."
+            ],
+            [
+                "Вы можете строить мосты между островами."
+            ],
+            [
+                "Если оградить часть территории заборами, Духи не будут появляться внутри нее."
+            ],
+            [
+                "Некоторые предметы можно создавать только на определённых устройствах: верстаке, наковальне и т.д."
+            ],
+            [
+                "Растения с аттрибутом \"Приручение\" можно скармливать диким Духам в битве, чтобы их приручить."
+            ],
+            [
+                "Создавайте и устанавливайте Маяки, чтобы отмечать места на своей карте."
+            ],
+            [
+                "Многие предметы, созданные на Верстаке, можно поворачивать."
+            ],
+            [
+                "Каждую ночь на одном случайном острове происходит магический шторм."
+            ],
+            [
+                "Создавайте Поливалки, чтобы не нужно было поливать ваши посадки вручную."
+            ],
+            [
+                "Создайте Почтовый ящик, чтобы получать почту, где бы вы ни находились."
+            ],
+            [
+                "Некоторые предметы можно продать на 50% дороже в магазинах города."
+            ],
+            [
+                "Каждую пятницу вечером всё население города встречается в Таверне."
+            ],
+            [
+                "Блюдо Дня от Оссоны может значительно увеличить вашу выносливость! Ну или понизить - как повезет..."
+            ],
+            [
+                "Не знаете, что подарить? Разговоры с людьми помогут узнать, что они любят и что нет."
+            ],
+            [
+                "Подарите Лунный Браслет, чтобы начать отношения с человеком."
+            ],
+            [
+                "Подарите Травяной Браслет, чтобы закончить отношения."
+            ],
+            [
+                "Лунный и Травяной браслеты можно разблокировать в дереве навыков."
+            ],
+            [
+                "Скармливайте врагам растения и настойки, которые снижают аттрибуты, чтобы ослабить их."
+            ],
+            [
+                "Приручение враждебного Духа — быстрый способ выиграть битву!"
+            ],
+            [
+                "Колоды с меньшим количеством карт более предсказуемы."
+            ],
+            [
+                "Количество карт в колоде для розыгрыша и сброшенных карт отображается над кнопками слева в бою."
+            ],
+            [
+                "Повышение Силы в вашего Духа увеличивает урон от его атак."
+            ],
+            [
+                "Повышение Скорости вашего Духа позволяет его картам \"Таран\" снимать больше брони."
+            ],
+            [
+                "Чем выше уровень вашего Духа, тем чаще он получает редкие карты при повышении уровня."
+            ],
+            [
+                "Чистка и кормление Духов делают их счастливыми. Счастливые Духи чаще дают Субстанции."
+            ],
+            [
+                "Духи в медальоне не нуждаются в ежедневном кормлении, но вы всё равно можете кормить их, чтобы повысить их аттрибуты."
+            ],
+            [
+                "Некоторые Духи обладают умениями, которые активируются только тогда, когда они следуют за вами."
+            ],
+            [
+                "Шкала на вашем компасе показывает, насколько сильны Духи на том острове, где вы находитесь."
+            ],
+            [
+                "Спите в своей постели или арендуйте комнату в таверне, чтобы хорошо выспаться."
+            ],
+            [
+                "Свидания всегда начинаются в 20:00. Не опаздывайте!"
+            ],
+            [
+                "Иногда можно найти сокровище при рыбалке."
+            ],
+            [
+                "Некоторые магазины обновляют свой ассортимент ежедневно."
+            ],
+            [
+                "Находите новые схемы для крафта, исследуя мир и выполняя поручения."
+            ],
+            [
+                "Удерживайте правый триггер на контроллере, чтобы передвигаться быстрее."
+            ],
+            [
+                "Нажмите левый стик, чтобы скрыть интерфейс."
+            ],
+            [
+                "Используйте правый стик, чтобы подвинуть камеру."
+            ],
+            [
+                "Используйте клавиши 1–0, чтобы выбрать слот в панели быстрого доступа."
+            ],
+            [
+                "В печи можно выплавлять несколько слитков одновременно. "
+            ],
+            [
+                "Нажмите на остров на карте, чтобы увеличить его."
+            ],
+            [
+                "Размещайте большие и маленькие стены для перепланировки помещения."
+            ],
+            [
+                "Удерживайте кнопку мыши, чтобы изготовить сразу много предметов."
+            ],
+            [
+                "Удерживайте кнопку мыши, чтобы скормить Духу сразу несколько растений."
+            ],
+            [
+                "Волшебник иногда продаёт эксклюзивные карты в своём магазине. "
+            ],
+            [
+                "Тобин продаёт специальную наживку для ловли особой рыбы. "
+            ],
+            [
+                "Если отпустить Духа на волю, они станут появляться в природе."
+            ],
+            [
+                "Иногда жители кладут различные вещи в Общий Сундук."
+            ],
+            [
+                "Прокачивайте навыки Приручения, чтобы ловить Духов более высокого уровня."
+            ],
+            [
+                "Если Духи не помещаются в Амбар, их можно отправить на хранение в Научный Центр."
+            ],
+            [
+                "Можно строить многочисленные дома – они все ведут в одно и то же карманное измерение. "
+            ],
+            [
+                "Возьмите в собой палатку, чтобы спать во время путешествий на отдалённые острова."
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ],
+            [
+                ""
+            ]
+        ]
+    ]
+}

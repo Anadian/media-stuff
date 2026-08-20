@@ -1,0 +1,568 @@
+{
+"tavernkeeper": {
+"currentSchedule": "",
+"walkSpeed": 40,
+"home": "Tavern",
+"schedule":[
+
+{"default": 1, "loop": "tavernkeeper_bedroom_loop", "location":"TavernkeeperRoom"},
+
+{"days": "Mon", "time": "6:00", "duration": 174, "route": "tavernkeeper_tavern_to_mountain"},
+{"days": "Mon", "time": "8:54", "loop": "tavernkeeper_mountain_loop"},
+{"days": "Mon", "time": "18:50", "duration": 10, "route": "mountaintop_to_cave", "destroy":1},
+{"days": "Mon", "time": "19:00", "duration": 15, "route": "mountain_cave_enter", "location": "CliffCave"},
+{"days": "Mon", "time": "19:15", "loop": "mountain_cave_loop", "location": "CliffCave"},
+{"days": "Mon", "time": "20:50", "duration": 17, "route": "mountain_cave_exit", "location": "CliffCave", "destroy":1},
+{"days": "Mon", "time": "21:07", "duration": 184, "route": "cave_to_tavern", "destroy":1},
+
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "6:30", "duration": 48, "route": "tavern_to_square"},
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "7:18", "loop": "square_loop"},
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "11:04", "duration": 48, "route": "square_to_tavern", "destroy":1},
+
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "11:52", "loop": "tavernkeeper_bar_loop", "location":"Tavern"},
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "23:59", "loop": "tavernkeeper_bedroom_loop", "location":"TavernkeeperRoom"},
+
+{"days": "Sun", "time": "11:00", "duration": 40, "route": "tavernkeeper_tavern_to_lake2"},
+{"days": "Sun", "time": "11:40", "loop": "tavernkeeper_lake2_loop"},
+{"days": "Sun", "time": "20:00", "duration": 42, "route": "tavernkeeper_lake2_to_tavern", "destroy":1},
+
+{"days": "Mon", "time": "4:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon", "time": "21:07", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue,Wed,Thu,Fri,Sat", "time": "23:59", "duration": 130, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 720, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "20:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+
+"artist": {
+"walkSpeed": 32,
+"home": "Shack",
+"schedule": [
+
+{"default": 1, "loop": "artist_bedroom_loop", "location":"ArtistRoom"},
+
+{"days": "Mon", "time": "7:10", "duration": 112, "route": "artist_shack_to_dock"},
+{"days": "Mon", "time": "9:02", "loop": "artist_dock_painting_loop"},
+
+{"days": "Mon", "time": "18:44", "duration": 16, "route": "artist_dock_to_dock_lookout"},
+{"days": "Mon", "time": "19:00", "loop": "dock_lookout_loop"},
+{"days": "Mon", "time": "21:00", "duration": 132, "route": "dock_lookout_to_shack", "destroy":1},
+
+{"days": "Tue", "time": "7:00", "duration": 190, "route": "artist_shack_to_mountain"},
+{"days": "Tue", "time": "10:10", "loop": "artist_mountain_loop"},
+{"days": "Tue", "time": "20:00", "duration": 190, "route": "artist_mountain_to_shack", "destroy":1},
+
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "7:10", "duration": 25, "route": "shack_to_bridge"},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "7:35", "loop": "bridge_loop"},
+
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "11:50", "duration": 15, "route": "bridge_to_tavern", "destroy":1},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "12:05", "duration": 25, "route": "artist_tavern_enter", "location":"Tavern"},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "12:30", "loop": "artist_tavern_loop", "location":"Tavern"},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "23:38", "duration": 22, "route": "artist_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "24:00", "duration": 85, "route": "tavern_to_shack_longway", "destroy":1},
+
+
+{"days": "Mon", "time": "4:00", "duration": 302, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon", "time": "21:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue", "time": "4:00", "duration": 720, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue", "time": "20:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "4:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed,Thu,Fri,Sat,Sun", "time": "24:00", "duration": 120, "loop": "married_home_loop", "location":"Home", "married":1}
+]},
+
+
+
+"fisherman": {
+"walkSpeed": 44,
+"home": "Lighthouse",
+"schedule": [
+
+{"default": 1, "loop": "fisherman_bedroom_loop", "location":"FishermanRoom"},
+{"default": 1, "loop": "married_home_loop", "location":"Home", "married":1},
+
+
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "5:57", "duration": 33, "route": "lighthouse_to_fishingshop", "destroy":1},
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "6:30", "loop": "fisherman_shop_loop", "location":"FishingShop"},
+{"days": "Mon,Tue,Wed,Thu,Sat", "time": "17:00", "duration": 13, "route": "fishingshop_to_dock"},
+{"days": "Mon,Tue,Wed,Thu,Sat", "time": "17:13", "loop": "fisherman_dock_fishing_loop"},
+{"days": "Mon,Tue,Wed,Thu,Sat", "time": "22:00", "duration": 40, "route": "dock_to_lighthouse", "destroy":1},
+
+{"days": "Fri", "time": "17:00", "duration": 100, "route": "fishingshop_to_tavern", "destroy":1},
+{"days": "Fri", "time": "18:40", "duration": 14, "route": "fisherman_tavern_enter", "location":"Tavern"},
+{"days": "Fri", "time": "18:54", "loop": "fisherman_tavern_loop", "location":"Tavern"},
+
+{"days": "Sun", "time": "8:00", "duration": 112, "route": "lighthouse_to_lake"},
+{"days": "Sun", "time": "9:52", "loop": "fisherman_lake_fishing_loop"},
+{"days": "Sun", "time": "19:31", "duration": 19, "route": "fisherman_lake_to_tavern", "destroy":1},
+{"days": "Sun", "time": "19:50", "duration": 14, "route": "fisherman_tavern_enter", "location":"Tavern"},
+{"days": "Sun", "time": "20:04", "loop": "fisherman_tavern_loop", "location":"Tavern"},
+
+{"days": "Fri,Sun", "time": "21:47", "duration": 13, "route": "fisherman_tavern_exit", "location":"Tavern", "destroy":1},
+{"days": "Fri,Sun", "time": "22:00", "duration": 130, "route": "tavern_to_lighthouse", "destroy":1},
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 150, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 720, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Tue,Wed,Thu,Sat", "time": "20:00", "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri,Sun", "time": "22:00", "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+"blacksmith": {
+"walkSpeed": 30,
+"home": "TwoStoryHouse",
+"schedule": [
+
+{"default": 1, "loop": "blacksmith_bedroom_loop", "location":"BlacksmithRoom"},
+
+{"days": "Mon,Wed,Thu,Fri,Sat", "time": "6:30", "duration": 27, "route": "house_to_smithy", "destroy":1},
+{"days": "Mon,Wed,Thu,Fri,Sat", "time": "6:57", "loop": "blacksmith_shop_loop", "location":"Smithy"},
+
+{"days": "Mon", "time": "17:00", "duration": 37, "route": "blacksmith_smithy_to_lake"},
+{"days": "Mon", "time": "17:37", "loop": "blacksmith_lake_loop"},
+{"days": "Mon", "time": "22:00", "duration": 65, "route": "lake_to_house", "destroy": 1},
+
+
+
+{"days": "Wed,Thu,Fri,Sat", "time": "17:00", "duration": 28, "route": "smithy_to_tavern", "destroy":1},
+{"days": "Wed,Thu,Fri,Sat", "time": "17:28", "duration": 13, "route": "blacksmith_tavern_enter", "location":"Tavern"},
+{"days": "Wed,Thu,Fri,Sat", "time": "17:41", "loop": "blacksmith_tavern_loop", "location":"Tavern"},
+
+
+{"days": "Tue", "time": "7:00", "duration": 19, "route": "house_to_square"},
+{"days": "Tue", "time": "7:19", "loop": "square_loop"},
+{"days": "Tue", "time": "9:00", "duration": 200, "route": "square_to_hotsprings"},
+{"days": "Tue", "time": "12:20", "loop": "blacksmith_hotsprings_loop"},
+{"days": "Tue", "time": "16:50", "duration": 205, "route": "hotsprings_to_bridge"},
+{"days": "Tue", "time": "20:15", "loop": "blacksmith_bridge_loop"},
+{"days": "Tue", "time": "22:00", "duration": 38, "route": "bridge_to_house", "destroy": 1},
+
+
+{"days": "Sun", "time": "7:00", "duration": 19, "route": "house_to_square"},
+{"days": "Sun", "time": "7:19", "loop": "square_loop"},
+{"days": "Sun", "time": "11:10", "duration": 63, "route": "square_to_tavern", "destroy":1},
+{"days": "Sun", "time": "12:13", "duration": 13, "route": "blacksmith_tavern_enter", "location":"Tavern"},
+{"days": "Sun", "time": "12:26", "loop": "blacksmith_tavern_loop", "location":"Tavern"},
+
+{"days": "Wed,Thu,Sat", "time": "21:47", "duration": 13, "route": "blacksmith_tavern_exit", "location":"Tavern", "destroy": 1},
+{"days": "Wed,Thu,Sat", "time": "22:00", "duration": 54, "route": "tavern_to_house", "destroy":1},
+
+{"days": "Fri,Sun", "time": "22:47", "duration": 13, "route": "blacksmith_tavern_exit", "location":"Tavern", "destroy": 1},
+{"days": "Fri,Sun", "time": "23:00", "duration": 54, "route": "tavern_to_house", "destroy":1},
+
+
+{"days": "Mon,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 177, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon", "time": "22:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue", "time": "4:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue", "time": "22:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 720, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed,Thu,Sat", "time": "22:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri,Sun", "time": "23:00", "duration": 120, "loop": "married_home_loop", "location":"Home", "married":1}
+
+
+]},
+
+
+
+"herbalist": {
+"walkSpeed": 48,
+"home": "Conservatory",
+"schedule": [
+
+{"default": 1, "loop": "herbalist_bedroom_loop", "location":"HerbalistRoom"},
+
+{"days": "Mon,Wed,Thu,Fri,Sat", "time": "8:00", "loop": "herbalist_shop_loop", "location":"Conservatory"},
+
+{"days": "Mon,Wed,Thu,Sat", "time": "18:00", "duration": 65, "route": "conservatory_to_beach1"},
+{"days": "Mon,Wed,Thu,Sat", "time": "19:05", "loop": "beach1_loop"},
+{"days": "Mon,Wed,Thu,Sat", "time": "20:00", "duration": 75, "route": "beach1_to_square"},
+{"days": "Mon,Wed,Thu,Sat", "time": "21:15", "loop": "square_loop"},
+{"days": "Mon,Wed,Thu,Sat", "time": "22:00", "duration": 35, "route": "square_to_conservatory", "destroy":1},
+
+{"days": "Tue", "time": "7:05", "duration": 37, "route": "conservatory_to_bridge"},
+{"days": "Tue", "time": "7:42", "loop": "bridge_loop"},
+{"days": "Tue", "time": "12:00", "duration": 10, "route": "bridge_to_tavern", "destroy":1},
+
+{"days": "Tue", "time": "12:10", "duration": 10, "route": "herbalist_tavern_enter", "location":"Tavern"},
+{"days": "Tue", "time": "12:20", "loop": "herbalist_tavern_loop", "location":"Tavern"},
+{"days": "Tue", "time": "16:52", "duration": 8, "route": "herbalist_tavern_exit", "destroy":1, "location":"Tavern"},
+
+{"days": "Tue", "time": "17:00", "duration": 150, "route": "tavern_to_cave", "destroy":1},
+{"days": "Tue", "time": "19:30", "duration": 12, "route": "mountain_cave_enter", "location": "CliffCave"},
+{"days": "Tue", "time": "19:42", "loop": "mountain_cave_loop", "location": "CliffCave"},
+{"days": "Tue", "time": "20:50", "duration": 15, "route": "mountain_cave_exit", "location": "CliffCave", "destroy":1},
+{"days": "Tue", "time": "21:05", "duration": 130, "route": "cave_to_conservatory", "destroy":1},
+
+{"days": "Fri", "time": "18:00", "duration": 47, "route": "conservatory_to_tavern", "destroy":1},
+{"days": "Fri", "time": "18:47", "duration": 10, "route": "herbalist_tavern_enter", "location":"Tavern"},
+{"days": "Fri", "time": "18:57", "loop": "herbalist_tavern_loop", "location":"Tavern"},
+{"days": "Fri", "time": "21:30", "duration": 8, "route": "herbalist_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Fri", "time": "21:38", "duration": 50, "route": "tavern_to_conservatory", "destroy":1},
+
+{"days": "Sun", "time": "7:20", "duration": 115, "route": "conservatory_to_hotsprings"},
+{"days": "Sun", "time": "9:15", "loop": "herbalist_hotsprings_loop"},
+{"days": "Sun", "time": "14:00", "duration": 84, "route": "hotsprings_to_beach2"},
+{"days": "Sun", "time": "15:24", "loop": "beach2_loop"},
+{"days": "Sun", "time": "18:00", "duration": 85, "route": "beach2_to_bridge"},
+{"days": "Sun", "time": "19:25", "loop": "bridge_loop"},
+{"days": "Sun", "time": "22:00", "duration": 40, "route": "bridge_to_conservatory", "destroy": 1},
+
+
+
+{"days": "Mon,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Wed,Thu,Sat", "time": "22:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue", "time": "4:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue", "time": "21:05", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri", "time": "21:38", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 720, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "22:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+
+
+
+"botanist": {
+"walkSpeed": 43,
+"home": "Conservatory",
+"schedule": [
+
+{"default": 1, "loop": "botanist_bedroom_loop", "location":"BotanistRoom"},
+
+{"days": "Mon,Tue,Wed,Fri,Sat", "time": "8:00", "loop": "botanist_shop_loop", "location":"Conservatory"},
+
+{"days": "Mon,Tue,Sat", "time": "18:00", "duration": 46, "route": "conservatory_to_lake2"},
+{"days": "Mon,Tue,Sat", "time": "18:46", "loop": "botanist_lake2_loop"},
+{"days": "Mon,Tue,Sat", "time": "19:10", "duration": 25, "route": "botanist_stroll_part1"},
+{"days": "Mon,Tue,Sat", "time": "19:35", "walkDuration": 85, "duration": 100, "route": "botanist_stroll_part2"},
+{"days": "Mon,Tue,Sat", "time": "21:15", "duration": 114, "route": "botanist_stroll_part3", "destroy":1},
+
+{"days": "Wed", "time": "18:00",  "duration": 130, "route": "botanist_conservatory_to_hotsprings"},
+{"days": "Wed", "time": "20:10", "loop": "botanist_hotsprings_loop"},
+{"days": "Wed", "time": "21:50", "duration": 135, "route": "botanist_hotsprings_to_conservatory", "destroy":1},
+
+{"days": "Thu", "time": "7:00", "duration": 29, "route": "conservatory_to_shop", "destroy":1},
+{"days": "Thu", "time": "7:29", "duration": 5, "route": "botanist_shop_visit_enter", "location":"GeneralStore"},
+{"days": "Thu", "time": "7:34", "loop": "botanist_shop_visit_loop", "location":"GeneralStore"},
+{"days": "Thu", "time": "10:00", "duration": 5, "route": "botanist_shop_visit_exit", "destroy":1, "location":"GeneralStore"},
+{"days": "Thu", "time": "10:05",  "duration": 72, "route": "botanist_shop_to_pier"},
+{"days": "Thu", "time": "11:12", "loop": "botanist_pier_loop"},
+{"days": "Thu", "time": "16:58", "duration": 97, "route": "botanist_pier_to_tavern", "destroy":1},
+{"days": "Thu", "time": "18:35", "duration": 11, "route": "botanist_tavern_enter", "location":"Tavern"},
+{"days": "Thu", "time": "18:46", "loop": "botanist_tavern_loop", "location":"Tavern"},
+{"days": "Thu", "time": "23:00", "duration": 8, "route": "botanist_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Thu", "time": "23:08", "duration": 55, "route": "botanist_tavern_to_conservatory", "destroy":1},
+
+{"days": "Fri", "time": "18:00",  "duration": 54, "route": "conservatory_to_tavern", "destroy":1},
+{"days": "Fri", "time": "18:54", "duration": 11, "route": "botanist_tavern_enter", "location":"Tavern"},
+{"days": "Fri", "time": "19:05", "loop": "botanist_tavern_loop", "location":"Tavern"},
+{"days": "Fri", "time": "21:00", "duration": 8, "route": "botanist_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Fri", "time": "21:08", "duration": 55, "route": "botanist_tavern_to_conservatory", "destroy":1},
+
+{"days": "Sun", "time": "7:00",  "duration": 130, "route": "botanist_conservatory_to_hotsprings"},
+{"days": "Sun", "time": "9:10", "loop": "botanist_hotsprings_loop"},
+{"days": "Sun", "time": "12:00", "duration": 86, "route": "botanist_hotsprings_to_mountain"},
+{"days": "Sun", "time": "13:26", "loop": "botanist_mountain_loop"},
+{"days": "Sun", "time": "18:00", "duration": 142, "route": "botanist_mountain_to_conservatory", "destroy":1},
+
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Tue,Sat", "time": "21:15", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed", "time": "21:50", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Thu", "time": "23:08", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri", "time": "21:08", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 600, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "18:00", "duration": 480, "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+
+
+"shopkeeper": {
+"walkSpeed": 43,
+"home": "Shack",
+"schedule": [
+
+{"default": 1, "loop": "shopkeeper_bedroom_loop", "location":"ShopkeeperRoom"},
+
+{"days": "Mon,Tue,Thu,Fri,Sat", "time": "6:32", "duration": 12, "route": "shack_to_shop", "destroy":1},
+{"days": "Mon,Tue,Thu,Fri,Sat", "time": "6:45", "loop": "shopkeeper_shop_loop", "location":"GeneralStore"},
+
+{"days": "Mon,Tue,Sat", "time": "17:00", "duration": 18, "route": "shop_to_lake2"},
+{"days": "Mon,Tue,Sat", "time": "17:18", "loop": "shopkeeper_lake2_loop"},
+{"days": "Mon,Tue,Sat", "time": "19:10", "duration": 25, "route": "shopkeeper_stroll_part1"},
+{"days": "Mon,Tue,Sat", "time": "19:35",  "walkDuration": 90, "duration": 100, "route": "shopkeeper_stroll_part2"},
+{"days": "Mon,Tue,Sat", "time": "21:15", "duration": 128, "route": "shopkeeper_stroll_part3", "destroy":1},
+
+{"days": "Wed", "time": "7:00",  "duration": 25, "route": "shack_to_square2"},
+{"days": "Wed", "time": "7:25", "loop": "square2_loop"},
+{"days": "Wed", "time": "11:17",  "duration": 43, "route": "square2_to_tavern", "destroy":1},
+
+{"days": "Wed", "time": "12:00", "duration": 10, "route": "shopkeeper_tavern_enter", "location":"Tavern"},
+{"days": "Wed", "time": "12:10", "loop": "shopkeeper_tavern_loop", "location":"Tavern"},
+{"days": "Wed", "time": "16:00", "duration": 8, "route": "shopkeeper_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Wed", "time": "16:08", "duration": 153, "route": "tavern_to_hotsprings"},
+{"days": "Wed", "time": "18:41", "loop": "shopkeeper_hotsprings_loop"},
+{"days": "Wed", "time": "21:50", "duration": 145, "route": "hotsprings_to_shack", "destroy":1},
+
+{"days": "Thu,Fri", "time": "17:00",  "duration": 24, "route": "shop_to_tavern", "destroy":1},
+{"days": "Thu,Fri", "time": "17:24", "duration": 10, "route": "shopkeeper_tavern_enter", "location":"Tavern"},
+{"days": "Thu,Fri", "time": "17:34", "loop": "shopkeeper_tavern_loop", "location":"Tavern"},
+{"days": "Thu", "time": "23:00", "duration": 8, "route": "shopkeeper_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Thu", "time": "23:08", "duration": 30, "route": "shopkeeper_tavern_to_shack",  "destroy":1},
+{"days": "Fri", "time": "21:00", "duration": 8, "route": "shopkeeper_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Fri", "time": "21:08", "duration": 30, "route": "shopkeeper_tavern_to_shack", "destroy":1},
+
+
+{"days": "Sun", "time": "6:48",  "duration": 142, "route": "shack_to_hotsprings"},
+{"days": "Sun", "time": "9:10", "loop": "shopkeeper_hotsprings_loop"},
+{"days": "Sun", "time": "12:00", "duration": 88, "route": "shopkeeper_hotsprings_to_mountain"},
+{"days": "Sun", "time": "13:28", "loop": "mountain_loop"},
+{"days": "Sun", "time": "18:00", "duration": 158, "route": "shopkeeper_mountain_to_shack", "destroy":1},
+
+
+{"days": "Mon,Tue,Thu,Fri,Sat", "time": "4:00", "duration": 165, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Tue,Sat", "time": "21:15", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed", "time": "4:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed", "time": "21:50", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Thu", "time": "23:08", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri", "time": "21:08", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 600, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "18:00", "duration": 480, "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+
+
+
+"carpenter": {
+"walkSpeed": 37,
+"home": "SkylightHouse",
+"schedule": [
+
+{"default": 1, "loop": "carpenter_bedroom_loop", "location":"CarpenterRoom"},
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "6:15", "duration": 25, "route": "skylight_to_workshop", "destroy":1},
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "6:40", "loop": "carpenter_shop_loop", "location":"Workshop"},
+{"days": "Mon,Tue,Thu,Sat", "time": "17:00", "duration": 129, "route": "workshop_to_hotsprings"},
+{"days": "Mon,Tue,Thu,Sat", "time": "19:09", "loop": "carpenter_hotsprings_loop"},
+{"days": "Mon,Tue,Thu,Sat", "time": "21:00", "duration": 155, "route": "hotsprings_to_skylight", "destroy":1},
+
+
+{"days": "Wed,Fri", "time": "17:00", "duration": 52, "route": "workshop_to_tavern", "destroy":1},
+
+{"days": "Wed", "time": "17:52", "duration": 15, "route": "carpenter_tavern_enter", "location":"Tavern"},
+{"days": "Wed", "time": "18:07", "loop": "carpenter_tavern_loop", "location":"Tavern"},
+{"days": "Wed", "time": "22:17", "duration": 13, "route": "carpenter_tavern_exit", "destroy":1, "location":"Tavern"},
+
+{"days": "Fri", "time": "17:52", "duration": 25, "route": "carpenter_tavernstage_enter", "location":"Tavern"},
+{"days": "Fri", "time": "18:17", "loop": "carpenter_tavernstage_loop", "location":"Tavern"},
+{"days": "Fri", "time": "22:05", "duration": 25, "route": "carpenter_tavernstage_exit", "destroy":1, "location":"Tavern"},
+
+{"days": "Wed,Fri", "time": "22:30", "duration": 42, "route": "tavern_to_skylight", "destroy":1},
+
+
+
+{"days": "Sun", "time": "8:00", "duration": 12, "route": "skylight_to_square2"},
+{"days": "Sun", "time": "8:12", "loop": "carpenter_square2_loop"},
+{"days": "Sun", "time": "12:00", "duration": 42, "route": "carpenter_square2_to_bridge"},
+{"days": "Sun", "time": "12:42", "loop": "carpenter_bridge_loop"},
+{"days": "Sun", "time": "15:00", "duration": 210, "route": "bridge_to_cave", "destroy":1},
+
+{"days": "Sun", "time": "18:30", "duration": 18, "route": "mountain_cave_enter", "location": "CliffCave"},
+{"days": "Sun", "time": "18:48", "loop": "mountain_cave_loop", "location": "CliffCave"},
+{"days": "Sun", "time": "21:00", "duration": 18, "route": "mountain_cave_exit", "location": "CliffCave", "destroy":1},
+{"days": "Sun", "time": "21:18", "duration": 171, "route": "cave_to_skylight", "destroy":1},
+
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 160, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Tue,Thu,Sat", "time": "21:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed,Fri", "time": "22:30", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 870, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "21:18", "duration": 480, "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+
+
+
+
+"professor": {
+"walkSpeed": 50,
+"home": "ScienceCenter",
+"schedule": [
+
+{"default": 1, "loop": "professor_bedroom_loop", "location":"ProfessorRoom"},
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "7:00", "loop": "professor_shop_loop", "location":"ScienceCenter"},
+
+{"days": "Mon,Tue", "time": "17:00", "duration": 160, "route": "sciencecenter_to_mountain"},
+{"days": "Mon,Tue", "time": "19:40", "loop": "professor_mountain_loop"},
+{"days": "Mon,Tue", "time": "23:00", "duration": 160, "route": "mountain_to_sciencecenter", "destroy":1},
+
+{"days": "Wed,Thu", "time": "17:00", "duration": 25, "route": "sciencecenter_to_lake"},
+{"days": "Wed,Thu", "time": "17:25", "loop": "professor_lake_loop"},
+{"days": "Wed,Thu", "time": "23:35", "duration": 25, "route": "lake_to_sciencecenter", "destroy":1},
+
+
+{"days": "Fri", "time": "17:00", "duration": 32, "route": "sciencecenter_to_tavern", "destroy":1},
+{"days": "Fri", "time": "17:32", "duration": 10, "route": "professor_tavern_enter", "location":"Tavern"},
+{"days": "Fri", "time": "17:42", "loop": "professor_tavern_loop", "location":"Tavern"},
+
+{"days": "Sat", "time": "17:00", "loop": "professor_bedroom_loop", "location":"ProfessorRoom"},
+
+{"days": "Sun", "time": "7:00", "duration": 106, "route": "sciencecenter_to_beach1"},
+{"days": "Sun", "time": "8:46", "loop": "beach1_loop"},
+{"days": "Sun", "time": "11:00", "duration": 83, "route": "beach1_to_tavern", "destroy":1},
+{"days": "Sun", "time": "12:23", "duration": 10, "route": "professor_tavern_enter", "location":"Tavern"},
+{"days": "Sun", "time": "12:33", "loop": "professor_tavern_loop", "location":"Tavern"},
+
+{"days": "Fri,Sun", "time": "22:22", "duration": 8, "route": "professor_tavern_exit", "destroy":1, "location":"Tavern"},
+{"days": "Fri,Sun", "time": "22:30", "duration": 33, "route": "tavern_to_sciencecenter", "destroy":1},
+
+
+{"days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "4:00", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Tue", "time": "23:00", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Wed,Thu", "time": "23:35", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sat", "time": "21:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "4:00", "duration": 720, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri,Sun", "time": "22:30", "duration": 240, "loop": "married_home_loop", "location":"Home", "married":1}
+
+
+]},
+
+
+"historian": {
+"walkSpeed": 37,
+"home": "TwoStoryHouse",
+"schedule": [
+
+{"default": 1, "loop": "historian_bedroom_loop", "location":"HistorianRoom"},
+
+{"days": "Mon,Tue,Wed", "time": "14:00", "duration": 182, "route": "house_to_mountain"},
+{"days": "Mon,Tue,Wed", "time": "17:02", "loop": "historian_mountain_loop"},
+{"days": "Mon,Tue,Wed", "time": "19:00", "duration": 193, "route": "mountain_to_lake"},
+{"days": "Mon,Tue,Wed", "time": "22:13", "loop": "historian_lake_loop"},
+{"days": "Mon,Tue,Wed", "time": "24:00", "duration": 50, "route": "lake_to_house", "destroy": 1}, 
+
+{"days": "Thu", "time": "15:00", "duration": 30, "route": "house_to_bridge"},
+{"days": "Thu", "time": "15:30", "loop": "bridge_loop"},
+{"days": "Thu", "time": "17:00", "duration": 13, "route": "bridge_to_tavern", "destroy": 1},
+{"days": "Thu", "time": "17:13", "duration": 17, "route": "historian_tavern_enter", "location":"Tavern"},
+{"days": "Thu", "time": "17:30", "loop": "historian_tavern_loop", "location":"Tavern"},
+
+{"days": "Fri", "time": "9:00", "duration": 173, "route": "house_to_hotsprings"},
+{"days": "Fri", "time": "11:53", "loop": "historian_hotsprings_loop"},
+{"days": "Fri", "time": "15:00", "duration": 180, "route": "hotsprings_to_tavern","destroy": 1},
+{"days": "Fri", "time": "18:00", "duration": 17, "route": "historian_tavern_enter", "location":"Tavern"},
+{"days": "Fri", "time": "18:17", "loop": "historian_tavern_loop", "location":"Tavern"},
+
+{"days": "Sat", "time": "09:00", "duration": 48, "route": "historian_house_to_lake"},
+{"days": "Sat", "time": "09:48", "loop": "historian_lake_loop"},
+{"days": "Sat", "time": "17:00", "duration": 15, "route": "lake_to_tavern", "destroy": 1},
+{"days": "Sat", "time": "17:15", "duration": 17, "route": "historian_tavern_enter", "location":"Tavern"},
+{"days": "Sat", "time": "17:32", "loop": "historian_tavern_loop", "location":"Tavern"},
+
+{"days": "Thu,Fri,Sat", "time": "23:00", "duration": 17, "route": "historian_tavern_exit", "location":"Tavern", "destroy": 1}, 
+{"days": "Thu,Fri,Sat", "time": "23:17", "duration": 44, "route": "tavern_to_house", "destroy":1},
+
+{"days": "Sun", "time": "11:00", "duration": 187, "route": "house_to_cave", "destroy": 1}, 
+{"days": "Sun", "time": "14:07", "duration": 18, "route": "mountain_cave_enter", "location": "CliffCave"},
+{"days": "Sun", "time": "14:25", "loop": "mountain_cave_loop", "location": "CliffCave"},
+{"days": "Sun", "time": "16:42", "duration": 18, "route": "mountain_cave_exit", "location": "CliffCave", "destroy":1},
+{"days": "Sun", "time": "17:00", "duration": 110, "route": "cave_to_hotsprings"},
+{"days": "Sun", "time": "18:50", "loop": "historian_hotsprings_loop"},
+{"days": "Sun", "time": "23:00", "duration": 178, "route": "hotsprings_to_house", "destroy":1},
+
+{"days": "Mon,Tue,Wed,Thu", "time": "4:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Tue,Wed", "time": "24:00", "duration": 120, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri", "time": "4:00", "duration": 473, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sat", "time": "4:00", "duration": 420, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Thu,Fri,Sat", "time": "23:17", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1},
+
+{"days": "Sun", "time": "4:00", "duration": 780, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Sun", "time": "23:00", "duration": 180, "loop": "married_home_loop", "location":"Home", "married":1}
+
+]},
+
+
+
+"magicman": {
+"walkSpeed": 26,
+"home": "MagicManShop",
+"schedule": [
+{"default": 1, "loop": "magicman_shop_loop","location":"MagicManShop"},
+
+{"days": "Mon,Wed,Sat,Fri", "time": "5:00", "duration": 10, "route": "magicman_hut_to_square"},
+{"days": "Mon,Wed,Sat,Fri", "time": "5:10", "loop": "magicman_square_loop"},
+{"days": "Mon,Wed,Sat", "time": "8:00", "duration": 81, "route": "square_to_lake"},
+{"days": "Mon,Wed,Sat", "time": "9:21", "loop": "lake_loop"},
+{"days": "Mon,Wed,Sat", "time": "12:00", "duration": 185, "route": "lake_to_beach3"},
+{"days": "Mon,Wed,Sat", "time": "15:05", "loop": "beach3_loop"},
+{"days": "Mon,Wed,Sat", "time": "18:00", "duration": 156, "route": "beach3_to_bridge"},
+{"days": "Mon,Wed,Sat", "time": "20:36", "loop": "bridge_loop"},
+{"days": "Mon,Wed,Sat", "time": "22:00", "duration": 51, "route": "magicman_bridge_to_hut", "destroy":1},
+
+{"days": "Tue,Thu", "time": "5:00", "duration": 248, "route": "magicman_hut_to_mountain"},
+{"days": "Tue,Thu", "time": "9:08", "loop": "magicman_mountain_loop"},
+{"days": "Tue,Thu", "time": "18:00", "duration": 5, "route": "magicman_mountain_to_cave", "destroy":1},
+{"days": "Tue,Thu", "time": "18:05", "duration": 24, "route": "mountain_cave_enter2", "location": "CliffCave"},
+{"days": "Tue,Thu", "time": "18:29", "loop": "mountain_cave_loop2", "location": "CliffCave"},
+{"days": "Tue,Thu", "time": "20:34", "duration": 26, "route": "mountain_cave_exit2", "location": "CliffCave", "destroy":1},
+{"days": "Tue,Thu", "time": "21:00", "duration": 248, "route": "magicman_mountain_to_hut", "destroy":1},
+
+{"days": "Fri", "time": "9:00", "duration": 145, "route": "square_to_beach1"},
+{"days": "Fri", "time": "11:25", "loop": "beach1_loop"},
+{"days": "Fri", "time": "16:10", "duration": 161, "route": "beach1_to_tavern", "destroy":1},
+{"days": "Fri", "time": "18:52", "duration": 13, "route": "magicman_tavern_enter1", "location":"Tavern"},
+{"days": "Fri", "time": "19:06", "loop": "magicman_tavern_loop1", "location":"Tavern"},
+{"days": "Fri", "time": "22:50", "duration": 13, "route": "magicman_tavern_exit1", "location":"Tavern", "destroy": 1}, 
+{"days": "Fri", "time": "23:04", "duration": 68, "route": "magicman_tavern_to_hut", "destroy":1},
+
+{"days": "Sun", "time": "5:00", "duration": 149, "route": "magicman_hut_to_beach3"},
+{"days": "Sun", "time": "7:29", "loop": "beach3_loop"},
+{"days": "Sun", "time": "11:00", "duration": 164, "route": "beach3_to_lake2"},
+{"days": "Sun", "time": "13:44", "loop": "magicman_lake2_loop"},
+{"days": "Sun", "time": "17:00", "duration": 60, "route": "lake2_to_tavern", "destroy":1},
+{"days": "Sun", "time": "18:00", "duration": 22, "route": "magicman_tavern_enter2", "location":"Tavern"},
+{"days": "Sun", "time": "18:22", "loop": "magicman_tavern_loop2", "location":"Tavern"},
+{"days": "Sun", "time": "22:50", "duration": 22, "route": "magicman_tavern_exit2", "location":"Tavern", "destroy": 1}, 
+{"days": "Sun", "time": "23:12", "duration": 68, "route": "magicman_tavern_to_hut", "destroy":1},
+
+
+{"days": "Fri", "time": "4:00", "duration": 450, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Tue,Thu", "time": "21:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+
+
+{"days": "Mon,Tue,Wed,Thu,Sat,Sun", "time": "4:00", "duration": 360, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Mon,Wed,Sat", "time": "22:00", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1},
+{"days": "Fri,Sun", "time": "23:12", "duration": 300, "loop": "married_home_loop", "location":"Home", "married":1}
+]},
+
+
+
+
+"shops": {
+"Tavern": {"owner": "tavernkeeper", "assistant":"artist", "days": "Tue,Wed,Thu,Fri,Sat,Sun", "time": "12:00", "duration": 719},
+"Smithy": {"owner": "blacksmith", "days": "Mon,Wed,Thu,Fri,Sat", "time": "7:00", "duration": 600},
+"FishingShop":{"owner": "fisherman", "days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "6:30", "duration": 630},
+"GeneralStore":{"owner": "shopkeeper", "days": "Mon,Tue,Thu,Fri,Sat", "time": "7:00", "duration": 600},
+"Conservatory":{"owner": "botanist", "assistant":"herbalist", "days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "8:00", "duration": 600},
+"Workshop":{"owner": "carpenter", "days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "7:00", "duration": 600},
+"ScienceCenter":{"owner": "professor", "days": "Mon,Tue,Wed,Thu,Fri,Sat", "time": "7:00", "duration": 600}
+}
+
+
+
+
+
+
+}

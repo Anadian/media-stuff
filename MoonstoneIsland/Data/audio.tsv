@@ -1,0 +1,802 @@
+Code	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+													
+// ENVIRONMENTAL													
+env_pick_up_item				100		PlayerInteract	SFX_Env_Pickup_Item	Pick up item		Y	Environment	1	
+env_pick_up_gold				35		PlayerInteract	SFX_Env_Pickup_Gold	Pickup coin		Y	Environment	1	
+env_rock_shatter				100		PlayerInteract	SFX_Env_Rock_Shatter	Rock shatters		Y	Environment	1	
+env_chest_open	3			71	  	PlayerInteract	SFX_Env_Chest_Open	Open Chest or treasure chest		Y	Environment	2	
+env_chest_close	3			71		PlayerInteract	SFX_Env_Chest_Close	Close Chest		Y	Environment	2	
+env_stone_button_press				50		PlayerInteract	SFX_Env_Stone_Button_Press	Dungeon buttons		Y	Environment	1	
+env_stone_button_reset				50		PlayerInteract	SFX_Env_Stone_Button_Release	Dungeon buttons		Y	Environment	1	
+env_stone_door_open				100		PlayerInteract	SFX_Env_Stone_Door_Open	Dungeon pillars		Y	Environment	1	
+env_stone_door_close				50		PlayerInteract	SFX_Env_Stone_Door_Close	Infinidungeon stairs		Y	Environment	1	
+													
+env_chest_digup				71		PlayerInteract	SFX_Env_Chest_Digup			Y	Environment	2	
+													
+env_shrine_activation				35		PlayerInteract	SFX_Env_Shrine_Activation	Activate shrine		Y	Environment	2	
+env_shrine_activation_ring				35		PlayerInteract	SFX_Env_Shrine_Activation_Ring			Y		2	
+env_ando_tree_activation				71		PlayerInteract	SFX_Env_Ando_Tree_Activation				Environment	2	
+env_ando_tree_activation_ring				71		PlayerInteract	SFX_Env_Ando_Tree_Activation_Ring				Environment	2	
+env_warp_stone				100		PlayerInteract	SFX_Env_Warp_Stone	Use warp stone		Y	Environment	2	
+env_warp_stone_exit				100		PlayerInteract	SFX_Env_Warp_Stone_Exit			Y	Environment	2	
+env_enter_house				100		PlayerInteract	SFX_Env_Enter_House	Entering buildings		Y	Environment	1	
+env_leave_house				71		PlayerInteract	SFX_Env_Leave_House	Exiting buildings		Y	Environment	1	
+env_enter_dungeon				50		PlayerWalk	SFX_Player_Footstep_Dungeon	Entering/exiting dungeons		Y	Environment	1	
+env_dungeon_teleport				100		Atmo	SFX_Env_Dungeon_Teleport	Teleporting buttons in dungeons		Y	Environment	2	
+env_fireplace		1	1	45		Atmo	SFX_Env_Fireplace	Loop in tavern/lighthouse when fireplace is on.	Volume changes with the distance to fireplace	Y	Environment		
+env_ticking		1	1	63			SFX_Env_Ticking	Used for timed events in temples		N	Environment	1	
+env_spirit_eating				100		UI	SFX_Env_Spirit_Eating	For when feeding Spirit in battle	played when feeding crop/fish/concoction/potion to a spirit in the medallion or barn, but not a talisman.	Y	Environment	1	
+				100									
+env_electric_buildup				13		Atmo	SFX_Env_Electric_Buildup	When electric meter goes up while walking on electric biome		Y	Environment		
+env_electric_hit				100		Atmo	SFX_Env_Electric_Hit	When struck by lightning on electric biome		Y	Environment		
+													
+env_magic_hut_appear				100		Atmo	SFX_Env_Magic_Hut_Appear	Plays when hut appears to indicate the apperance		Y	Environment	2	
+env_magic_hut_footsteps		1		100		Atmo	SFX_Env_Magic_Hut_Footsteps	Plays and loops as soon as hut appears		Y	Environment	2	
+env_magic_hut_drop				100		Atmo	SFX_Env_Magic_Hut_Drop	Plays when hut drop animation starts		Y	Environment	2	
+env_magic_hut_disappear				100		Atmo	SFX_Env_Magic_Hut_Disappearing	When magic man's hut disappears		Y	Environment	2	
+env_magic_mirror_place				71		Atmo	SFX_Env_Magic_Mirror_Place	When placing a shard - starts as soon as the mirror shard starts appearing!		Y	Environment	2	
+env_magic_mirror_enter				71		Atmo	SFX_Env_Magic_Mirror_Enter	When entering the mirror (frame 1 of animation)		Y	Environment	2	
+end_magic_mirror_leave				71		Atmo	SFX_Env_Magic_Mirror_Leave	When arriving at destination		Y	Environment	2	
+env_mail_drone				50		PlayerInteract	SFX_Env_Mail_Drone			Y	Environment		
+env_mail_drop				71		PlayerInteract	SFX_Env_Mail_Drop			Y	Environment		
+env_mail_open				100		UI	SFX_Env_Mail_Open			Y	UI		
+env_magic_man_appear				71		Atmo	SFX_Env_Magic_Man_Appear			Y	Environment	2	
+env_magic_man_disappear				71		Atmo	SFX_Env_Magic_Man_Disappear			Y	Environment	2	
+													
+env_offering_bench				100		Atmo	SFX_Env_Offering_Bench	As soon as the offering bench disappears		Y	Environment	2	
+env_wildwood_intimidate				50		Atmo	SFX_Env_Tree_Whistle	Plays when the tree boss is whistling		Y	Environment	2	
+env_snapdragon_intimidate				71		Atmo	SFX_Env_Plant_Roar	Plays when the poison plant boss is roaring. Start on Animation frame 1		Y	Environment	2	
+env_sparking_intimidate				71		Atmo	SFX_Env_Spark_Roar	Plays when the spark boss is roaring. Start on Animation frame 1		Y	Environment	2	
+env_tidan_intimidate				71		Atmo	SFX_Env_Water_Roar	Plays when the water boss is roaring. Start on Animation Frame 1		Y	Environment	2	
+env_missingno_intimidate				71		Atmo	SFX_Env_Missingno_Roar	Plays when the missingno boss is roaring. Start on Animation Frame 1		Y	Environment	2	
+env_boss_defeat				71		Atmo	SFX_Env_Boss_Defeat	Plays when boss is defeated. Starts on animation frame 1 when boss silhuette starts to fade white		Y	Environment	2	
+env_guardian		1	1	71		Atmo	SFX_Env_Guardian	Plays when there is a guardian in the dungeon. The sound is positioned. Loops as long as the guardian exists.		Y	Environment	2	
+env_guardian_powerup				71		Atmo	SFX_Env_Guardian_Powerup	Plays when a light of the guardian flashes		Y	Environment	2	
+env_dart_trap				71		Atmo	SFX_Env_Dart_Trap	Plays when the dart trap fires. Please fire only one instance of the sound all in all, because otherwise the sounds will add up and be much louder		Y	Environment	1	
+env_door_earth				100		Atmo	SFX_Env_Door_Water	When temple door opens. Starts on first frame of opening animation.		Y	Environment	2	
+env_door_electric				100		Atmo	SFX_Env_Door_Electric	When temple door opens. Starts on first frame of opening animation.		Y	Environment	2	
+env_door_poison				100		Atmo	SFX_Env_Door_Poison	When temple door opens. Starts on first frame of opening animation.		Y	Environment	2	
+env_door_water				100		Atmo	SFX_Env_Door_Water	When temple door opens. Starts on first frame of opening animation.		Y	Environment	2	
+env_dungeon_fan			1	25		Atmo	SFX_Env_Dungeon_Fan	For the dungeon fans 		Y	Environment	1	
+													
+													
+													
+env_mushroom_grow				71		Atmo	SFX_Env_Mushroom_Grow	When the grow animation for a mushroom in the poison temple starts		Y	Environment	2	
+env_mushroom_open				71		Atmo	SFX_Env_Mushroom_Open	Starts with frame 1 of the open animation for a hit shroom		Y	Environment	2	
+env_stone_pillar				100		Atmo	SFX_Env_Stone_Pillar	Starts when the stone pillar in electric temple starts to rise (frame 1)		Y	Environment	2	
+env_lightning	5			71		Atmo	SFX_Env_Lightning	Plays when lightning hits in the electric temple		Y	Environment	2	
+env_waterfall_start			1	71		Atmo	SFX_Env_Waterfall_Start	Plays when the waterfall starts to fall		Y	Environment	1	
+env_waterfall_loop		1	1	71	1	Atmo	SFX_Env_Waterfall_Loop	Plays when the waterfall is steady, starts 6 seconds after the Start-sound		Y	Environment	1	
+													
+env_rift			1	71		Atmo	SFX_Env_Rift	Plays as long as the rift exists, based on rift position		Y	Environment	1	
+env_rift_close				71		Atmo	SFX_Env_Rift_Close	Plays when rift closes		Y	Environment	2	
+env_place_orb				71		Atmo	SFX_Env_Place_Orb	Plays when player places a orb for rift opening (when orb particles start)		Y	Environment	1	
+env_missingno				71		Atmo	SFX_Env_Missingno	Plays as soon as the missingno escape sequence starts on frame 1		Y	Environment	2	
+													
+// PLAYER	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+player_footsteps_grass	5			7		PlayerWalk	SFX_Player_Footstep_Grass	For grass tiles in earth biome		Yes but in wrong place	Player	1	
+player_footsteps_dirt	5			7		PlayerWalk	SFX_Player_Footstep_Dirt	For dirt tiles in earth biome		Y	Player	1	
+player_footsteps_wood	5			50		PlayerWalk	SFX_Player_Footstep_Wood	For wood flooring (tavern upper area, fishing shop, greenhouse, tutorial house, workshop )		Y	Player	1	
+player_footsteps_stone	5			50		PlayerWalk	SFX_Player_Footstep_Stone	Footsteps for stone (tavern entrance area, electric biome, caves)		Y	Player	1	
+player_footsteps_tall_grass	5			10		PlayerWalk	SFX_Player_Footstep_Tall_Grass	For walking through bushes		Y	Player	1	
+player_footsteps_wood_bridge	5			71		PlayerWalk	SFX_Player_Footstep_Wood_Bridge	For walking along bridges		Y	Player	1	
+player_footsteps_sand	5			50		PlayerWalk	SFX_Player_Footstep_Sand	For sand tiles in water biome		Y	Player	1	
+player_footsteps_wet_grass	5			25		PlayerWalk	SFX_Player_Footstep_Wet_Grass	For grass tiles in poison biome		Y	Player	1	
+player_footsteps_concrete	5			71		PlayerWalk	SFX_Player_Footstep_Concrete	For fire biome		Y	Player	1	
+player_footsteps_marble	5			71		PlayerWalk	SFX_Player_Footstep_Marble	For marble floors (science center downstairs, general store)		Y	Player	1	
+player_footsteps_snow	5			35		PlayerWalk	SFX_Player_Footstep_Snow	For walking on snow tiles		Y	Player	1	
+player_footsteps_ice	5			71		PlayerWalk	SFX_Player_Footstep_Ice			Y			
+player_footsteps_ladder				71		PlayerWalk	SFX_Player_Footstep_Ladder	For going up ladders	Stairs at home, ladders in mines.	Y	Player	1	
+player_footsteps_carpet	5			25		PlayerWalk	SFX_Player_Footstep_Carpet			Y	Player	1	
+player_footsteps_medallion	5			25		PlayerWalk	SFX_Player_Footstep_Medallion	For walking inside the medallion room		Y	Player	1	
+player_footsteps_mushroom	4			50		PlayerWalk	SFX_Player_Footstep_Mushroom	For walking on a mushroom		Y	Player	1	
+player_footsteps_ladder_step	4			71		PlayerWalk	SFX_Player_Footstep_Ladder_Step	For climbing ladders step by step. The sound is played in the frame the foot is extended		Y	Player	1	
+player_water_splash				71		PlayerWalk	SFX_Player_Water_Splash	Entering healing pools & hot spring		Y	Player	1	
+player_fall_down				35		Player	SFX_Player_Fall_Down	Falling off broom or off dungeon ledges		Y	Player	1	
+player_damage_overworld				56		Player	SFX_Player_Damage_Overworld	When player takes stamina damage from a hazard		Y	Player	1	
+player_faint				35		Player	SFX_Player_Faint	When player faints from stamina or reaching 2am		Y	Player	1	
+player_stamina_increase				79		Player	SFX_Player_Stamina_Increase	When player gains stamina from crop or concoction		Y	Player	1	
+player_healing_pool		1		25		Player	SFX_Player_Healing_Pool	When player is in healing pool		Y	Player	1	
+player_on_fire		1		71		Player	SFX_Player_On_Fire_Loop	When player is walking on fire biome without armor		N	Player	1	
+player_swim	5			79		Player	SFX_Player_Swim	When player is swimming		Y	Player	1	
+player_getting_changed				71		Player	SFX_Player_Getting_Changed	Plays when getting changed for sleeping. Please start from animation frame 1!		Y	Player	2	
+													
+// FLYING	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+item_wind_for_flying		1		45	1	Item	SFX_Item_Flying_Wind	Fading in/out over 1s		Y	Item	2	
+item_charging_up_magic_broom				56	1	Item	SFX_Item_Broom_Charge	Fading in/out over 1s		Y	Item	2	
+item_lifting_off_magic_broom				35	1	Item	SFX_Item_Broom_Liftoff	Fading in/out over 1s		Y	Item	1	
+item_flying_with_glider		1		35	1	Item	SFX_Item_Glider_Flying	Fading in/out over 1s		Y	Item	2	
+item_flying_with_broom		1		20	1	Item	SFX_Item_Broom_Flying	Fading in/out over 1s		Y	Item	2	
+item_flying_with_balloon		1		20	1	Item	SFX_Item_Balloon_Flying	Fading in/out over 1s		Y	Item	2	
+item_blow_up_balloon				20		Item	SFX_Item_Balloon_Blowup			Y	Item	2	
+item_glider_take_off				71		Item	SFX_Item_Glider_Take_Off			Y	Item	2	
+item_teleporter_start				100		Item	SFX_Item_Teleporter_Start			Y	Item	2	
+item_teleporter_end				100		Item	SFX_Item_Teleporter_End			Y	Item	2	
+													
+// FISHING	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+item_fishing_casting				71		Item	SFX_Item_Fishing_Casting	Casting fishing line		Y	Item	1	
+item_fishing_bobber				100		Item	SFX_Item_Fishing_Bobber	When bobber hits the water		Y	Item	1	
+item_fishing_fish_bite				50		Item	SFX_Item_Fishing_Fish_Bite	When fish bites		Y	Item	1	
+item_fishing_fish_miss				32		Item	SFX_Item_Fishing_Fish_Miss	When player misses the fish		Y	Item	1	
+item_fishing_start_game				100		Item	SFX_Item_Fishing_Start_Game	When the mini game starts		Y	Item	2	
+item_fishing_targeting				71		Item	SFX_Item_Fishing_Targeting	When the circle is over the fish		Y	Item	1	
+item_fishing_got_fish				100		Item	SFX_Item_Fishing_Got_Fish	When the player fills the green meter		Y	Item	2	
+item_fishing_reeling_in				50		Item	SFX_Item_Fishing_Reeling_In	When the mini game closes and the fish is reeled in		Y	Item	1	
+item_fishing_equip_lure				71		Item	SFX_Item_Fishing_Equip_Lure	When a lure is equipped		Y	Item	1	
+item_fishing_perfect				50		Item	SFX_Item_Fishing_Perfect			Y	Item	2	
+													
+													
+													
+// ITEMS	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+item_medallion				50		Item	SFX_Item_Medallion	When the player uses the medallion		Y	Item	2	
+item_alchemylab_active		1		45		Item	SFX_Item_Potions_Loop	When an alchemy lab is running	Volume changes with distance to the object	Y	Item	2	
+item_furnace_active		1		100		Item	SFX_Item_Furnace_Loop	When a furnace is running	Volume changes with distance to the object	Y	Item	2	
+item_placeable_place				100		Item	SFX_Item_Place_Furniture	When a placeable item is placed		Y	Item	1	
+item_placeable_rotate				100		Item	SFX_Item_Rotate_Furniture	When a placeable item is rotated		Y	Item	1	
+													
+													
+item_axe	5			100		Item	SFX_Item_Axe			Y	Item	1	
+item_hammer	3			100		Item	SFX_Item_Hammer			Y	Item	1	
+item_hoe	3			79		Item	SFX_Item_Hoe			Y	Item	1	
+item_scythe	3			50		Item	SFX_Item_Scythe			Y	Item	1	
+item_plant_seed				100		Item	SFX_Item_Seed_Scatter	When the player plants a seed		Y	Item	1	
+item_watering_can				71		Item	SFX_Item_Watering_Can	When the player uses the watercan		Y	Item	1	
+item_spirit_brush				50		Item	SFX_Item_Spirit_Brush	When the player uses the spirit brush		Y	Item	1	
+item_magic_wand		1		50	1	Item	SFX_Item_Magic_Wand	When the player uses the magic wand		Y	Item	2	
+item_warp_whistle				50		Item	SFX_Item_Warp_Whistle	When the player uses the warp whistle		Y	Item	2	
+item_scythe_upgrade				71		Item	SFX_Item_Scythe_Upgrade	When the scythe blocks		Y	Item	1	
+													
+													
+item_boomerang_flying		1	1	35		Item	SFX_Item_Boomerang_Flying	TBD		Y	Item	1	
+item_boomerang_stun				50		Item	SFX_Item_Boomerang_Stun	TBD		Y	Item	1	
+item_boomerang_hit_wood				100		Item	SFX_Item_Boomerang_Hit_Wood	TBD		N	Item	1	
+item_boomerang_hit_stone				100		Item	SFX_Item_Boomerang_Hit_Stone	TBD		Y	Item	1	
+													
+item_music_fruit_a				100		Item	SFX_Item_Music_Fruit_A	Plays note "a" for the music riddle		N/A	Item	2	
+item_music_fruit_c				100		Item	SFX_Item_Music_Fruit_C	Plays note "c" for the music riddle		N/A	Item	2	
+item_music_fruit_d				100		Item	SFX_Item_Music_Fruit_D	etc.		N/A	Item	2	
+item_music_fruit_e				100		Item	SFX_Item_Music_Fruit_E	etc.		N/A	Item	2	
+item_music_fruit_f				100		Item	SFX_Item_Music_Fruit_F	etc.		N/A	Item	2	
+item_music_fruit_g				100		Item	SFX_Item_Music_Fruit_G	Plays note "g". The right order for the riddle is: E A E F G E D C E A		N/A	Item	2	
+													
+// UI	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+ui_inventory_open				40		UI	SFX_UI_Inventory_Open	Opening the inventory		Y	UI	1	
+ui_inventory_close				40		UI	SFX_UI_Inventory_Close	Closing the inventory		Y	UI	1	
+ui_select_a				71		UI	SFX_UI_Select_A	Cursor moving from inventory slot to slot		Y	UI	1	
+ui_select_b				71		UI	SFX_UI_Select_B	Cursor moving between dialogue options in menus		Y	UI	1	
+ui_confirm				71		UI	SFX_UI_Confirm	Pressing a button (Start furnace, start alchemy lab, end turn, feed, flee, etc.)	Added to furnace, lab, battle.	Partial	UI	1	
+ui_scroll				35		UI	SFX_UI_Scroll	Scrolling map, shop list, journal, or social list		Y	UI	1	
+ui_inventory_drag				71		UI	SFX_UI_Pickup	Pickup item in inventory		Y	UI	1	
+ui_inventory_drop				71		UI	SFX_UI_Drop	Drop item in inventory		Y	UI	1	
+ui_inventory_trash				71		UI	SFX_UI_Trash	Trash item in inventory		Y	UI	1	
+ui_inventory_transfer				71		UI	SFX_UI_Place_Crop	Transferring items from/to chests or crafting stations		Y	UI	1	
+ui_wheel_open				63		UI	SFX_UI_Wheel_Open	Opening the UI Wheel		Y	UI	1	
+ui_wheel_close				71		UI	SFX_UI_Wheel_Close	Closing the UI Wheel		Y	UI	1	
+													
+ui_click	3			45		UI	SFX_UI_Click	TBD		N	UI	1	
+ui_card_selection				63		UI	SFX_UI_Card_Selection	When switching between cards		Y	UI	1	
+ui_card_draw	4			50		UI	SFX_UI_Card_Draw	When a card is drawn		Y	UI	1	
+ui_card_upgrade				100		UI	SFX_UI_Card_Upgrade	When using Meditate/Cleanse talisman		Y	UI	2	
+ui_talisman_select				100		UI	SFX_UI_Talisman_Select	When selecting a talisman		Y	UI	2	
+ui_unlock_skill				100		UI	SFX_UI_Unlock_Skill	When player spends a skill point on a new skill and when buying new skills		Y	UI	2	
+ui_start_brew				100		UI	SFX_UI_Start_Brew	When the alchemy lab is brewing a concoction		Y	UI	2	
+ui_start_furnace				63		UI	SFX_UI_Start_Furnace	When the furnace is running		Y	UI	2	
+ui_ingot				71		UI	SFX_UI_Ingot	When getting an ingot		Y	UI	2	
+ui_craft	3			71		UI	SFX_UI_Craft						
+ui_chatter		1		50	0.1	UI	SFX_UI_Chatter	For when an NPC has text scrolling in a dialogue box		Y	UI	1	
+ui_chatter_cleo		1		50	0.1	UI	SFX_UI_Chatter_Cleo			NEW	UI	1	
+ui_chatter_error		1		50	0.1	UI	SFX_UI_Chatter_Error			NEW	UI	1	
+ui_chatter_ferra		1		50	0.1	UI	SFX_UI_Chatter_Ferra			NEW	UI	1	
+ui_chatter_gaiana		1		50	0.1	UI	SFX_UI_Chatter_Gaiana			NEW	UI	1	
+ui_chatter_ofelia		1		50	0.1	UI	SFX_UI_Chatter_Ofelila			NEW	UI	1	
+ui_chatter_ossono		1		50	0.1	UI	SFX_UI_Chatter_Ossono			NEW	UI	1	
+ui_chatter_paolo		1		50	0.1	UI	SFX_UI_Chatter_Paolo			NEW	UI	1	
+ui_chatter_quill		1		50	0.1	UI	SFX_UI_Chatter_Quill			NEW	UI	1	
+ui_chatter_rowan		1		50	0.1	UI	SFX_UI_Chatter_Rowan			NEW	UI	1	
+ui_chatter_tobin		1		50	0.1	UI	SFX_UI_Chatter_Tobin			NEW	UI	1	
+ui_chatter_zed		1		50	0.1	UI	SFX_UI_Chatter_Zed			NEW	UI	1	
+ui_flirt_good				100		UI	SFX_UI_Flirt_Good	Successful chat, joke or flirt		Y	UI	1	
+ui_flirt_bad				100		UI	SFX_UI_Flirt_Bad	Unsuccessful chat, joke or flirt		Y	UI	1	
+ui_flirt_heart				80		UI	SFX_UI_Flirt_Heart	When filling a heart		Y	UI	2	
+													
+ui_shop_buy				50		UI	SFX_UI_Shop_Buy	Bought item		Y	UI	1	
+ui_shop_sell				50		UI	SFX_UI_Shop_Sell	Sold item		Y	UI	1	
+ui_save				50		UI	SFX_UI_Save	When "game saved" text appears on end of day menu		Y	UI	2	
+ui_tally		1		100		UI	SFX_UI_Tally	End of day sound for tally. Loops as long as numbers are going up. Stops when a line is "done". Also plays in the spirit research dialogue		Y	UI	1	
+													
+ui_research_card				50		UI	SFX_UI_Research_Card	Plays when a "card" shows up		Y	UI	1	
+ui_research_pop				50		UI	SFX_UI_Research_Pop	Plays when the tally meter shows up		Y	UI	1	
+													
+ui_tame_1				71		UI	SFX_UI_Tame_1	Plays when the spirit takes the first step towards the player		Y	UI	2	
+ui_tame_2				71		UI	SFX_UI_Tame_2	Plays when the spirit takes the second step towards the player		Y	UI	2	
+ui_tame_fail				71		UI	SFX_UI_Tame_Fail	Plays when the tame fails		Y	UI	2	
+ui_tame_success				71		UI	SFX_UI_Tame_Success	Plays when the spirit takes the third step towards the player, before the stinger		Y	UI	2	
+													
+// BATTLE	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+battle_feed_crop				79		Battle	SFX_Battle_Feed_Crop	Feed crop/concoction/fish/potion in battle		Y	Battle	1	
+attack_water				50		Battle	SFX_Battle_Attack_Water	when the GFX animation "water" is used		Y	Battle	2	
+attack_bite				71		Battle	SFX_Battle_Attack_Bite			Y	Battle	2	
+attack_mindBlast				100		Battle	SFX_Battle_Attack_Mind_Blast			Y	Battle	2	
+attack_ice				71		Battle	SFX_Battle_Attack_Ice			Y	Battle	2	
+attack_dark				100		Battle	SFX_Battle_Attack_Dark			Y	Battle	2	
+attack_fire				100		Battle	SFX_Battle_Attack_Fire			Y	Battle	2	
+attack_heal				100		Battle	SFX_Battle_Attack_Heal			Y	Battle	2	
+attack_iceSpikes				35		Battle	SFX_Battle_Attack_Ice_Spikes			Y	Battle	2	
+attack_electric				71		Battle	SFX_Battle_Attack_Electric			Y	Battle	2	
+attack_poison				79		Battle	SFX_Battle_Attack_Poison			Y	Battle	2	
+attack_earth				79		Battle	SFX_Battle_Attack_Earth			Y	Battle	2	
+attack_normal				71		Battle	SFX_Battle_Attack_Normal			Y	Battle	2	
+attack_summon				100		Battle	SFX_Battle_Attack_Summon			Y	Battle	2	
+attack_burn				71		Battle	SFX_Battle_Attack_Burn			Y	Battle	2	
+attack_iceCast				71		Battle	SFX_Battle_Attack_Ice_Cast			Y	Battle	2	
+attack_sharp				100		Battle	SFX_Battle_Attack_Sharp			Y	Battle	2	
+attack_freeze				100		Battle	SFX_Battle_Attack_Freeze			Y	Battle	2	
+attack_charge				71		Battle	SFX_Battle_Attack_Charge			Y	Battle	2	
+attack_star				100		Battle	SFX_Battle_Attack_Star			Y	Battle	2	
+attack_mindSpike				100		Battle	SFX_Battle_Attack_Mind_Spike			Y	Battle	2	
+attack_poisonClaw				79		Battle	SFX_Battle_Attack_Poison_Claw			Y	Battle	2	
+attack_tangle				100		Battle	SFX_Battle_Attack_Tangle			Y	Battle	2	
+attack_hit				71		Battle	SFX_Battle_Attack_Hit			Y	Battle	2	
+attack_calm				71		Battle	SFX_Battle_Attack_Calm			Y	Battle	2	
+attack_rage				50		Battle	SFX_Battle_Attack_Rage			Y	Battle	2	
+attack_intangible				100		Battle	SFX_Battle_Attack_Intangible			Y	Battle	2	
+attack_ethereal				89		Battle	SFX_Battle_Attack_Ethereal			Y	Battle	2	
+attack_randomize				71		Battle	SFX_Battle_Attack_Randomize			Y	Battle	2	
+attack_claws				56		Battle	SFX_Battle_Attack_Claws			Y	Battle	2	
+attack_twinPink				100		Battle	SFX_Battle_Attack_Twin_Pink			Y	Battle	2	
+attack_twinRose				100		Battle	SFX_Battle_Attack_Twin_Rose			Y	Battle	2	
+attack_blueBall				71		Battle	SFX_Battle_Attack_Blue_Ball			Y	Battle	2	
+attack_burnPoint				100		Battle	SFX_Battle_Attack_Burn_Point			Y	Battle	2	
+attack_crystal				56		Battle	SFX_Battle_Attack_Crystal			Y	Battle	2	
+attack_darkMirror				100		Battle	SFX_Battle_Attack_Dark_Mirror			Y	Battle	2	
+attack_erupt				100		Battle	SFX_Battle_Attack_Erupt			Y	Battle	2	
+attack_greenSplash				79		Battle	SFX_Battle_Attack_Green_Splash			Y	Battle	2	
+attack_redBurst				100		Battle	SFX_Battle_Attack_Red_Burst			Y	Battle	2	
+attack_shine				100		Battle	SFX_Battle_Attack_Shine			Y	Battle	2	
+attack_thunder				71		Battle	SFX_Battle_Attack_Thunder			Y	Battle	2	
+attack_yellowCircle				56		Battle	SFX_Battle_Attack_Yellow_Circle			Y	Battle	2	
+attack_zigzag				100		Battle	SFX_Battle_Attack_Zigzag			Y	Battle	2	
+attack_smokeSlash				100		Battle	SFX_Battle_Attack_Smoke_Slash			Y	Battle	2	
+attack_shadowHeart				100		Battle	SFX_Battle_Attack_Shadow_Heart			Y	Battle	2	
+attack_burnBall1				100		Battle	SFX_Battle_Attack_Burn_Ball_1			Y	Battle	2	
+attack_burnBall2				100		Battle	SFX_Battle_Attack_Burn_Ball_2			Y	Battle	2	
+attack_burnBall3				100		Battle	SFX_Battle_Attack_Burn_Ball_3			Y	Battle	2	
+attack_lightningStrike				100		Battle	SFX_Battle_Attack_Lightning_Strike			Y	Battle	2	
+attack_lightningBolt				100		Battle	SFX_Battle_Attack_Lightning_Bolt			Y	Battle	2	
+attack_lightningBlast				100		Battle	SFX_Battle_Attack_Lightning_Blast			Y	Battle	2	
+attack_greenTornado				100		Battle	SFX_Battle_Attack_Green_Tornado			Y	Battle	2	
+attack_cure				79		Battle	SFX_Battle_Attack_Cure			Y	Battle	2	
+attack_darkCore				100		Battle	SFX_Battle_Attack_Dark_Core			Y	Battle	2	
+attack_fireBreath				100		Battle	SFX_Battle_Attack_Fire_Breath			Y	Battle	2	
+attack_hpRain				100		Battle	SFX_Battle_Attack_Hp_Rain			Y	Battle	2	
+attack_iceColumn				79		Battle	SFX_Battle_Attack_Ice_Column			Y	Battle	2	
+attack_pinkColumn				100		Battle	SFX_Battle_Attack_Pink_Column			Y	Battle	2	
+attack_portal				100		Battle	SFX_Battle_Attack_Portal			Y	Battle	2	
+attack_thunderDome				71		Battle	SFX_Battle_Attack_Thunder_Dome			Y	Battle	2	
+attack_blueBolt				100		Battle	SFX_Battle_Attack_Blue_Bolt			Y	Battle	2	
+attack_blueCharge				71		Battle	SFX_Battle_Attack_Blue_Charge			Y	Battle	2	
+attack_blueCircle				56		Battle	SFX_Battle_Attack_Blue_Circle			Y	Battle	2	
+attack_darkSmoke				100		Battle	SFX_Battle_Attack_Dark_Smoke			Y	Battle	2	
+attack_greenBall				71		Battle	SFX_Battle_Attack_Green_Ball			Y	Battle	2	
+attack_greenMulti				71		Battle	SFX_Battle_Attack_Green_Multi			Y	Battle	2	
+attack_redMulti				100		Battle	SFX_Battle_Attack_Red_Multi			Y	Battle	2	
+attack_sparkCircle				100		Battle	SFX_Battle_Attack_Spark_Circle			Y	Battle	2	
+attack_yellowStrike				100		Battle	SFX_Battle_Attack_Yellow_Strike			Y	Battle	2	
+attack_blueVertical2				100		Battle	SFX_Battle_Attack_Blue_Vertical_2			Y	Battle	2	
+attack_darkSplat				63		Battle	SFX_Battle_Attack_Dark_Splat			Y	Battle	2	
+attack_greenSplat				71		Battle	SFX_Battle_Attack_Green_Splat			Y	Battle	2	
+attack_greenVertical2				100		Battle	SFX_Battle_Attack_Green_Vertical_2			Y	Battle	2	
+attack_pinkMulti				100		Battle	SFX_Battle_Attack_Pink_Multi			Y	Battle	2	
+attack_pinkVertical				100		Battle	SFX_Battle_Attack_Pink_Vertical			Y	Battle	2	
+attack_pinkVertical2				100		Battle	SFX_Battle_Attack_Pink_Vertical_2			Y	Battle	2	
+attack_pinkVortex				100		Battle	SFX_Battle_Attack_Pink_Vortex			Y	Battle	2	
+attack_pinkXplosion				100		Battle	SFX_Battle_Attack_Pink_Xplosion			Y	Battle	2	
+attack_redVertical2				100		Battle	SFX_Battle_Attack_Red_Vertical_2			Y	Battle	2	
+attack_missingno_laser				71		Battle	SFX_Battle_Attack_Missingno_Laser			Y	Battle	2	
+attack_darkRitual2				71		Battle	SFX_Battle_Attack_Summon			Y	Battle	2	
+attack_missingno_curse				71		Battle	SFX_Battle_Missingno_Curse			Y	Battle	2	
+													
+battle_wildspirit_alert				50		Battle	SFX_Battle_Monster_Alert	When the wild spirit spots the player		Y	Battle	1	
+battle_armor_break				100		Battle	SFX_Battle_Shield_Break	When armor breaks		Y	Battle	2	
+battle_armor_reduce				100		Battle	SFX_Battle_Shield_Reduce	When armor is reduced		Y	Battle	2	
+battle_flee_success				63		Battle	SFX_Battle_Flee_Success	When flee is sucessful		Y	Battle	2	
+battle_flee_fail				63		Battle	SFX_Battle_Flee_Fail	When flee failed		Y	Battle	2	
+battle_dizzy_start				50		Battle	SFX_Battle_Dizzy_Start	When spirit is dizzy		Y	Battle	2	
+battle_dizzy_loop		1		63		Battle	SFX_Battle_Dizzy_Loop	Loop when spirits are dizzy (TBD!)		N	Battle	2	
+battle_spirit_banished				100		Battle	SFX_Battle_Spirit_Banished	When spirit is banished		Y	Battle	2	
+battle_boss_entry				71		Battle	SFX_Battle_Boss_Entry	When boss enteres the battle		Y	Battle	2	
+battle_temple_boss_entry				71		Battle	SFX_Env_Temple_Boss_Entry	When temple boss begins to fall (shadow appears on map)		Y	Battle	2	
+													
+// ATMOSPHERIC	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category	Channels	
+atmo_outside_wind		1		56	4	Atmo	SFX_Atmo_Outside_Wind	Loop when outside	Disabled for now	N	Atmo	2	
+atmo_outside_wind_birds		1		71	4	Atmo	SFX_Atmo_Outside_Wind_Birds	Loop when player is outside		N	Atmo	2	
+atmo_outside_rain		1		50	4	Atmo	SFX_Atmo_Outside_Rain	Loop when outside and raining		Y	Atmo	2	
+atmo_outside_night		1		71	10	Atmo	SFX_Atmo_Outside_Night	Replaces wind_birds loop when its night time		Y	Atmo	2	
+atmo_hot_spring		1		71	4	Atmo	SFX_Atmo_Hot_Spring	Loop inside hot spring		Y	Atmo	2	
+atmo_star_storm		1		71		Atmo	SFX_Atmo_Star_Storm	Loop when star storm occurs		Y	Atmo	2	
+atmo_owl	5	0		71		Atmo	SFX_Atmo_Owl				Atmo	2	
+atmo_songbird	6	0		71		Atmo	SFX_Atmo_Songbird				Atmo	2	
+atmo_season_spring		1		71		Atmo	SFX_Atmo_Spring			Y	Atmo	2	
+atmo_season_summer		1		71		Atmo	SFX_Atmo_Summer			Y	Atmo	2	
+atmo_season_fall		1		71		Atmo	SFX_Atmo_Fall			Y	Atmo	2	
+atmo_season_winter		1		71		Atmo	SFX_Atmo_Winter			Y	Atmo	2	
+atmo_inside_rain		1		71		Atmo	SFX_Atmo_Rain_Home	Loop when it rains and you are in your house		N	Atmo	2	
+atmo_firework	6	0		71		Atmo	SFX_Atmo_Firework	Firework sounds as soon as particles explode		Y	Atmo	2	
+													
+// LAYOUT SPECIFIC AMBIENT													
+atmo_layout_mine		1		71	1	Atmo	SFX_Atmo_Cave	Loop inside mines and dungeons		Y	Atmo	2	
+atmo_layout_smithy		1		100	1	Atmo	SFX_Atmo_Smithy	Loop when inside smithy		Y	Atmo	2	
+atmo_layout_conservatory		1		100	1	Atmo	SFX_Atmo_Conservatory	Loop when inside conservatory		Y	Atmo	2	
+atmo_layout_sciencecenter		1		100	1	Atmo	SFX_Atmo_Science_Center	Loop when inside science cener		Y	Atmo	2	
+atmo_layout_generalstore		1		100	1	Atmo	SFX_Atmo_Shop	Loop when inside general store		Y	Atmo	2	
+atmo_layout_tavern		1		100	1	Atmo	SFX_Atmo_Tavern	Loop when inside tavern		Y	Atmo	2	
+atmo_layout_fishingshop		1		100	1	Atmo	SFX_Atmo_Fishing_Shack	Loop when inside fishing shack		Y	Atmo	2	
+atmo_layout_workshop		1		100	1	Atmo	SFX_Atmo_Workshop	Loop when inside workshop		Y	Atmo	2	
+atmo_layout_templeearth		1		71	1	Atmo	SFX_Atmo_Temple_Spring			Y	Atmo	2	
+atmo_layout_templewater		1		71	1	Atmo	SFX_Atmo_Temple_Summer			Y	Atmo	2	
+atmo_layout_templepoison		1		71	1	Atmo	SFX_Atmo_Temple_Fall			Y	Atmo	2	
+atmo_layout_templeelectric		1		71	1	Atmo	SFX_Atmo_Temple_Winter			Y	Atmo	2	
+atmo_layout_parentdream		1		71	1	Atmo	SFX_Parent_Dream			Y	Atmo	2	
+atmo_layout_infinidungeon		1		100	1	Atmo	SFX_Atmo_Infinidungeon			Y	Atmo	2	
+atmo_layout_infinidungeonentrance		1		100	1	Atmo	SFX_Atmo_Infinidungeon			Y	Atmo	2	
+atmo_layout_tavernriftparty		1		50	1	Atmo	SFX_Atmo_Tavern	Loop when inside tavern during  the party		Y	Atmo	2	
+													
+// STINGERS	Variations	Loop	Positioned	Volume	Fade	Folder							
+stg_dungeon_enter				71		Stinger	SFX_Stinger_Dungeon_Enter	When the first room of a dungeon is loaded		Y	Stinger	1	
+stg_key_item				100		Stinger	SFX_Stinger_Key_Item_Found	When a key item is found		Y	Stinger	2	
+stg_level_up				79		Stinger	SFX_Stinger_Level_Up	When a spirits xp meter reaches the next level	Played at the end of the battle	Y	Stinger	2	
+stg_quest				89		Stinger	SFX_Stinger_Quest	When a quests starts / ends		Y	Stinger	2	
+stg_secret				89		Stinger	SFX_Stinger_Secret	TBD		Y	Stinger	2	
+stg_battle				100		Stinger	SFX_Stinger_Battle	As soon as player collides with wild spirit and the VS screen plays		Y	Stinger	2	
+stg_research				100		Stinger	SFX_Stinger_Research	After research is done		Y	Stinger	2	
+stg_tame				100		Stinger	SFX_Stinger_Tame	Plays when taming during battle succeeds. Starts on the first frame of the "zooming tween"		Y	Stinger	2	
+													
+// CINEMATIC													
+cin_intro_storm		1		100	1	Cinematic	SFX_Cin_Intro_Storm	Plays and loops when the intro starts		Y	Cinematic	2	
+cin_intro_storm_strong		1		100	1	Cinematic	SFX_Cin_Intro_Storm_Strong	Plays and loops when the wind gets strongers, layers on top of storm sound above		Y	Cinematic	2	
+cin_intro_fall				100		Cinematic	SFX_Cin_Intro_Fall	Plays when the player falls off the broom		Y	Cinematic	1	
+cin_intro_impact				100		Cinematic	SFX_Cin_Intro_Impact	Plays when the player "hits" the ground (black screen) to indicate the crash		Y	Cinematic	1	
+													
+													
+env_plant_grow1				100		PlayerInteract	SFX_Env_Plant_Grow_01	Plays progressively when the plants grow. Starts with lowest pitch and goes to highest to mark the planth height		Y	Environment	1	
+env_plant_grow2				100		PlayerInteract	SFX_Env_Plant_Grow_02			Y	Environment	1	
+env_plant_grow3				100		PlayerInteract	SFX_Env_Plant_Grow_03			Y	Environment	1	
+env_plant_grow4				100		PlayerInteract	SFX_Env_Plant_Grow_04			Y	Environment	1	
+env_plant_grow5				100		PlayerInteract	SFX_Env_Plant_Grow_05			Y	Environment	1	
+env_plant_grow6				100		PlayerInteract	SFX_Env_Plant_Grow_06			Y	Environment	1	
+env_plant_grow7				100		PlayerInteract	SFX_Env_Plant_Grow_07			Y	Environment	1	
+env_plant_grow8				100		PlayerInteract	SFX_Env_Plant_Grow_08			Y	Environment	1	
+env_plant_grow9				100		PlayerInteract	SFX_Env_Plant_Grow_09			Y	Environment	1	
+env_plant_grow10				100		PlayerInteract	SFX_Env_Plant_Grow_10			Y	Environment	1	
+env_plant_grow11				100		PlayerInteract	SFX_Env_Plant_Grow_11			Y	Environment	1	
+env_plant_grow12				100		PlayerInteract	SFX_Env_Plant_Grow_12			Y	Environment	1	
+env_plant_grow13				100		PlayerInteract	SFX_Env_Plant_Grow_13			Y	Environment	1	
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+
+Code	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category		
+													
+// DAILY MUSIC													
+mus_spring_1				50	2		MI-Spring-Discovery				Music		
+mus_spring_2				50	2		MI-Spring-Shuffling Around				Music		
+mus_spring_3				50	2		MI - Moonstone Rising				Music		
+mus_summer_1				50	2		MI-Summer-Moonstone Summer				Music		
+mus_summer_2				50	2		MI-Breezy Corners				Music		
+mus_summer_3				50	2		MI-Over The Bridge				Music		
+mus_fall_1				50	2		MI-Fall-Autumn Harvest				Music		
+mus_fall_2				50	2		MI-Moonlight on the Island				Music		
+mus_fall_3				50	2		MI-Winter Is Around The Corner				Music		
+mus_winter_1				50	2		MI-Winter-Contemplation				Music		
+mus_winter_2				50	2		MI-Winter-Morning In Town				Music		
+mus_winter_3				50	2		MI-Winter-Stardust				Music		
+													
+// BATTLE MUSIC													
+mus_battle_1		1		50	1		MI-Battle Theme				Music		
+mus_battle_boss		1		50	1		MI - Boss Battle				Music		
+mus_battle_guardian		1		70	1		MI - Guardian Battle				Music		
+mus_battle_missingno		1		70	1		MI - Mission Missingno				Music		
+													
+													
+// LOCATION SPECIFIC MUSIC	Variations	Loop	Positioned	Volume	Fade	Folder	Filename	Comment	Stan Questions	Added	Category		
+mus_dungeon_1		1		50	1		MI - Dungeon Theme				Music		
+mus_town_1				50	5		MI - A Bit of Bustle - Town theme				Music		
+													
+mus_date		1		50	5		MI - Getting To Know You				Music		
+											Music		
+mus_tavern_happy_hour		1		50	1		MI - Happiness Hour	Tavern, Friday after 5pm			Music		
+													
+													
+mus_title		1		50	1		MI-Moonlight on the Island				Music		
+													
+mus_festival		1		50	2		MI-Winter Is Around The Corner				Music		
+													
+tutorial1		1		50	2		MI - Moonstone Rising				Music		
+tutorial2		1		50	2		MI-Moonlight on the Island				Music		
+													
+mus_intro				20	3		MI - Game Intro Music				Music		
+													
+mus_wedding		1		70	1		MI-Evergreen				Music		
+mus_festival_spring1		1		50	2		MI-Winter-Stardust				Music		
+mus_festival_spring2		1		50	2		MI-Winter-Contemplation				Music		
+													
+mus_festival_summer1		1		50	2		MI-Winter-Contemplation				Music		
+mus_festival_summer2		1		50	2		MI-Winter Is Around The Corner				Music		
+													
+mus_festival_fall1		1		70	2		MI-Breezy Corners				Music		
+mus_festival_fall2		1		50	2		MI - Happiness Hour				Music		
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+

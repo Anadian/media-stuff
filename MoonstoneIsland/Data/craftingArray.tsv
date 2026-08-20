@@ -1,0 +1,3091 @@
+player	Materials	Locked	Hidden	Priority	Quantity	VerySpecial	Category		
+									
+bridge	wood,stone								
+pathWood	wood								
+pathStone	stone	1		13					
+fenceWood	wood								
+fenceStone	stone	1		14					
+gate	wood:3,stone:3								
+chest	wood:10,ingotIron:1								
+mailbox	wood:5,ingotIron:1,flaxCrop:2	1		12					
+calendar	cloth:3	1		8					
+torch	wood,coal	1		2					
+sprinkler	ingotCopper:1,ingotIron:1	1		4					
+bottle	seaGlass:1	1		6					
+brush	wood:3,fibre:3	1		quest					
+cloth	fibre:3								
+balloon	cloth:3	1	1	mothers letter		1			
+sellCrate	wood:30,stone:5	1	1	wood quest					
+furnace	wood:10,stone:10	1		blacksmith quest1		1			
+furnaceUpgraded	wood:20,stone:20	1	1	blacksmith matchmaker quest		1			
+workbench	wood:20,ingotIron:1	1		3					
+alchemyLab	wood,ingotCopper:3,ingotIron:3,clay	1	1	mother quest1					
+enchanter	ingotMoonstone:1,ingotCopper:3,ingotIron:3								
+anvil	ingotIron:3	1		blacksmith quest2					
+cauldron	ingotMoonstone:1,ingotIron:2,poison	1	1	mother quest2					
+compostBin	wood:10,ash:4	1	1	mother quest3					
+									
+cookingPrepStation	wood:5,ingotIron	1		ossono quest					
+cookbook	wood:3,cloth:3	1		ossono quest					
+stove	wood:5,ingotIron:2	1		ossono quest					
+juicer	wood:10,ingotIron:1	1	1	fall festival					
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+furnace	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+ingotCopper	oreCopper:3								
+ingotIron	oreIron:3								
+ingotMoonstone	moonstone:3								
+ash	wood								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+workbench	Materials	Locked	Hidden	Priority	Quantity	VerySpecial	Category		
+									
+windowWood	wood,seaGlass						windows+walls		
+windowWhite	wood,seaGlass	1					windows+walls		
+windowStone	stone,seaGlass	1					windows+walls		
+candle	wood,ash,cloth	1					lighting		
+lantern	ash:1,ingotIron:1						lighting		
+bookStack	cloth:5	1					surfaces+shelves		
+bed	wood:3,cloth:3						seating+beds		
+chair	wood:5	1					seating+beds		
+chairWicker	wood:10,fibre:10	1					seating+beds		
+chairCozy	wood:3,cloth:3	1					seating+beds		
+couchCozy	wood:5,cloth:5	1					seating+beds		
+tableDining	wood:20,ingotIron	1					surfaces+shelves		
+tableRound	wood:20,cloth:3	1					surfaces+shelves		
+tableCoffee	wood:15	1					surfaces+shelves		
+tableBedside	wood:10	1					surfaces+shelves		
+library	wood:10,cloth:5	1					surfaces+shelves		
+counter	wood:5,ingotCopper:1	1					kitchen+bath		
+counterSink	wood:5,ingotIron:1	1					kitchen+bath		
+									
+fridge	ingotIron:1,snowball:1	1					kitchen+bath		
+pantry	wood:10,stone:10,seaGlass:1	1					kitchen+bath		
+gramophone	wood:10,ingotCopper:3,ingotIron:1	1					misc		
+rug	cloth:15	1					floor		
+rugStriped	cloth:10	1					floor		
+rugPurple	cloth:20	1	1	dlc_deluxe			floor		
+openBook	cloth:1	1					surfaces+shelves		
+yellowCushion	cloth:2,sparks:1	1					seating+beds		
+standingLamp	cloth:1,ingotIron:1	1					lighting		
+laundryBasket	wood:2,fibre:2	1					kitchen+bath		
+slippers	cloth:3,fuzzballCrop:1	1					kitchen+bath		
+tableHerbalist	wood:10,ingotIron:1,bottle:1	1					surfaces+shelves		
+TV	ingotIron:1,sparks:1	1					misc		
+hutchWhite	wood:5	1					surfaces+shelves		
+stoolPink	wood:3,mandrakeCrop:1	1					seating+beds		
+vanity	wood:8,seaGlass	1					surfaces+shelves		
+bedDouble	wood:10,wingfruitCrop:1	1					seating+beds		
+chairWindsor	wood:5	1					seating+beds		
+lifeSaver	wood:3,fibre:1	1					misc		
+lampBrass	ingotIron:1,ingotCopper:1	1					lighting		
+paddle	wood:3	1					misc		
+boots	oldBootM:1	1					misc		
+tableCoffeeRound	wood:10	1					surfaces+shelves		
+chairComfy	wood:3,cloth:2,blobfishM:1	1					seating+beds		
+garbageCan	ingotIron:1	1					kitchen+bath		
+fireplaceNautical	ingotIron:1,stone:10,fireball:1	1					lighting		
+wireRack	ingotIron:2	1					surfaces+shelves		
+tallDrawers	wood:20	1					surfaces+shelves		
+stepLadder	wood:10	1					misc		
+tableGarden	wood:10,fertilizerGrowth:1	1					foliage		
+deskBell	oreIron:1	1					misc		
+crystal	stone:5,dreamDrop	1					misc		
+cupEmpty	seaGlass:1	1					kitchen+bath		
+cupFull	seaGlass:1	1					kitchen+bath		
+bottlePink	seaGlass:1	1					kitchen+bath		
+plateDirty	stone:1,stoneFruitCrop:1	1					kitchen+bath		
+plateStack	stone:5	1					kitchen+bath		
+stoolDark	wood:5,ash	1					seating+beds		
+stoolLight	wood:5	1					seating+beds		
+stoolBlue	wood:5,colberryCrop	1					seating+beds		
+mailPile	cloth:2	1					misc		
+plantTiny	fibre:5,stone:1	1					foliage		
+orrery	ingotCopper:1	1					misc		
+moonstoneChunk	wood:1,seaGlass:1	1					misc		
+paintGreen	oreIron,fibre:3	1					misc		
+paintRed	oreIron,hotPepperCrop	1					misc		
+moonStars	cloth:1,boltCrop:1	1	1	dlc_deluxe			windows+walls		
+									
+anchor	ingotIron:2	1					misc		
+barrel	wood:5	1					kitchen+bath		
+boards	wood:3	1					misc		
+bookMountain	cloth:5	1					surfaces+shelves		
+bootsYellow	cloth:3,boltCrop:1	1					misc		
+bottleGreen	seaGlass:1,fibre:1	1					kitchen+bath		
+bottleOrange	seaGlass:1,boltCrop:1	1					kitchen+bath		
+boxes	cloth:3	1					misc		
+bulletinBoard	wood:3,treasureMapCleared:1	1					windows+walls		
+chalkboard	stone:3,coal:1	1					windows+walls		
+crateBucket	wood:3,oreIron:1	1					misc		
+divingBell	ingotIron:5	1					misc		
+firepoker	oreIron:2,ash:1	1					lighting		
+fireplaceBrick	stone:30,fireball:1,ash:1	1					lighting		
+fishermanLantern	ingotIron:1,sparks:1,ash:1	1					lighting		
+fishingRodRack	wood:5,ingotIron:1,lureBigHook:1	1					surfaces+shelves		
+greasePuddle	coal:1	1					misc		
+historianPainting	cloth:3,fireball:1	1					windows+walls		
+lampRed	ingotIron:1,applumCrop:1	1					lighting		
+lighthouseBulb	ingotIron:5,seaGlass:5,sparks:5	1					lighting		
+logs	wood:3	1					misc		
+paintBuckets	ingotCopper:1	1					misc		
+paintingMoonrise	cloth:3,ash:1	1	1	dlc_deluxe			windows+walls		
+planks	wood:3	1					misc		
+posterForSale	cloth:3	1					windows+walls		
+posterMug	cloth:2	1					windows+walls		
+posterPink	cloth:2	1					windows+walls		
+posterStar	cloth:2	1					windows+walls		
+posterTable	cloth:2	1					windows+walls		
+posterTools	cloth:2	1					windows+walls		
+rugBlack	cloth:5,coal:3	1					floor		
+rugBlue	cloth:5,colberryCrop:3	1					floor		
+rugGreen	cloth:5,lilyPadCrop:3	1					floor		
+rugGreenFlowers	cloth:5,lilyPadCrop:1	1					floor		
+sawdust	wood:3	1					misc		
+									
+stoolPurple	wood:5,wingfruitCrop:1	1					seating+beds		
+stoolRectangular	wood:5	1					seating+beds		
+tableBedsidePurple	wood:5,tinyflowerCrop:1	1					seating+beds		
+tableSmallRound	wood:5	1					surfaces+shelves		
+telescope	seaGlass:10,ingotIron:5,ingotMoonstone:1	1					misc		
+toolbox	ingotIron:1,fireball:1	1					misc		
+toolRack	wood:3,ingotIron:1	1					windows+walls		
+towels	cloth:3	1					kitchen+bath		
+traps	ingotIron:1	1					misc		
+wallChain	wood:1,ingotIron:1	1					windows+walls		
+wallChisels	wood:3,ingotIron:1	1					windows+walls		
+									
+windowRectangular	wood:1,seaGlass:1	1					windows+walls		
+windowTavern	wood:1,seaGlass:1	1					windows+walls		
+yarnBalls	cloth:1,beachpeachCrop:1	1					misc		
+yellowMat	cloth:3,squishCrop:1	1					floor		
+									
+treeEarth	wood:5	1					foliage		
+treeWater	wood:5	1					foliage		
+treePoison	wood:5	1					foliage		
+treeElectric	wood:5	1					foliage		
+treeFire	wood:5	1					foliage		
+treeDark	wood:5	1					foliage		
+									
+bath	wood:5,ingotIron:2,stone:5	1					kitchen+bath		
+bedFancy	wood:5,cloth:5	1					seating+beds		
+bedFourPost	wood:5,cloth:5,hotairfruitCrop:1	1					seating+beds		
+bedMattress	cloth:4,mossballCrop:1	1					seating+beds		
+bedMessy	wood:3,cloth:4,poison	1					seating+beds		
+benchGreen	wood:5,cloth:3,lilyPadCrop:1	1					seating+beds		
+benchLiveEdge	wood:10	1					seating+beds		
+bellows	wood:5,cloth:2,ingotIron:1	1					misc		
+bookCase	wood:15,cloth:3,seaGlass:1	1					surfaces+shelves		
+booksInset	wood:10,cloth:1	1					surfaces+shelves		
+chairBean	cloth:5,stunflowerCrop:1	1	1	dlc_deluxe			seating+beds		
+chairMulticolor	wood:3,cloth:5,pinwheelflowerCrop:1	1					seating+beds		
+cooler	ingotIron:1,snowball:1	1					kitchen+bath		
+couchModern	wood:5,cloth:5,colberryCrop:3	1					seating+beds		
+deskGardening	wood:5,plantHistorian:1,fibre:3	1					foliage		
+deskOffice	wood:5	1					surfaces+shelves		
+deskPainter	wood:5,paintBuckets:1	1					surfaces+shelves		
+deskWitch	wood:5,darkMatter:1	1					surfaces+shelves		
+divider	wood:10	1					windows+walls		
+easel	wood:3,cloth:2	1					misc		
+fridgeMessy	ingotIron:1,snowball:1,cloth:1	1					kitchen+bath		
+grindstone	stone:3,wood:5,ingotIron:1	1					misc		
+keg	wood:10	1					kitchen+bath		
+kitchenIsland	wood:10,wine:1	1					kitchen+bath		
+lampDesigner	ingotCopper:3,sparks:1	1					lighting		
+lampFancy	ingotCopper:2,ghostshroomCrop:1	1					lighting		
+paintings	cloth:5	1					windows+walls		
+quenchingBath	wood:5,ingotIron:1	1					misc		
+rackHat	wood:3	1					misc		
+rackWooden	wood:5	1					foliage		
+rugPersian	cloth:10,poison:1,fireball:1	1					floor		
+rugRed	cloth:10	1					floor		
+rugRound	cloth:10,flamerootCrop:1	1					floor		
+rugZag	cloth:5,dreamDrop:1	1					floor		
+rugZig	cloth:10,colberryCrop:1	1					floor		
+spinningWheel	wood:5,cloth:3	1					misc		
+stoveWood	wood:3,ingotIron:3,fireball	1					lighting		
+tableLiveEdge	wood:50	1					surfaces+shelves		
+tableSaw	wood:10,ingotIron:2	1					surfaces+shelves		
+wallSmall	wood:1						windows+walls		
+wallBig	wood:2						windows+walls		
+itemFrame	wood:1,seaGlass:1						windows+walls		
+									
+									
+									
+candles	wood:3,ash:3,cloth	1	1	dlc_halloween			lighting		
+cobweb	cloth:3	1	1	dlc_halloween			misc		
+gravestone	stone:5	1					misc		
+ironBatArchway	ingotIron:2	1					misc		
+jackOLantern	grumpkinCrop	1	1	dlc_halloween			lighting		
+jillOLantern	grumpkinCrop	1	1	dlc_halloween			lighting		
+rugEye	cloth:5,seaGlass	1	1	dlc_halloween			floor		
+rugTongue	cloth:5,fireball	1					floor		
+marigold	stone:5,ash	1					misc		
+crunchboi	stone:5,ash	1					misc		
+skull	stone:5	1					misc		
+									
+archwayCandycane	ingotIron,snowball,snowmanplantCrop	1					misc		
+rugFuzzy	cloth:2,snowball	1	1	dlc_holiday			floor		
+gingerbreadBoi	coal,fireball	1					kitchen+bath		
+gingerbreadLass	coal,fireball	1					kitchen+bath		
+icicles	chillyberryCrop	1	1	dlc_holiday			misc		
+presents	giftplantCrop	1					misc		
+roast	coal,fireball,snowmanplantCrop	1					kitchen+bath		
+snowboard	wood:3,ingotIron	1	1	dlc_holiday			misc		
+frostopher	snowmanplantCrop	1	1	dlc_holiday			misc		
+snowmelia	snowmanplantCrop	1	1	dlc_holiday			misc		
+firepit	ingotIron:2,wood:3	1					lighting		
+snowflakeGarland	cloth	1					windows+walls		
+snowglobe	seaGlass,snowflobesCrop	1					misc		
+holidayTreeLights	seaGlass:1	1					lighting		
+									
+chocolateBox	fibre:3	1	1	dlc_valentines			kitchen+bath		
+petals	fibre:1	1					foliage		
+archwayHeart	fibre:3,flaxCrop:3,ingotIron:1	1	1	dlc_valentines			misc		
+bedHeart	wood:5,cloth:5	1					seating+beds		
+heartTub	wood:5,furnace,fireball	1					kitchen+bath		
+lampHeart	oreIron,sparks	1	1	dlc_valentines			lighting		
+portraitFrame	wood:1	1					windows+walls		
+rugHeart	cloth:5,applumCrop	1	1	dlc_valentines			floor		
+windowHeart	wood:1,seaGlass	1					windows+walls		
+champagne	seaGlass:1	1					kitchen+bath		
+lampLava	seaGlass:1,fireball	1					lighting		
+couchLove	wood:3,cloth:3	1	1	dlc_valentines			seating+beds		
+bouquetRed	fibre:1,seaGlass:1	1					foliage		
+bouquetBlue	fibre:1,seaGlass:1	1					foliage		
+chairWhite	wood:5	1					seating+beds		
+rugRunner	cloth:3,darkMatter	1					floor		
+lampStreet	ingotIron:1,ash:3	1					lighting		
+									
+									
+broomRack	wood:5	1					surfaces+shelves		
+candelabra	ingotIron:1,ash	1	1	dlc_magic			lighting		
+crystalBall	seaGlass:1	1					misc		
+rugFishbo	cloth:3,seaGlass:1	1					floor		
+rugHat	cloth:3	1	1	dlc_magic			floor		
+fishboStatue	ingotMoonstone:50	1					misc		
+lectern	wood:5,cloth:1	1	1	dlc_magic			surfaces+shelves		
+windowStained	seaGlass:1,dreamDrop:1	1					windows+walls		
+scrollBox	wood:3,cloth:5	1					surfaces+shelves		
+summoningCircle	sigilChalk:20	1	1	dlc_magic			floor		
+curtainTattered	cloth:2	1	1	dlc_magic			windows+walls		
+couchWitchy	ingotIron:1,cloth:3,darkMatter:1	1					seating+beds		
+chalkBarrel	wood:2,ash:1,poison	1					misc		
+									
+									
+barbecue	ingotIron:1,coal:3	1	1	dlc_pool			kitchen+bath		
+blanketBeach	cloth:3	1	1	dlc_pool			floor		
+chairBeach	ingotIron:1,cloth:1	1	1	dlc_pool			seating+beds		
+towelBeach	cloth:1	1	1	dlc_pool			kitchen+bath		
+coolerBeach	wood:3,chillyberryCrop	1	1	dlc_pool			kitchen+bath		
+chairLounge	wood:2,cloth:3	1	1	dlc_pool			seating+beds		
+floatieSnorcko	cloth:3	1	1	dlc_pool			seating+beds		
+bucketBeach	wood:2	1	1	dlc_pool			misc		
+pool	ingotIron:3,dreamDrop,coin:3000	1	1	dlc_pool			kitchen+bath		
+floatie	cloth:3	1	1	dlc_pool			seating+beds		
+torchTiki	ingotIron:1,coal:1	1	1	dlc_pool			lighting		
+umbrellaBeach	ingotIron:1,cloth:2	1	1	dlc_pool			misc		
+									
+									
+rugDonut	cloth:3	1	1	dlc_cooking			floor		
+rugPizza	cloth:3,sparks	1					lighting		
+scale	ingotIron	1					kitchen+bath		
+cloche	ingotIron	1	1	dlc_cooking			kitchen+bath		
+cuttingBoard	wood:3	1					kitchen+bath		
+fruitBowl	wood:3,applumCrop	1					kitchen+bath		
+knives	wood:3,ingotIron:1	1					kitchen+bath		
+toaster	ingotIron:1,sparks	1					kitchen+bath		
+potRack	ingotCopper:1,ingotIron:1	1	1	dlc_cooking			kitchen+bath		
+placemat	fibre:5	1					kitchen+bath		
+counterTiled	wood:5,ingotCopper:1	1					kitchen+bath		
+counterTiledSink	wood:5,ingotIron:1	1					kitchen+bath		
+counterMarble	stone:5,wood:5,ingotCopper:1	1	1	dlc_cooking			kitchen+bath		
+counterMarbleSink	stone:5,wood:5,ingotIron:1	1	1	dlc_cooking			kitchen+bath		
+									
+autumnArchway	wood:5,flagflowerCrop:5	1	1	dlc_festivals			misc		
+rugElectricone	cloth:3,electriconeCrop:3	1	1	dlc_festivals			floor		
+rugFireworks	cloth:5,willowispCrop:1	1	1				floor		
+lampGhostshroom	sparks:1,ghostshroomCrop:2	1	1	dlc_festivals			lighting		
+rugGhostshroom	cloth:3,ghostshroomCrop:3	1	1	dlc_festivals			floor		
+stoolLeaf	wood:5	1	1	dlc_festivals			seating+beds		
+stoolMushroom	magicMushroomCrop:3	1	1				seating+beds		
+tableMushroom	magicMushroomCrop:6	1	1				surfaces+shelves		
+leaves	fibre:3	1	1				foliage		
+									
+rugWreath	cloth:2,fibre:3						floor		
+taroDecoration	ingotCopper:1,sparks						misc		
+starBig	wood:5						misc		
+cookiePlate	mealSweaterCookies,plateStack						kitchen+bath		
+									
+									
+
+anvil	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+sheetCopper	ingotCopper:3								
+sheetIron	ingotIron:3								
+sheetMoonstone	ingotMoonstone:3								
+armorCopperPoison	sheetCopper,poison:1								
+armorIronPoison	sheetIron,poison:1								
+armorMoonstonePoison	sheetMoonstone,poison:1								
+armorCopperElectric	sheetCopper,sparks:1								
+armorIronElectric	sheetIron,sparks:1								
+armorMoonstoneElectric	sheetMoonstone,sparks:1								
+armorCopperFire	sheetCopper,fireball:1								
+armorIronFire	sheetIron,fireball:1								
+armorMoonstoneFire	sheetMoonstone,fireball:1								
+armorCopperDark	sheetCopper,darkMatter:1								
+armorIronDark	sheetIron,darkMatter:1								
+armorMoonstoneDark	sheetMoonstone,darkMatter:1								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+compostBin	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+fertilizerGrowth	ash,fibre				10				
+fertilizerStamina	ash,clay	1		skill	10				
+fertilizerHealing	ash,seaGlass	1		skill	10				
+fertilizerTame	ash,poison	1		skill	10				
+fertilizerPower	ash,fireball	1		skill	10				
+fertilizerSpeed	ash,sparks	1		skill	10				
+fertilizerExperience	ash,dreamDrop	1		skill	10				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+enchanter	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+broom	wood:5,moonstone:2					1			
+glider	wood:50,ingotIron:3,ingotMoonstone:3					1			
+									
+									
+									
+									
+									
+beacon	stone:10,moonstone	1		matchmaker quest					
+stall	wood:10,cloth:3	1		quest					
+nest	wood,fibre	1		quest					
+stallAuto	stall,cloth:3,moonstone	1		quest		1			
+spiritBarn	wood:100,stone:100,ingotIron:3,ingotMoonstone:1	1		quest		1			
+homeTent	wood:50,stone:50,ingotMoonstone:1					1			
+homeCabin	wood:100,stone:100,ingotMoonstone:2	1	1			1			
+homeFancy	wood:150,stone:150,ingotMoonstone:3	1	1	dlc_deluxe		1			
+homeScienceCenter	wood:100,stone:200,ingotMoonstone:3	1		quest		1			
+homeTreeFort	wood:200,stone:100,ingotMoonstone:3	1	1			1			
+homeTower	wood:100,stone:300,ingotMoonstone:3	1	1			1			
+homeHaunted	wood:150,stone:150,ingotMoonstone:5	1	1			1			
+homeLighthouse	wood:50,stone:250,ingotMoonstone:3	1	1			1			
+homePumpkin	wood:100,stone:100,ingotMoonstone:4	1	1	dlc_halloween		1			
+homeSnowman	wood:100,stone:100,ingotMoonstone:3	1	1	dlc_holiday		1			
+homeGingerbread	wood:100,stone:100,ingotMoonstone:3	1	1			1			
+homeHeart	wood:100,stone:100,ingotMoonstone:3	1	1	dlc_valentines		1			
+homeLovebird	wood:50,stone:50,ingotMoonstone:2	1	1			1			
+homeHat	wood:20,cloth:20,ingotMoonstone:3	1	1	dlc_magic		1			
+homeFishbowl	seaGlass:15,ingotMoonstone:3	1	1			1			
+homeHotel	wood:20,stone:300,ingotMoonstone:3	1	1			1			
+homeBakery	wood:100,stone:100,ingotMoonstone:2	1	1	dlc_cooking		1			
+homeMushroom	umbrellashroomCrop:10,stone:100,ingotMoonstone:4	1	1			1			
+homePresent	giftplantCrop:3,wood:20,stone:80,ingotMoonstone:1					1			
+greenhouseSmall	wood:50,ingotIron:2,ingotMoonstone:2,seaGlass:5	1	1			1			
+spiritBarnMushroom	wood:100,stone:100,clay:3,ingotMoonstone:1	1	1	dlc_festivals		1			
+spiritBarnSprout	wood:20,moonstone:1	1	1	professor_quest		1			
+spiritBarnFarm	wood:70,stone:30,clay:3,ingotMoonstone:1	1	1			1			
+									
+greenhouse	wood:100,ingotIron:3,ingotMoonstone:3,seaGlass:10	1		9		1			
+sigilChalk	clay,moonstone	1			20				
+braceletMoonstone	moonstone:3,ingotIron:1	1	1	skill		1			
+braceletGrass	moonstone:1,fibre:1	1	1	skill					
+braceletMarriage	moonstone:1,ingotMoonstone:1:ingotIron:1	1	1	letter		1			
+									
+									
+loom	moonstone:1,wood:10,cloth:3	1		matchmaker quest		1			
+mirror	moonstone:1,ingotIron:1,ingotCopper:1	1		7		1			
+moonstoneMachine	moonstone:3	1	1	rift quest		1			
+spiritStorageMachine	wood:10,ingotMoonstone:3,sparks	1		10		1			
+recycler	wood:5,ingotIron:3,ingotMoonstone:1	1	1	summer festival		1			
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+cauldron	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+potionSpeed	sparks,clay,bottle								
+potionLight	moonstone,seaGlass,bottle								
+potionPoisonResistance	ingotIron,poison,bottle								
+potionElectricResistance	ingotIron,sparks,bottle	1		on_station_unlocked					
+potionFireResistance	ingotIron,fireball,bottle	1		on_station_unlocked					
+potionInvisibility	magicMushroomCrop,darkMatter,bottle	1		on_station_unlocked					
+potionPsychicSight	seaGlass,dreamDrop,bottle	1		on_station_unlocked					
+potionPoisonGain	moonstone,poison,bottle								
+potionElectricGain	moonstone,sparks,bottle	1		on_station_unlocked					
+potionFireGain	moonstone,fireball,bottle	1		on_station_unlocked					
+potionAbundance	wood,clay,bottle	1		on_station_unlocked					
+potionTimeDilation	moonstone,darkMatter,bottle	1		on_station_unlocked					
+potionRageCleanse	clay,dreamDrop,bottle	1		on_station_unlocked					
+potionPoisonCleanse	poison,dreamDrop,bottle	1		on_station_unlocked					
+potionChargeCleanse	sparks,dreamDrop,bottle	1		on_station_unlocked					
+potionBurnCleanse	fireball,dreamDrop,bottle	1		on_station_unlocked					
+potionIntangibleCleanse	dreamDrop:2,bottle	1		on_station_unlocked					
+potionEtherealCleanse	darkMatter,dreamDrop,bottle	1		on_station_unlocked					
+potionLuck	moonstone,coin:100,bottle	1	1	mother quest3					
+potionNightvision	eyeberryCrop,seaGlass,bottle	1	1	mother quest5					
+potionSkillReset	dreamDrop:3,bottle								
+potionStatsReset	moonstone,dreamDrop,bottle	1		on_station_unlocked					
+potionDeckReset	ingotMoonstone,sugar,bottle	1		on_station_unlocked					
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+loom	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+customFloorTile	fibre								
+customWallpaper	fibre								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+cookingPrepStation	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+flour_spring	flaxCrop								
+flour_summer	mossballCrop								
+flour_fall	squishCrop								
+flour_winter	snowmanplantCrop								
+									
+sugar_spring	catTailCrop								
+sugar_summer	beachpeachCrop								
+sugar_fall	flagflowerCrop								
+sugar_winter	chillyberryCrop								
+									
+rice	fibre								
+									
+dough	flour,water								
+noodles	flour,water								
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+stove	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+mealSpiritSoup	dreamDrop,water,rice								
+mealBirthdayCake	anyEgg,sugar,flour								
+									
+mealStonefruitDonuts	?stoneFruitCrop:3,dough,sugar	1	1	cooking_npc					
+mealNightshadeNoodles	nightShadeCrop:3,noodles,anyEgg								
+mealHotPepperPasta	?hotPepperCrop:3,noodles	1	1	cooking_npc					
+mealSpiritbaneSoup	?spiritBaneCrop:3,rice,anyEgg								
+									
+mealPopsiplantPudding	popsiplantCrop:3,rice,sugar								
+mealPinwheelCake	?pinwheelflowerCrop:3,sugar,flour	1	1	cooking_npc					
+mealZaplantRamen	?zaplantCrop:3,noodles,anyEgg	1	1	cooking_npc					
+mealTinyFlowerTart	?tinyflowerCrop:3,dough,sugar								
+									
+									
+mealSquishSoup	?squishCrop:3,rice,water	1	1	cooking_npc					
+mealFlagFlan	?flagflowerCrop:5,anyEgg,sugar								
+mealGrumpkinPie	?grumpkinCrop:3,dough,sugar	1	1	cooking_npc					
+mealColberryLasagna	colberryCrop:5,noodles								
+									
+									
+mealSnowmanBread	?snowmanplantCrop:3,flour,sugar	1	1	cooking_npc					
+mealChillyBerrySherbet	chillyberryCrop:15,sugar								
+mealSweaterCookies	?sweaterplantCrop:3,dough,sugar								
+mealIcicleIceCream	?iciclerootCrop:3,sugar	1	1	cooking_npc					
+									
+									
+mealSisyphishFriedRice	?sisyphish:2,rice,nimbusPlantCrop								
+mealBunnyfishDumplings	?bunnyfish:2,dough,flamerootCrop								
+mealPizzafishPie	?pizzafish:5,dough,planternCrop	1	1	cooking_npc					
+mealMoonfishTacos	?moonfish:3,dough,snowdropflowerCrop								
+mealLightningEelSushi	lightningEel:3,rice,blackpearlCrop	1	1	cooking_questline					
+mealSweetSourSpinefish	spinefish:3,sugar,water	1	1	cooking_questline					
+mealTigerfishandChips	?tigerfish:3,dough	1	1	cooking_npc					
+mealVoidfishPaella	voidfish:5,rice,rubyplantCrop	1	1	cooking_questline					
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+
+juicer	Materials	Locked	Hidden	Priority	Quantity	VerySpecial			
+									
+juiceYarrow	yarrowCrop,water,moonstone				3				
+juiceTinyFlower	tinyflowerCrop,water,moonstone				3				
+juiceGhostshroom	ghostshroomCrop,water,moonstone				3				
+juiceSnowdrop	snowdropflowerCrop,water,moonstone				3				
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+									
+

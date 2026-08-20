@@ -1,0 +1,3601 @@
+{
+  "data": {
+    "pokemon_v2_generation": [
+      {
+        "id": 1,
+        "name": "generation-i",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 7,
+            "name": "Generation I"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "generation-ii",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 16,
+            "name": "Generation II"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "generation-iii",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 25,
+            "name": "Generation III"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "generation-iv",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 34,
+            "name": "Generation IV"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "generation-v",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 43,
+            "name": "Generation V"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "generation-vi",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 52,
+            "name": "Generation VI"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "generation-vii",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 61,
+            "name": "Generation VII"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "generation-viii",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 70,
+            "name": "Generation VIII"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "generation-ix",
+        "pokemon_v2_generationnames": [
+          {
+            "id": 79,
+            "name": "Generation IX"
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_moveattribute": [
+      {
+        "id": 1,
+        "name": "contact",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 2,
+            "description": "User touches the target.  This triggers some abilities (e.g., static) and items (e.g., sticky barb)."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "charge",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 4,
+            "description": "This move has a charging turn that can be skipped with a power herb."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "recharge",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 6,
+            "description": "The turn after this move is used, the Pokémon's action is skipped so it can recharge."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "protect",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 8,
+            "description": "This move will not work if the target has used detect or protect this turn."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "reflectable",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 10,
+            "description": "This move may be reflected back at the user with magic coat or magic bounce."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "snatch",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 12,
+            "description": "This move will be stolen if another Pokémon has used snatch this turn."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "mirror",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 14,
+            "description": "A Pokémon targeted by this move can use mirror move to copy it."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "punch",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 16,
+            "description": "This move has 1.2× its usual power when used by a Pokémon with iron fist."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "sound",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 18,
+            "description": "Pokémon with soundproof are immune to this move."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "gravity",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 20,
+            "description": "This move cannot be used in high gravity."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "defrost",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 22,
+            "description": "This move can be used while frozen to force the Pokémon to defrost."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "distance",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 24,
+            "description": "In triple battles, this move can be used on either side to target the farthest away opposing Pokémon."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "heal",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 26,
+            "description": "This move is blocked by heal block."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "authentic",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 28,
+            "description": "This move ignores the target's substitute."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "powder",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 30,
+            "description": "Pokémon with overcoat and grass-type Pokémon are immune to this move."
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "bite",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 32,
+            "description": "This move has 1.5× its usual power when used by a Pokémon with strong jaw."
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "pulse",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 34,
+            "description": "This move has 1.5× its usual power when used by a Pokémon with mega launcher."
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "ballistics",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 36,
+            "description": "This move is blocked by bulletproof."
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "mental",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 38,
+            "description": "This move is blocked by aroma veil and cured by mental herb."
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "non-sky-battle",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 40,
+            "description": "This move is unusable during Sky Battles."
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "dance",
+        "pokemon_v2_moveattributedescriptions": [
+          {
+            "id": 41,
+            "description": "This move triggers dancer."
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_movebattlestyle": [
+      {
+        "id": 1,
+        "name": "attack",
+        "pokemon_v2_movebattlestylenames": [
+          {
+            "id": 2,
+            "name": "Attack"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "defense",
+        "pokemon_v2_movebattlestylenames": [
+          {
+            "id": 4,
+            "name": "Defense"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "support",
+        "pokemon_v2_movebattlestylenames": [
+          {
+            "id": 6,
+            "name": "Support"
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_movedamageclass": [
+      {
+        "id": 1,
+        "name": "status",
+        "pokemon_v2_movedamageclassnames": [
+          {
+            "id": 6,
+            "name": "status"
+          }
+        ],
+        "pokemon_v2_movedamageclassdescriptions": [
+          {
+            "id": 6,
+            "description": "No damage"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "physical",
+        "pokemon_v2_movedamageclassnames": [
+          {
+            "id": 13,
+            "name": "physical"
+          }
+        ],
+        "pokemon_v2_movedamageclassdescriptions": [
+          {
+            "id": 13,
+            "description": "Physical damage, controlled by Attack and Defense"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "special",
+        "pokemon_v2_movedamageclassnames": [
+          {
+            "id": 20,
+            "name": "special"
+          }
+        ],
+        "pokemon_v2_movedamageclassdescriptions": [
+          {
+            "id": 20,
+            "description": "Special damage, controlled by Special Attack and Special Defense"
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_movetarget": [
+      {
+        "id": 1,
+        "name": "specific-move",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 2,
+            "name": "Specific move"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 2,
+            "description": "One specific move.  How this move is chosen depends upon on the move being used."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "selected-pokemon-me-first",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 4,
+            "name": "Selected Pokémon"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 4,
+            "description": "One other Pokémon on the field, selected by the trainer.  Stolen moves reuse the same target."
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "ally",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 6,
+            "name": "Ally"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 6,
+            "description": "The user's ally (if any)."
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "users-field",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 8,
+            "name": "User's field"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 8,
+            "description": "The user's side of the field.  Affects the user and its ally (if any)."
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "user-or-ally",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 10,
+            "name": "User or ally"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 10,
+            "description": "Either the user or its ally, selected by the trainer."
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "opponents-field",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 12,
+            "name": "Opponent's field"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 12,
+            "description": "The opposing side of the field.  Affects opposing Pokémon."
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "user",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 14,
+            "name": "User"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 14,
+            "description": "The user."
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "random-opponent",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 16,
+            "name": "Random opponent"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 16,
+            "description": "One opposing Pokémon, selected at random."
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "all-other-pokemon",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 18,
+            "name": "All other Pokémon"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 18,
+            "description": "Every other Pokémon on the field."
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "selected-pokemon",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 20,
+            "name": "Selected Pokémon"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 20,
+            "description": "One other Pokémon on the field, selected by the trainer."
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "all-opponents",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 22,
+            "name": "All opponents"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 22,
+            "description": "All opposing Pokémon."
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "entire-field",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 24,
+            "name": "Entire field"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 24,
+            "description": "The entire field.  Affects all Pokémon."
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "user-and-allies",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 26,
+            "name": "User and allies"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 26,
+            "description": "The user and its allies."
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "all-pokemon",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 28,
+            "name": "All Pokémon"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 28,
+            "description": "Every Pokémon on the field."
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "all-allies",
+        "pokemon_v2_movetargetnames": [
+          {
+            "id": 29,
+            "name": "All allies"
+          }
+        ],
+        "pokemon_v2_movetargetdescriptions": [
+          {
+            "id": 29,
+            "description": "All of the user's allies."
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "fainting-pokemon",
+        "pokemon_v2_movetargetnames": [],
+        "pokemon_v2_movetargetdescriptions": []
+      }
+    ],
+    "pokemon_v2_nature": [
+      {
+        "id": 1,
+        "name": "hardy",
+        "game_index": 0,
+        "increased_stat_id": null,
+        "decreased_stat_id": null,
+        "likes_flavor_id": null,
+        "hates_flavor_id": null,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 8,
+            "name": "Hardy"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 1,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 61,
+            "low_hp_preference": 61
+          },
+          {
+            "id": 2,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 7,
+            "low_hp_preference": 7
+          },
+          {
+            "id": 3,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 32,
+            "low_hp_preference": 32
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "bold",
+        "game_index": 5,
+        "increased_stat_id": 3,
+        "decreased_stat_id": 2,
+        "likes_flavor_id": 5,
+        "hates_flavor_id": 1,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 18,
+            "name": "Bold"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 4,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 30,
+            "low_hp_preference": 32
+          },
+          {
+            "id": 5,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 20,
+            "low_hp_preference": 58
+          },
+          {
+            "id": 6,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 50,
+            "low_hp_preference": 10
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "modest",
+        "game_index": 15,
+        "increased_stat_id": 4,
+        "decreased_stat_id": 2,
+        "likes_flavor_id": 2,
+        "hates_flavor_id": 1,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 28,
+            "name": "Modest"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 7,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 35,
+            "low_hp_preference": 34
+          },
+          {
+            "id": 8,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 45,
+            "low_hp_preference": 60
+          },
+          {
+            "id": 9,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 20,
+            "low_hp_preference": 6
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "calm",
+        "game_index": 20,
+        "increased_stat_id": 5,
+        "decreased_stat_id": 2,
+        "likes_flavor_id": 4,
+        "hates_flavor_id": 1,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 38,
+            "name": "Calm"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 10,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 40,
+            "low_hp_preference": 25
+          },
+          {
+            "id": 11,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 50,
+            "low_hp_preference": 62
+          },
+          {
+            "id": 12,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 10,
+            "low_hp_preference": 13
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "timid",
+        "game_index": 10,
+        "increased_stat_id": 6,
+        "decreased_stat_id": 2,
+        "likes_flavor_id": 3,
+        "hates_flavor_id": 1,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 48,
+            "name": "Timid"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 13,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 62,
+            "low_hp_preference": 30
+          },
+          {
+            "id": 14,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 10,
+            "low_hp_preference": 20
+          },
+          {
+            "id": 15,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 28,
+            "low_hp_preference": 50
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "lonely",
+        "game_index": 1,
+        "increased_stat_id": 2,
+        "decreased_stat_id": 3,
+        "likes_flavor_id": 1,
+        "hates_flavor_id": 5,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 58,
+            "name": "Lonely"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 16,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 20,
+            "low_hp_preference": 84
+          },
+          {
+            "id": 17,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 25,
+            "low_hp_preference": 8
+          },
+          {
+            "id": 18,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 55,
+            "low_hp_preference": 8
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "docile",
+        "game_index": 6,
+        "increased_stat_id": null,
+        "decreased_stat_id": null,
+        "likes_flavor_id": null,
+        "hates_flavor_id": null,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 68,
+            "name": "Docile"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 19,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 56,
+            "low_hp_preference": 56
+          },
+          {
+            "id": 20,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          },
+          {
+            "id": 21,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "mild",
+        "game_index": 16,
+        "increased_stat_id": 4,
+        "decreased_stat_id": 3,
+        "likes_flavor_id": 2,
+        "hates_flavor_id": 5,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 78,
+            "name": "Mild"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 22,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 44,
+            "low_hp_preference": 34
+          },
+          {
+            "id": 23,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 50,
+            "low_hp_preference": 6
+          },
+          {
+            "id": 24,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 6,
+            "low_hp_preference": 60
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "gentle",
+        "game_index": 21,
+        "increased_stat_id": 5,
+        "decreased_stat_id": 3,
+        "likes_flavor_id": 4,
+        "hates_flavor_id": 5,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 88,
+            "name": "Gentle"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 25,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 18,
+            "low_hp_preference": 90
+          },
+          {
+            "id": 26,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 70,
+            "low_hp_preference": 5
+          },
+          {
+            "id": 27,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 12,
+            "low_hp_preference": 5
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "hasty",
+        "game_index": 11,
+        "increased_stat_id": 6,
+        "decreased_stat_id": 3,
+        "likes_flavor_id": 3,
+        "hates_flavor_id": 5,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 98,
+            "name": "Hasty"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 28,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 58,
+            "low_hp_preference": 88
+          },
+          {
+            "id": 29,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 37,
+            "low_hp_preference": 6
+          },
+          {
+            "id": 30,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 5,
+            "low_hp_preference": 6
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "adamant",
+        "game_index": 3,
+        "increased_stat_id": 2,
+        "decreased_stat_id": 4,
+        "likes_flavor_id": 1,
+        "hates_flavor_id": 2,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 108,
+            "name": "Adamant"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 31,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 38,
+            "low_hp_preference": 70
+          },
+          {
+            "id": 32,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 31,
+            "low_hp_preference": 15
+          },
+          {
+            "id": 33,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 31,
+            "low_hp_preference": 15
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "impish",
+        "game_index": 8,
+        "increased_stat_id": 3,
+        "decreased_stat_id": 4,
+        "likes_flavor_id": 5,
+        "hates_flavor_id": 2,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 118,
+            "name": "Impish"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 34,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 69,
+            "low_hp_preference": 28
+          },
+          {
+            "id": 35,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 6,
+            "low_hp_preference": 55
+          },
+          {
+            "id": 36,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 25,
+            "low_hp_preference": 17
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "bashful",
+        "game_index": 18,
+        "increased_stat_id": null,
+        "decreased_stat_id": null,
+        "likes_flavor_id": null,
+        "hates_flavor_id": null,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 128,
+            "name": "Bashful"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 37,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 30,
+            "low_hp_preference": 30
+          },
+          {
+            "id": 38,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 58,
+            "low_hp_preference": 58
+          },
+          {
+            "id": 39,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 12,
+            "low_hp_preference": 12
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "careful",
+        "game_index": 23,
+        "increased_stat_id": 5,
+        "decreased_stat_id": 4,
+        "likes_flavor_id": 4,
+        "hates_flavor_id": 2,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 138,
+            "name": "Careful"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 40,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 42,
+            "low_hp_preference": 42
+          },
+          {
+            "id": 41,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 50,
+            "low_hp_preference": 5
+          },
+          {
+            "id": 42,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 8,
+            "low_hp_preference": 53
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "rash",
+        "game_index": 19,
+        "increased_stat_id": 4,
+        "decreased_stat_id": 5,
+        "likes_flavor_id": 2,
+        "hates_flavor_id": 4,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 148,
+            "name": "Rash"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 43,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 30,
+            "low_hp_preference": 27
+          },
+          {
+            "id": 44,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 13,
+            "low_hp_preference": 6
+          },
+          {
+            "id": 45,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 57,
+            "low_hp_preference": 67
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "jolly",
+        "game_index": 13,
+        "increased_stat_id": 6,
+        "decreased_stat_id": 4,
+        "likes_flavor_id": 3,
+        "hates_flavor_id": 2,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 158,
+            "name": "Jolly"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 46,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 35,
+            "low_hp_preference": 35
+          },
+          {
+            "id": 47,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 5,
+            "low_hp_preference": 60
+          },
+          {
+            "id": 48,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 60,
+            "low_hp_preference": 5
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "naughty",
+        "game_index": 4,
+        "increased_stat_id": 2,
+        "decreased_stat_id": 5,
+        "likes_flavor_id": 1,
+        "hates_flavor_id": 4,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 168,
+            "name": "Naughty"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 49,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 20,
+            "low_hp_preference": 70
+          },
+          {
+            "id": 50,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 70,
+            "low_hp_preference": 22
+          },
+          {
+            "id": 51,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 10,
+            "low_hp_preference": 8
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "lax",
+        "game_index": 9,
+        "increased_stat_id": 3,
+        "decreased_stat_id": 5,
+        "likes_flavor_id": 5,
+        "hates_flavor_id": 4,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 178,
+            "name": "Lax"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 52,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 35,
+            "low_hp_preference": 29
+          },
+          {
+            "id": 53,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 10,
+            "low_hp_preference": 6
+          },
+          {
+            "id": 54,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 55,
+            "low_hp_preference": 65
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "quirky",
+        "game_index": 24,
+        "increased_stat_id": null,
+        "decreased_stat_id": null,
+        "likes_flavor_id": null,
+        "hates_flavor_id": null,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 188,
+            "name": "Quirky"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 55,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 56,
+            "low_hp_preference": 56
+          },
+          {
+            "id": 56,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          },
+          {
+            "id": 57,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "naive",
+        "game_index": 14,
+        "increased_stat_id": 6,
+        "decreased_stat_id": 5,
+        "likes_flavor_id": 3,
+        "hates_flavor_id": 4,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 198,
+            "name": "Naive"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 58,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 56,
+            "low_hp_preference": 56
+          },
+          {
+            "id": 59,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          },
+          {
+            "id": 60,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "brave",
+        "game_index": 2,
+        "increased_stat_id": 2,
+        "decreased_stat_id": 6,
+        "likes_flavor_id": 1,
+        "hates_flavor_id": 3,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 208,
+            "name": "Brave"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 61,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 70,
+            "low_hp_preference": 32
+          },
+          {
+            "id": 62,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 15,
+            "low_hp_preference": 60
+          },
+          {
+            "id": 63,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 15,
+            "low_hp_preference": 8
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "relaxed",
+        "game_index": 7,
+        "increased_stat_id": 3,
+        "decreased_stat_id": 6,
+        "likes_flavor_id": 5,
+        "hates_flavor_id": 3,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 218,
+            "name": "Relaxed"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 64,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 25,
+            "low_hp_preference": 75
+          },
+          {
+            "id": 65,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 15,
+            "low_hp_preference": 15
+          },
+          {
+            "id": 66,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 60,
+            "low_hp_preference": 10
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "quiet",
+        "game_index": 17,
+        "increased_stat_id": 4,
+        "decreased_stat_id": 6,
+        "likes_flavor_id": 2,
+        "hates_flavor_id": 3,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 228,
+            "name": "Quiet"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 67,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 56,
+            "low_hp_preference": 56
+          },
+          {
+            "id": 68,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          },
+          {
+            "id": 69,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 22,
+            "low_hp_preference": 22
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "sassy",
+        "game_index": 22,
+        "increased_stat_id": 5,
+        "decreased_stat_id": 6,
+        "likes_flavor_id": 4,
+        "hates_flavor_id": 3,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 238,
+            "name": "Sassy"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 70,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 88,
+            "low_hp_preference": 22
+          },
+          {
+            "id": 71,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 6,
+            "low_hp_preference": 20
+          },
+          {
+            "id": 72,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 6,
+            "low_hp_preference": 58
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "serious",
+        "game_index": 12,
+        "increased_stat_id": null,
+        "decreased_stat_id": null,
+        "likes_flavor_id": null,
+        "hates_flavor_id": null,
+        "pokemon_v2_naturenames": [
+          {
+            "id": 248,
+            "name": "Serious"
+          }
+        ],
+        "pokemon_v2_naturebattlestylepreferences": [
+          {
+            "id": 73,
+            "move_battle_style_id": 1,
+            "high_hp_preference": 34,
+            "low_hp_preference": 29
+          },
+          {
+            "id": 74,
+            "move_battle_style_id": 2,
+            "high_hp_preference": 11,
+            "low_hp_preference": 11
+          },
+          {
+            "id": 75,
+            "move_battle_style_id": 3,
+            "high_hp_preference": 55,
+            "low_hp_preference": 60
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_pokedex": [
+      {
+        "id": 1,
+        "name": "national",
+        "region_id": null,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 4,
+            "name": "National"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 4,
+            "description": "Entire National dex"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "kanto",
+        "region_id": 1,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 8,
+            "name": "Kanto"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 8,
+            "description": "Red/Blue/Yellow Kanto dex"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "original-johto",
+        "region_id": 2,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 11,
+            "name": "Original Johto"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 11,
+            "description": "Gold/Silver/Crystal Johto dex—called the \"New\" Pokédex in-game"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "hoenn",
+        "region_id": 3,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 14,
+            "name": "Original Hoenn"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 14,
+            "description": "Ruby/Sapphire/Emerald Hoenn dex"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "original-sinnoh",
+        "region_id": 4,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 17,
+            "name": "Original Sinnoh"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 17,
+            "description": "Diamond/Pearl Sinnoh dex"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "extended-sinnoh",
+        "region_id": 4,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 20,
+            "name": "Extended Sinnoh"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 20,
+            "description": "Platinum Sinnoh dex—an extended version of Diamond and Pearl's"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "updated-johto",
+        "region_id": 2,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 23,
+            "name": "Updated Johto"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 23,
+            "description": "HeartGold/SoulSilver Johto dex—Gold/Silver/Crystal's, extended to add move-based Generation IV evolutions"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "original-unova",
+        "region_id": 5,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 26,
+            "name": "Original Unova"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 26,
+            "description": "Black/White Unova dex"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "updated-unova",
+        "region_id": 5,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 29,
+            "name": "Updated Unova"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 29,
+            "description": "Black 2/White 2 Unova dex"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "conquest-gallery",
+        "region_id": null,
+        "is_main_series": false,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 32,
+            "name": "Gallery"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 32,
+            "description": "Pokémon Conquest gallery order"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "kalos-central",
+        "region_id": 6,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 35,
+            "name": "Central Kalos"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 35,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "kalos-coastal",
+        "region_id": 6,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 38,
+            "name": "Coastal Kalos"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 38,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "kalos-mountain",
+        "region_id": 6,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 41,
+            "name": "Mountain Kalos"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 41,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "updated-hoenn",
+        "region_id": 3,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 44,
+            "name": "New Hoenn"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 44,
+            "description": "Omega Ruby/Alpha Sapphire Hoenn Dex—Ruby/Sapphire/Emerald's, updated to add new evolutions"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "original-alola",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 45,
+            "name": "Original Alola"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 45,
+            "description": "Sun/Moon Alola dex"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "original-melemele",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 46,
+            "name": "Original Melemele"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 46,
+            "description": "Sun/Moon Melemele dex"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "original-akala",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 47,
+            "name": "Original Akala"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 47,
+            "description": "Sun/Moon Akala dex"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "original-ulaula",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 48,
+            "name": "Original Ula'ula"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 48,
+            "description": "Sun/Moon Ula'ula dex"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "original-poni",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 49,
+            "name": "Original Poni"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 49,
+            "description": "Sun/Moon Poni dex"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "updated-alola",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 50,
+            "name": "Updated Alola"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 50,
+            "description": "Ultra Sun/Ultra Moon Alola dex"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "updated-melemele",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 51,
+            "name": "Updated Melemele"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 51,
+            "description": "Ultra Sun/Ultra Moon Melemele dex"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "updated-akala",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 52,
+            "name": "Updated Akala"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 52,
+            "description": "Ultra Sun/Ultra Moon Akala dex"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "updated-ulaula",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 53,
+            "name": "Updated Ula'ula"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 53,
+            "description": "Ultra Sun/Ultra Moon Ula'ula dex"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "updated-poni",
+        "region_id": 7,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 54,
+            "name": "Updated Poni"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 54,
+            "description": "Ultra Sun/Ultra Moon Poni dex"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "letsgo-kanto",
+        "region_id": 1,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 55,
+            "name": "Let’s Go Kanto"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 55,
+            "description": "Let’s Go: Pikachu/Let’s Go: Eevee Kanto dex"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "galar",
+        "region_id": 8,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 56,
+            "name": "Galar"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 56,
+            "description": "Sword/Shield Galar dex"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "isle-of-armor",
+        "region_id": 8,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 57,
+            "name": "Isle of Armor"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 57,
+            "description": "Isle of Armor dex"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "crown-tundra",
+        "region_id": 8,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 58,
+            "name": "Crown Tundra"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 58,
+            "description": "Crown Tundra dex"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "hisui",
+        "region_id": 9,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 59,
+            "name": "Hisui"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 59,
+            "description": "Hisui dex"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "paldea",
+        "region_id": 10,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [
+          {
+            "id": 60,
+            "name": "Paldea"
+          }
+        ],
+        "pokemon_v2_pokedexdescriptions": [
+          {
+            "id": 60,
+            "description": "Paldea dex"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "kitakami",
+        "region_id": 10,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [],
+        "pokemon_v2_pokedexdescriptions": []
+      },
+      {
+        "id": 33,
+        "name": "blueberry",
+        "region_id": 10,
+        "is_main_series": true,
+        "pokemon_v2_pokedexnames": [],
+        "pokemon_v2_pokedexdescriptions": []
+      }
+    ],
+    "pokemon_v2_region": [
+      {
+        "id": 1,
+        "name": "kanto",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 7,
+            "name": "Kanto"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "johto",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 15,
+            "name": "Johto"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "hoenn",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 23,
+            "name": "Hoenn"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "sinnoh",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 31,
+            "name": "Sinnoh"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "unova",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 39,
+            "name": "Unova"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "kalos",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 47,
+            "name": "Kalos"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "alola",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 55,
+            "name": "Alola"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "galar",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 63,
+            "name": "Galar"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "hisui",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 71,
+            "name": "Hisui"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "paldea",
+        "pokemon_v2_regionnames": [
+          {
+            "id": 79,
+            "name": "Paldea"
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_type": [
+      {
+        "id": 1,
+        "name": "normal",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 1,
+            "generation_id": 1,
+            "game_index": 0
+          },
+          {
+            "id": 2,
+            "generation_id": 2,
+            "game_index": 0
+          },
+          {
+            "id": 3,
+            "generation_id": 3,
+            "game_index": 0
+          },
+          {
+            "id": 4,
+            "generation_id": 4,
+            "game_index": 0
+          },
+          {
+            "id": 5,
+            "generation_id": 5,
+            "game_index": 0
+          },
+          {
+            "id": 6,
+            "generation_id": 6,
+            "game_index": 0
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 8,
+            "name": "Normal"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "fighting",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 7,
+            "generation_id": 1,
+            "game_index": 1
+          },
+          {
+            "id": 8,
+            "generation_id": 2,
+            "game_index": 1
+          },
+          {
+            "id": 9,
+            "generation_id": 3,
+            "game_index": 1
+          },
+          {
+            "id": 10,
+            "generation_id": 4,
+            "game_index": 1
+          },
+          {
+            "id": 11,
+            "generation_id": 5,
+            "game_index": 1
+          },
+          {
+            "id": 12,
+            "generation_id": 6,
+            "game_index": 1
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 18,
+            "name": "Fighting"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "flying",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 13,
+            "generation_id": 1,
+            "game_index": 2
+          },
+          {
+            "id": 14,
+            "generation_id": 2,
+            "game_index": 2
+          },
+          {
+            "id": 15,
+            "generation_id": 3,
+            "game_index": 2
+          },
+          {
+            "id": 16,
+            "generation_id": 4,
+            "game_index": 2
+          },
+          {
+            "id": 17,
+            "generation_id": 5,
+            "game_index": 2
+          },
+          {
+            "id": 18,
+            "generation_id": 6,
+            "game_index": 2
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 28,
+            "name": "Flying"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "poison",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 19,
+            "generation_id": 1,
+            "game_index": 3
+          },
+          {
+            "id": 20,
+            "generation_id": 2,
+            "game_index": 3
+          },
+          {
+            "id": 21,
+            "generation_id": 3,
+            "game_index": 3
+          },
+          {
+            "id": 22,
+            "generation_id": 4,
+            "game_index": 3
+          },
+          {
+            "id": 23,
+            "generation_id": 5,
+            "game_index": 3
+          },
+          {
+            "id": 24,
+            "generation_id": 6,
+            "game_index": 3
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 38,
+            "name": "Poison"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "ground",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 25,
+            "generation_id": 1,
+            "game_index": 4
+          },
+          {
+            "id": 26,
+            "generation_id": 2,
+            "game_index": 4
+          },
+          {
+            "id": 27,
+            "generation_id": 3,
+            "game_index": 4
+          },
+          {
+            "id": 28,
+            "generation_id": 4,
+            "game_index": 4
+          },
+          {
+            "id": 29,
+            "generation_id": 5,
+            "game_index": 4
+          },
+          {
+            "id": 30,
+            "generation_id": 6,
+            "game_index": 4
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 48,
+            "name": "Ground"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "rock",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 31,
+            "generation_id": 1,
+            "game_index": 5
+          },
+          {
+            "id": 32,
+            "generation_id": 2,
+            "game_index": 5
+          },
+          {
+            "id": 33,
+            "generation_id": 3,
+            "game_index": 5
+          },
+          {
+            "id": 34,
+            "generation_id": 4,
+            "game_index": 5
+          },
+          {
+            "id": 35,
+            "generation_id": 5,
+            "game_index": 5
+          },
+          {
+            "id": 36,
+            "generation_id": 6,
+            "game_index": 5
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 58,
+            "name": "Rock"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "bug",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 37,
+            "generation_id": 1,
+            "game_index": 7
+          },
+          {
+            "id": 38,
+            "generation_id": 2,
+            "game_index": 7
+          },
+          {
+            "id": 39,
+            "generation_id": 3,
+            "game_index": 6
+          },
+          {
+            "id": 40,
+            "generation_id": 4,
+            "game_index": 6
+          },
+          {
+            "id": 41,
+            "generation_id": 5,
+            "game_index": 6
+          },
+          {
+            "id": 42,
+            "generation_id": 6,
+            "game_index": 6
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 68,
+            "name": "Bug"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "ghost",
+        "generation_id": 1,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 43,
+            "generation_id": 1,
+            "game_index": 8
+          },
+          {
+            "id": 44,
+            "generation_id": 2,
+            "game_index": 8
+          },
+          {
+            "id": 45,
+            "generation_id": 3,
+            "game_index": 7
+          },
+          {
+            "id": 46,
+            "generation_id": 4,
+            "game_index": 7
+          },
+          {
+            "id": 47,
+            "generation_id": 5,
+            "game_index": 7
+          },
+          {
+            "id": 48,
+            "generation_id": 6,
+            "game_index": 7
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 78,
+            "name": "Ghost"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "steel",
+        "generation_id": 2,
+        "move_damage_class_id": 2,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 49,
+            "generation_id": 2,
+            "game_index": 9
+          },
+          {
+            "id": 50,
+            "generation_id": 3,
+            "game_index": 8
+          },
+          {
+            "id": 51,
+            "generation_id": 4,
+            "game_index": 8
+          },
+          {
+            "id": 52,
+            "generation_id": 5,
+            "game_index": 8
+          },
+          {
+            "id": 53,
+            "generation_id": 6,
+            "game_index": 8
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 88,
+            "name": "Steel"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "fire",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 54,
+            "generation_id": 1,
+            "game_index": 20
+          },
+          {
+            "id": 55,
+            "generation_id": 2,
+            "game_index": 20
+          },
+          {
+            "id": 56,
+            "generation_id": 3,
+            "game_index": 10
+          },
+          {
+            "id": 57,
+            "generation_id": 4,
+            "game_index": 10
+          },
+          {
+            "id": 58,
+            "generation_id": 5,
+            "game_index": 9
+          },
+          {
+            "id": 59,
+            "generation_id": 6,
+            "game_index": 9
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 98,
+            "name": "Fire"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "water",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 60,
+            "generation_id": 1,
+            "game_index": 21
+          },
+          {
+            "id": 61,
+            "generation_id": 2,
+            "game_index": 21
+          },
+          {
+            "id": 62,
+            "generation_id": 3,
+            "game_index": 11
+          },
+          {
+            "id": 63,
+            "generation_id": 4,
+            "game_index": 11
+          },
+          {
+            "id": 64,
+            "generation_id": 5,
+            "game_index": 10
+          },
+          {
+            "id": 65,
+            "generation_id": 6,
+            "game_index": 10
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 108,
+            "name": "Water"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "grass",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 66,
+            "generation_id": 1,
+            "game_index": 22
+          },
+          {
+            "id": 67,
+            "generation_id": 2,
+            "game_index": 22
+          },
+          {
+            "id": 68,
+            "generation_id": 3,
+            "game_index": 12
+          },
+          {
+            "id": 69,
+            "generation_id": 4,
+            "game_index": 12
+          },
+          {
+            "id": 70,
+            "generation_id": 5,
+            "game_index": 11
+          },
+          {
+            "id": 71,
+            "generation_id": 6,
+            "game_index": 11
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 118,
+            "name": "Grass"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "electric",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 72,
+            "generation_id": 1,
+            "game_index": 23
+          },
+          {
+            "id": 73,
+            "generation_id": 2,
+            "game_index": 23
+          },
+          {
+            "id": 74,
+            "generation_id": 3,
+            "game_index": 13
+          },
+          {
+            "id": 75,
+            "generation_id": 4,
+            "game_index": 13
+          },
+          {
+            "id": 76,
+            "generation_id": 5,
+            "game_index": 12
+          },
+          {
+            "id": 77,
+            "generation_id": 6,
+            "game_index": 12
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 128,
+            "name": "Electric"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "psychic",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 78,
+            "generation_id": 1,
+            "game_index": 24
+          },
+          {
+            "id": 79,
+            "generation_id": 2,
+            "game_index": 24
+          },
+          {
+            "id": 80,
+            "generation_id": 3,
+            "game_index": 14
+          },
+          {
+            "id": 81,
+            "generation_id": 4,
+            "game_index": 14
+          },
+          {
+            "id": 82,
+            "generation_id": 5,
+            "game_index": 13
+          },
+          {
+            "id": 83,
+            "generation_id": 6,
+            "game_index": 13
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 138,
+            "name": "Psychic"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "ice",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 84,
+            "generation_id": 1,
+            "game_index": 25
+          },
+          {
+            "id": 85,
+            "generation_id": 2,
+            "game_index": 25
+          },
+          {
+            "id": 86,
+            "generation_id": 3,
+            "game_index": 15
+          },
+          {
+            "id": 87,
+            "generation_id": 4,
+            "game_index": 15
+          },
+          {
+            "id": 88,
+            "generation_id": 5,
+            "game_index": 14
+          },
+          {
+            "id": 89,
+            "generation_id": 6,
+            "game_index": 14
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 148,
+            "name": "Ice"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "dragon",
+        "generation_id": 1,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 90,
+            "generation_id": 1,
+            "game_index": 26
+          },
+          {
+            "id": 91,
+            "generation_id": 2,
+            "game_index": 26
+          },
+          {
+            "id": 92,
+            "generation_id": 3,
+            "game_index": 16
+          },
+          {
+            "id": 93,
+            "generation_id": 4,
+            "game_index": 16
+          },
+          {
+            "id": 94,
+            "generation_id": 5,
+            "game_index": 15
+          },
+          {
+            "id": 95,
+            "generation_id": 6,
+            "game_index": 15
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 158,
+            "name": "Dragon"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "dark",
+        "generation_id": 2,
+        "move_damage_class_id": 3,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 96,
+            "generation_id": 2,
+            "game_index": 27
+          },
+          {
+            "id": 97,
+            "generation_id": 3,
+            "game_index": 17
+          },
+          {
+            "id": 98,
+            "generation_id": 4,
+            "game_index": 17
+          },
+          {
+            "id": 99,
+            "generation_id": 5,
+            "game_index": 16
+          },
+          {
+            "id": 100,
+            "generation_id": 6,
+            "game_index": 16
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 168,
+            "name": "Dark"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "fairy",
+        "generation_id": 6,
+        "move_damage_class_id": null,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 101,
+            "generation_id": 6,
+            "game_index": 17
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 178,
+            "name": "Fairy"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "stellar",
+        "generation_id": 9,
+        "move_damage_class_id": null,
+        "pokemon_v2_typegameindices": [],
+        "pokemon_v2_typenames": [
+          {
+            "id": 189,
+            "name": "Stellar"
+          }
+        ]
+      },
+      {
+        "id": 10001,
+        "name": "unknown",
+        "generation_id": 2,
+        "move_damage_class_id": null,
+        "pokemon_v2_typegameindices": [
+          {
+            "id": 102,
+            "generation_id": 2,
+            "game_index": 19
+          },
+          {
+            "id": 103,
+            "generation_id": 3,
+            "game_index": 9
+          },
+          {
+            "id": 104,
+            "generation_id": 4,
+            "game_index": 9
+          }
+        ],
+        "pokemon_v2_typenames": [
+          {
+            "id": 198,
+            "name": "???"
+          }
+        ]
+      },
+      {
+        "id": 10002,
+        "name": "shadow",
+        "generation_id": 3,
+        "move_damage_class_id": null,
+        "pokemon_v2_typegameindices": [],
+        "pokemon_v2_typenames": [
+          {
+            "id": 207,
+            "name": "Shadow"
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_version": [
+      {
+        "id": 1,
+        "name": "red",
+        "version_group_id": 1,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 8,
+            "name": "Red"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "blue",
+        "version_group_id": 1,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 17,
+            "name": "Blue"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "yellow",
+        "version_group_id": 2,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 26,
+            "name": "Yellow"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "gold",
+        "version_group_id": 3,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 35,
+            "name": "Gold"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "silver",
+        "version_group_id": 3,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 44,
+            "name": "Silver"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "crystal",
+        "version_group_id": 4,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 53,
+            "name": "Crystal"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "ruby",
+        "version_group_id": 5,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 62,
+            "name": "Ruby"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "sapphire",
+        "version_group_id": 5,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 71,
+            "name": "Sapphire"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "emerald",
+        "version_group_id": 6,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 80,
+            "name": "Emerald"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "firered",
+        "version_group_id": 7,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 89,
+            "name": "FireRed"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "leafgreen",
+        "version_group_id": 7,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 98,
+            "name": "LeafGreen"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "name": "diamond",
+        "version_group_id": 8,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 107,
+            "name": "Diamond"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "pearl",
+        "version_group_id": 8,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 116,
+            "name": "Pearl"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "platinum",
+        "version_group_id": 9,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 125,
+            "name": "Platinum"
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "name": "heartgold",
+        "version_group_id": 10,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 134,
+            "name": "HeartGold"
+          }
+        ]
+      },
+      {
+        "id": 16,
+        "name": "soulsilver",
+        "version_group_id": 10,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 143,
+            "name": "SoulSilver"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "black",
+        "version_group_id": 11,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 152,
+            "name": "Black"
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "name": "white",
+        "version_group_id": 11,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 161,
+            "name": "White"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "name": "colosseum",
+        "version_group_id": 12,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 169,
+            "name": "Colosseum"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "name": "xd",
+        "version_group_id": 13,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 176,
+            "name": "XD"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "name": "black-2",
+        "version_group_id": 14,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 184,
+            "name": "Black 2"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "name": "white-2",
+        "version_group_id": 14,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 193,
+            "name": "White 2"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "x",
+        "version_group_id": 15,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 202,
+            "name": "X"
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "name": "y",
+        "version_group_id": 15,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 211,
+            "name": "Y"
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "name": "omega-ruby",
+        "version_group_id": 16,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 220,
+            "name": "Omega Ruby"
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "alpha-sapphire",
+        "version_group_id": 16,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 229,
+            "name": "Alpha Sapphire"
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "sun",
+        "version_group_id": 17,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 238,
+            "name": "Sun"
+          }
+        ]
+      },
+      {
+        "id": 28,
+        "name": "moon",
+        "version_group_id": 17,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 247,
+            "name": "Moon"
+          }
+        ]
+      },
+      {
+        "id": 29,
+        "name": "ultra-sun",
+        "version_group_id": 18,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 256,
+            "name": "Ultra Sun"
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "name": "ultra-moon",
+        "version_group_id": 18,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 265,
+            "name": "Ultra Moon"
+          }
+        ]
+      },
+      {
+        "id": 31,
+        "name": "lets-go-pikachu",
+        "version_group_id": 19,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 274,
+            "name": "Let's Go, Pikachu!"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "name": "lets-go-eevee",
+        "version_group_id": 19,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 283,
+            "name": "Let's Go, Eevee!"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "sword",
+        "version_group_id": 20,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 292,
+            "name": "Sword"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "shield",
+        "version_group_id": 20,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 301,
+            "name": "Shield"
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "name": "the-isle-of-armor",
+        "version_group_id": 21,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 310,
+            "name": "The Isle of Armor"
+          }
+        ]
+      },
+      {
+        "id": 36,
+        "name": "the-crown-tundra",
+        "version_group_id": 22,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 319,
+            "name": "The Crown Tundra"
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "brilliant-diamond",
+        "version_group_id": 23,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 328,
+            "name": "Brilliant Diamond"
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "shining-pearl",
+        "version_group_id": 23,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 337,
+            "name": "Shining Pearl"
+          }
+        ]
+      },
+      {
+        "id": 39,
+        "name": "legends-arceus",
+        "version_group_id": 24,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 346,
+            "name": "Legends: Arceus"
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "name": "scarlet",
+        "version_group_id": 25,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 355,
+            "name": "Scarlet"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "violet",
+        "version_group_id": 25,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 364,
+            "name": "Violet"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "the-teal-mask",
+        "version_group_id": 26,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 371,
+            "name": "The teal mask"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "the-indigo-disk",
+        "version_group_id": 27,
+        "pokemon_v2_versionnames": [
+          {
+            "id": 378,
+            "name": "The indigo disk"
+          }
+        ]
+      }
+    ],
+    "pokemon_v2_versiongroup": [
+      {
+        "id": 1,
+        "name": "red-blue",
+        "generation_id": 1
+      },
+      {
+        "id": 2,
+        "name": "yellow",
+        "generation_id": 1
+      },
+      {
+        "id": 3,
+        "name": "gold-silver",
+        "generation_id": 2
+      },
+      {
+        "id": 4,
+        "name": "crystal",
+        "generation_id": 2
+      },
+      {
+        "id": 5,
+        "name": "ruby-sapphire",
+        "generation_id": 3
+      },
+      {
+        "id": 6,
+        "name": "emerald",
+        "generation_id": 3
+      },
+      {
+        "id": 7,
+        "name": "firered-leafgreen",
+        "generation_id": 3
+      },
+      {
+        "id": 8,
+        "name": "diamond-pearl",
+        "generation_id": 4
+      },
+      {
+        "id": 9,
+        "name": "platinum",
+        "generation_id": 4
+      },
+      {
+        "id": 10,
+        "name": "heartgold-soulsilver",
+        "generation_id": 4
+      },
+      {
+        "id": 11,
+        "name": "black-white",
+        "generation_id": 5
+      },
+      {
+        "id": 12,
+        "name": "colosseum",
+        "generation_id": 3
+      },
+      {
+        "id": 13,
+        "name": "xd",
+        "generation_id": 3
+      },
+      {
+        "id": 14,
+        "name": "black-2-white-2",
+        "generation_id": 5
+      },
+      {
+        "id": 15,
+        "name": "x-y",
+        "generation_id": 6
+      },
+      {
+        "id": 16,
+        "name": "omega-ruby-alpha-sapphire",
+        "generation_id": 6
+      },
+      {
+        "id": 17,
+        "name": "sun-moon",
+        "generation_id": 7
+      },
+      {
+        "id": 18,
+        "name": "ultra-sun-ultra-moon",
+        "generation_id": 7
+      },
+      {
+        "id": 19,
+        "name": "lets-go-pikachu-lets-go-eevee",
+        "generation_id": 7
+      },
+      {
+        "id": 20,
+        "name": "sword-shield",
+        "generation_id": 8
+      },
+      {
+        "id": 21,
+        "name": "the-isle-of-armor",
+        "generation_id": 8
+      },
+      {
+        "id": 22,
+        "name": "the-crown-tundra",
+        "generation_id": 8
+      },
+      {
+        "id": 23,
+        "name": "brilliant-diamond-and-shining-pearl",
+        "generation_id": 8
+      },
+      {
+        "id": 24,
+        "name": "legends-arceus",
+        "generation_id": 8
+      },
+      {
+        "id": 25,
+        "name": "scarlet-violet",
+        "generation_id": 9
+      },
+      {
+        "id": 26,
+        "name": "the-teal-mask",
+        "generation_id": 9
+      },
+      {
+        "id": 27,
+        "name": "the-indigo-disk",
+        "generation_id": 9
+      }
+    ]
+  }
+}

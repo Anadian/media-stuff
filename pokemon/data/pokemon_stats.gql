@@ -1,0 +1,46 @@
+ pokemon_v2_pokemon {
+    id
+    name
+    base_experience
+    pokemon_v2_pokemontypes {
+      pokemon_v2_type {
+        name
+      }
+    }
+    pokemon_v2_pokemonstats {
+      pokemon_v2_stat {
+        name
+      }
+      base_stat
+      effort
+    }
+    pokemon_v2_pokemonstats_aggregate {
+      aggregate {
+        avg {
+          base_stat
+        }
+        sum {
+          base_stat
+        }
+      }
+    }
+    pokemon_v2_pokemonspecy {
+      base_happiness
+      capture_rate
+      evolves_from_species_id
+      gender_rate
+      generation_id
+      growth_rate_id
+      is_legendary
+      is_mythical
+    }
+  }
+  pokemon_v2_growthrate {
+    id
+    name
+    pokemon_v2_experiences {
+      level
+      experience
+    }
+  }
+}

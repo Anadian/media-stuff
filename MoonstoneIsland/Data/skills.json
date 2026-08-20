@@ -1,0 +1,399 @@
+{
+  "Spirits": {
+    "Gain_XP": {
+      "spirit_levelup_per_level": 0.5,
+      "spirit_tame_per_level": 0.25,
+      "spirit_hatch": 0.5,
+      "spirit_feed_fibre": 0.5,
+      "spirit_feed_crop": 0.5
+    },
+	"LevelThreshold": [0, 40, 100, 180, 280, 410, 580, 800, 1080, 1440, 1900, 2480, 3200, 4080, 9999999],
+    "CategoryXP": 0,
+    "Spiritmancy": {
+      "Skills": {
+        "TameUpgrade1": {
+          "unlocked": 0,
+          "Comment": "*Improve taming chance"
+        },
+		"BeginnerSpiritmancer": {
+          "unlocked": 0,
+          "Comment": "*Can keep tamed Spirits up to level 10"
+        },
+        "NoviceSpiritmancer": {
+          "Comment": "*Can keep tamed Spirits up to level 20"
+        },
+        "TameUpgrade2": {
+          "unlocked": 0,
+          "Comment": "*Improve taming chance"
+        },
+        "IntermediateSpiritmancer": {
+          "Comment": "*Can keep tamed Spirits up to level 30"
+        },
+        "ExpertSpiritmancer": {
+          "Comment": "*Can keep tamed Spirits up to level 40"
+        },
+        "TameUpgrade3": {
+          "unlocked": 0,
+          "Comment": "*Improve taming chance"
+        },
+        "MasterSpiritmancer": {
+          "Comment": "*Can keep tamed Spirits of any level"
+        }
+      }
+    },
+    "SpiritKeeping": {
+      "Skills": {
+        "SpiritFarmer": {
+          "Comment": "*Increase chance of spirit resource"
+        },
+        "SpiritBond": {
+          "Comment": "*Spirits will stay one day longer before running away if not fed"
+        },
+        "SpiritEggs": {
+          "Comment": "*5% more chance that Spirits drop eggs after battle"
+        },
+        "SpiritNester": {
+          "Chance": 5,
+          "Comment": "*Spirits in Spirit Barn sometimes drop eggs"
+        },
+        "SpiritHatcher": {
+          "Comment": "*Spirit eggs hatch 1 day earlier"
+        },
+        "SpiritWalker": {
+          "Comment": "*Spirits gain XP while following you"
+        }
+      }
+    }
+  },
+  "Combat": {
+    "Gain_XP": {
+      "spirit_banish_per_level": 0.5,
+      "spirit_feed_talisman": 5
+    },
+	"LevelThreshold": [0, 40, 100, 180, 280, 410, 600, 840, 1160, 1560, 2060, 999999],	
+    "CategoryXP": 0,
+    "Cartomancy": {
+      "Skills": {
+        "BeginnerCartomancer": {
+          "Comment": "*Increase chance of Uncommon Cards appearing during level up"
+        },
+        "Trader": {
+          "Chance": 10,
+          "Upgrade": "Transformer",
+          "Comment": "*10% Chance to upgrade cards during card selection"
+        },
+        "IntermediateCartomancer": {
+          "Comment": "*Increase chance of Rare Cards appearing during level up"
+        },
+        "Transformer": {
+          "Chance": 20,
+          "Upgrade": "Transmogrifier",
+          "Comment": "*20% Chance to upgrade cards during card selection"
+        },
+        "ExpertCartomancer": {
+          "Comment": "*Increase chances of Secret Cards appearing during level up"
+        },
+        "Transmogrifier": {
+          "Chance": 30,
+          "Comment": "*30% Chance to upgrade cards during card selection"
+        }
+      }
+    },
+    "Banishment": {
+      "Skills": {
+        "CloseCall": {
+          "Chance": 5,
+          "Comment": "*5% chance of reducing any damage taken in battle to 0"
+        },
+        "PeacefulPresence": {
+          "Comment": "*50% more likely to succeed when fleeing from battle"
+        },
+        "OneStepAhead": {
+          "Comment": "*Draw an additional card at the start of battle"
+        },
+        "CriticalHits": {
+          "Chance": 5,
+          "Comment": "*5% chance your Spirit's attacks deal double damage"
+        },
+        "FleetFoot": {
+          "Comment": "*100% likely to succeed when fleeing from battle"
+        },
+        "EnergyBoost": {
+          "Comment": "*Start with 1 extra energy on your first turn of battle"
+        }
+      }
+    }
+  },
+  "Archeology": {
+    "Gain_XP": {
+      "enter_dungeon": 2,
+      "activate_ando_tree": 2,
+      "open_dungeon_chest": 2,
+      "banish_boss_per_level": 1,
+      "enter_mine": 2,
+      "open_mine_chest": 2
+    },
+	"LevelThreshold": [0, 40, 100, 180, 280, 410, 600, 840, 1160, 1560, 2060, 999999],	
+    "CategoryXP": 0,
+    "DungeonDelving": {
+      "Skills": {
+        "WeakLink": {
+          "Comment": "*Dungeon Bosses start battle with 2 less armor"
+        },
+        "DungeonDasher": {
+          "Comment": "*Move faster in dungeons"
+        },
+        "PowerfulPresence": {
+          "Comment": "*Dungeon Bosses start battle with 20% less health"
+        },
+        "AndoAcolyte": {
+          "Comment": "*Activating Ando Trees grants more Stamina"
+        },
+        "DungeonMaster": {
+          "Comment": "*Spirits gain 10% more XP in Dungeons"
+        },
+        "ArtfulArcheologist": {
+          "Comment": "*Start combat with 1 extra energy in dungeons"
+        }
+      }
+    },
+    "Mining": {
+      "Skills": {
+        "ExtraShiny": {
+          "Comment": "*Ore sells for 10% more"
+        },
+        "OreGalore": {
+          "Comment": "*10% more ore drops in mines"
+        },
+        "RockSmack": {
+          "Chance": 10,
+          "Upgrade": "RockSmash",
+          "Comment": "*10% chance to destroy adjacent rocks in mines"
+        },
+        "IdealIngots": {
+          "Comment": "*Ingots worth 10% more"
+        },
+        "RockSmash": {
+          "Chance": 15,
+          "Comment": "*15% chance to destroy adjacent rocks in mines"
+        },
+        "TreasureTrove": {
+          "Comment": "*Additional treasure chests appear in mines"
+        }
+      }
+    }
+  },
+  "Agriculture": {
+    "Gain_XP": {
+      "harvest_farmed_crop_percent_of_sell_price": 2.5
+    },
+	"LevelThreshold": [0, 40, 100, 180, 280, 410, 600, 840, 1160, 1560, 2060, 2660, 3380, 999999],	
+    "CategoryXP": 0,
+    "Herbology": {
+      "Skills": {
+        "HeartyHerbologist": {
+          "RecipeUnlock": "compostBin.fertilizerStamina",
+          "Comment": "*Unlock Stamina Fertilizer crafting recipe"
+        },
+        "HealthyHerbologist": {
+          "RecipeUnlock": "compostBin.fertilizerHealing",
+          "Comment": "*Unlock Healing Fertilizer crafting recipe"
+        },
+        "HospitableHerbologist": {
+          "RecipeUnlock": "compostBin.fertilizerTame",
+          "Comment": "*Unlock Tame Fertilizer crafting recipe"
+        },
+        "HeftyHerbologist": {
+          "RecipeUnlock": "compostBin.fertilizerPower",
+          "Comment": "*Unlock Power Fertilizer crafting recipe"
+        },
+        "HurriedHerbologist": {
+          "RecipeUnlock": "compostBin.fertilizerSpeed",
+          "Comment": "*Unlock Speed Fertilizer Crafting recipe"
+        },
+        "HistoricHerbologist": {
+          "RecipeUnlock": "compostBin.fertilizerExperience",
+          "Comment": "*Unlock Experience Fertilizer Crafting recipe"
+        }
+      }
+    },
+    "Farming": {
+      "Skills": {
+        "Propogator": {
+          "Chance": 25,		
+          "Comment": "*Crops have 25% chance to drop 3 seeds when cut down with scythe"
+        },
+        "FineProduce": {
+          "Upgrade": "QualityProduce",
+          "Comment": "*Crops sell for 10% more"
+        },
+        "GreenThumb": {
+          "Comment": "*Crops grow 1 day faster"
+        },
+        "QualityProduce": {
+          "Upgrade": "BestProduce",
+          "Comment": "*Crops sell for 20% more"
+        },
+        "LuckyLandscaper": {
+          "Chance": 50,
+          "Comment": "*Crops have 50% chance to drop seeds when harvested"
+        },
+        "BestProduce": {
+          "Comment": "*Crops sell for 30% more"
+        }
+      }
+    }
+  },
+  "Foraging": {
+    "Gain_XP": {
+      "fish_catch_per_rarity": 1,
+      "tree_chop": 0.5,
+      "rock_smash": 0.5,
+	  "perfect_cast": 0.5
+    },
+	"LevelThreshold": [0, 40, 100, 180, 280, 410, 600, 840, 1160, 1560, 2060, 2660, 999999],	
+    "CategoryXP": 0,
+    "Fishing": {
+      "Skills": {
+        "BeginnerAngler": {
+          "Comment": "*More likely to catch Silver quality fish"
+        },
+        "Scallywag": {
+          "Chance": 5,
+          "Upgrade": "Plunderer",
+          "Comment": "*5% chance to catch a treasure chest"
+        },
+        "IntermediateAngler": {
+          "Comment": "*More likely to catch Gold quality fish"
+        },
+        "Plunderer": {
+          "Chance": 10,
+          "Upgrade": "Pirate",
+          "Comment": "*10% chance to catch a treasure chest"
+        },
+        "ExpertAngler": {
+          "Comment": "*More likely to catch Moonstone quality fish"
+        },
+        "Pirate": {
+          "Chance": 15,
+          "Comment": "*15% chance to catch a treasure chest"
+        }
+      }
+    },
+    "Scavenging": {
+      "Skills": {
+        "IntimidatingPresence": {
+          "Comment": "*Spirits that are lower than your average Spirit level run away from you"
+        },
+        "LinkToTheGrass": {
+          "Chance": 50,
+          "Comment": "*50% chance that crops drop coins when cut down"
+        },
+        "WoodThumb": {
+          "Comment": "*Trees drop 20% more wood"
+        },
+        "MoonstoneMinded": {
+          "Upgrade": "Moonstonemancer",
+          "Comment": "*Chests have 5% chance of dropping Moonstone"
+        },
+        "StoneThumb": {
+          "Comment": "*Rocks drop 20% more stone"
+        },
+        "Moonstonemancer": {
+          "Comment": "*Chests have 10% chance of dropping Moonstone"
+        },
+		"Luminous": {
+          "Comment": "*Increase light radius by 50%"
+        }	
+      }
+    }
+  },
+  "SettlingIn": {
+    "Gain_XP": {
+      "npc_interact": 0.5,
+      "chat_flirt_joke": 0.5,
+      "gift_percent_of_sell_price": 2,
+      "date_schedule_beach": 2,
+      "date_schedule_tavern": 5,
+      "date_schedule_hot_spring": 10,
+      "date_schedule_home": 20,
+      "date_attend_beach": 5,
+      "date_attend_tavern": 10,
+      "date_attend_hot_spring": 25,
+      "date_attend_home": 30,
+	  "relationship_start": 50,
+      "workbench_craft_percent_of_sell_price": 2
+    },
+	"LevelThreshold": [0, 40, 100, 180, 280, 410, 600, 840, 1160, 1560, 2060, 2660, 3380, 4220, 999999],	
+    "CategoryXP": -10,
+    "Home": {
+      "Skills": {
+        "RiseAndShine": {
+          "Chance": 10,
+          "Upgrade": "GoodNightsSleep",
+          "Comment": "*10% chance to wake up with extra stamina"
+        },
+        "MorningPerson": {
+          "Chance": 10,
+          "Upgrade": "BrightAndEarly",
+          "Comment": "*10% chance of waking up one hour early"
+        },
+        "GoodNightsSleep": {
+          "Chance": 20,
+          "Upgrade": "SmellTheCoffee",
+          "Comment": "*20% chance to wake up with extra stamina"
+        },
+        "BrightAndEarly": {
+          "Chance": 20,
+          "Upgrade": "EarlyRiser",
+          "Comment": "*20% chance of waking up one hour early"
+        },
+        "SmellTheCoffee": {
+          "Chance": 30,
+          "Comment": "*30% chance to wake up with extra stamina"
+        },
+        "EarlyRiser": {
+          "Chance": 30,
+          "Comment": "*30% chance of waking up one hour early"
+        }
+      }
+    },
+    "Social": {
+      "Skills": {
+        "GreatListener": {
+          "Upgrade": "CaringPerson",
+          "Comment": "*Gain relationship points 5% faster"
+        },
+        "Generous": {
+          "Comment": "*Can give 1 additional gift per week"
+        },
+        "CaringPerson": {
+          "Upgrade": "NicePerson",
+          "Comment": "*Gain relationship points 10% faster"
+        },
+        "FastTalker": {
+          "Comment": "*Can talk one extra time per day"
+        },
+        "NicePerson": {
+          "Comment": "*Gain relationship points 15% faster"
+        },
+        "Forgivable": {
+          "Comment": "*The next date you miss doesn't reduce Friendship with that character"
+        },
+        "MoreThanACrush": {
+          "RecipeUnlock": "enchanter.braceletMoonstone,enchanter.braceletGrass",
+          "Comment": "*Unlock Moonstone bracelet crafting recipe"
+        },
+        "Chatty": {
+          "Comment": "*Increase chances of successfully chatting by 10%"
+        },
+        "Funny": {
+          "Comment": "*Increase chances of successfully joking by 10%"
+        },
+        "Flirty": {
+          "Comment": "*Increase chances of successfully flirting by 10%"
+        }
+      }
+    }
+  }
+}

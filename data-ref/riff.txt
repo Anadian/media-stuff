@@ -1,0 +1,28 @@
+FORM<size:u32>
+	AUDO<size:u32>
+		NUMBER_OF_TABLE_ENTRIES:u32 ; Table of contents? Each u32 following specifies the offset to the next RIFF block (not including its own four bytes)
+			*TABLE_ENTRY:u32 ; Goes the next "RIFF" data block
+		SOME_SORT_OF_CHECKSUM?:u32 ; End of table of contents?
+		RIFF<size:u32>?
+			WAVE
+				"fmt "<size:u32><FormatType:u16> <CHANNELS:u16> SAMPLERATE:u32 AverageBytesPerSample:u32 BlockAlignment:u16 [if FormatType=1 (PCM), BitsPerSample:u16] ["fact"<size:u32>SampleRate:u32 PEAK<size:u32>SOMETHING*]
+				LIST<size:u32>
+					INFO
+					IGNR<size:u32> GENRE_STRING [possible padding byte.]
+					ISFT<size:u32>ENCODER_VERSION_STRING
+				["id3 "<size:u32>]
+				"data"<size:u3> Points to the same offset as RIFF<size:u32>; six bytes short of the next RIFF.
+		SOME_6_BYTE_CHECKSUM
+		
+Second RIFF size is four bytes short of the next RIFF likewise for the next "data" block
+Third RIFF has an extra six bytes
+RIFF4 is ten bytes short.
+RIFF5 is ten bytes short.
+			
+IART (artist)
+INAM (title)
+IPRD (product)
+IGNR (genre)
+ITOC (?)
+ITRK|Itrk (track number) 
+4C 49 53 54 74 00 00 00 49 4E 46 4F 49 4E 41 4D 08 00 00 00 54 65 73 74 57 61 76 00 49 50 52 44 06 00 00 00 43 68 69 72 70 00 49 41 52 54 08 00 00 00 41 6E 61 64 69 61 6E 00 49 43 4D 54 0C 00 00 00 41 20 63 6F 6D 6D 65 6E 74 2E 00 00 49 43 52 44 06 00 00 00 31 39 39 36 00 00 49 47 4E 52 0A 00 00 00 41 6C 74 2E 20 52 6F 63 6B 00 49 54 52 4B 06 00 00 00 30 34 35 31 00 00 69 64 33 20 96 00 00 00 49 44 33 04 00 40 00 00 01 0B 00 00 00 0C 01 20 05 08 73 56 4E 1E 43 4F 4D 4D 00 00 00 0F 00 00 00 00 00 00 00 41 20 63 6F 6D 6D 65 6E 74 2E 54 43 4F 4E 00 00 00 0A 00 00 00 41 6C 74 2E 20 52 6F 63 6B 54 44 52 43 00 00 00 05 00 00 00 31 39 39 36 54 52 43 4B 00 00 00 05 00 00 00 30 34 35 31 54 41 4C 42 00 00 00 06 00 00 00 43 68 69 72 70 54 49 54 32 00 00 00 08 00 00 00 54 65 73 74 57 61 76 54 50 45 31 00 00 00 08 00 00 00 41 6E 61 64 69 61 6E 00

@@ -1,0 +1,26 @@
+Character	Love	Like	Dislike	Hate	Birthday	RP	Hearts	RP_Rate
+tavernkeeper	beer,wine,potionTimeDilation,potionSpeed	flaxCrop,fireFlowerCrop,pinwheelflowerCrop,stunflowerCrop,tinyflowerCrop,flagflowerCrop,spectreflowerCrop,flakeflowerCrop,snowdropflowerCrop	stoneFruitCrop,beachpeachCrop,pizzafish*,grumpkinCrop,popcornplantCrop,blobfish*,oldBoot*,mealPizzafishPie	mandrakeCrop	summer 16	0	-1	1.4
+herbalist	yarrowCrop,pricklyplantCrop,grumpkinCrop,blackpearlCrop	nightShadeCrop,mandrakeCrop,magicMushroomCrop,yarrowCrop,spiritBaneCrop,bloodRootCrop,umbrellashroomCrop,erdenleafCrop,wingfruitCrop,eyeberryCrop,mushinCrop,colberryCrop,spectreflowerCrop,skeleplantCrop,willowispCrop,ghostshroomCrop,saplantCrop,flakeflowerCrop,blackpearlCrop,iciclerootCrop,snowdropflowerCrop,giftplantCrop,fertilizer*	sisyphish*,zenfish*,ringfish*,bunnyfish*,flyingfish*,pizzafish*,jewelfish*,moonfish*,fangfish*,spinefish*,joltfish*,lightningEel*,sparkstar*,steelfish*,tigerfish*,cinderfish*,eyefish*,meanfish*,voidfish*,mealSisyphishFriedRice,mealBunnyfishDumplings,mealPizzafishPie,mealMoonfishTacos,mealLightningEelSushi,mealSweetSourSpinefish,mealTigerfishandChips,mealVoidfishPaella	blobfish*	spring 28	0	-1	0.9
+blacksmith	bunnyfish*,nimbusPlantCrop,mossballCrop,fuzzballCrop,sweaterplantCrop	coal,oreIron,oreCopper,sparks,ingotCopper,ingotIron,ingotMoonstone,sheetCopper,sheetIron,sheetMoonstone,steelfish*,fireFlowerCrop,colberryCrop,erdenleafCrop,rubyplantCrop,saplantCrop	stoneFruitCrop,spiritBaneCrop,wingfruitCrop,mossballCrop,eyeberryCrop,beachpeachCrop,fuzzballCrop,snowball,moonstone,stoneFruitSeeds,mealStonefruitDonuts	snowflobesCrop	summer 8	0	-1	1.5
+artist	eggFire	hotPepperCrop, fireFlowerCrop, hotairfruitCrop, flamerootCrop,planternCrop,heatplantCrop,colberryCrop, sweaterplantCrop,cinderfishB,cinderfishS,cinderfishG,cinderfishM,fireball,lantern,furnace	snowball,oreIron,oreCopper,snowmanplantCrop,popsiplantCrop,ghostshroomCrop,steelfish*,blobfish*,iciclerootSeeds,snowdropflowerSeeds,flakeflowerSeeds,saplantSeeds,chillyberrySeeds,snowflobesSeeds,eggWater,eggIce,fridge,anvil,seaGlass,clay,ingotCopper,ingotIron,sheetCopper,sheetIron,stone,mealPopsiplantPudding,mealSnowmanBread,mealChillyBerrySherbet,mealIcicleIceCream	sheetMoonstone,ingotMoonstone,moonstone	spring 23	0	-1	1.1
+fisherman	sparkstar*,blobfish*,cinderfish*	bunnyfish*,fangfish*,flyingfish*,jewelfish*,lightningEel*,moonfish*,pizzafish*,ringfish*,sisyphish*,spinefish*,steelfish*,tigerfish*,joltfish*,eyefish*,meanfish*,voidfish*	pricklyplantCrop,eyeberryCrop,skeleplantCrop,bloodRootCrop,spectreflowerCrop,ghostshroomCrop,snowmanplantCrop,mandrakeCrop,mealSnowmanBread	zenfish*	summer 22	0	-1	1.0
+shopkeeper	treasureMapCleared,type:armor	bloodRootCrop, eyeberryCrop, skeleplantCrop, spectreflowerCrop, ghostshroomCrop, fangfish*,spinefish*,eggDark,blobfish*	wood,stone,oreIron,oreCopper,ingotIron,ingotCopper,ingotMoonstone	darkMatter,poison	winter 19	0	-1	1.0
+botanist	dishOfTheDay	clay,seaGlass,cloth,fibre	poison,snowball,sparks,fireball,darkMatter,dreamDrop	eggDark,eggPoison,eggEarth,eggElectric,eggFire,eggIce,eggPsychic,eggWater	fall 2	0	-1	1.3
+carpenter	tableDining,tableCoffee,tableBedside,tableRound,chair,chairCozy,couchCozy,bed,library,counterSink,pantry,counter,loom	windowWood,wood,bridge,fenceWood,gate,chest,signWood,sellCrate,workbench,enchanter,chairWicker,pathWood	umbrellashroomCrop,eyeberryCrop,ghostshroomCrop,mushinCrop,magicMushroomCrop,colberryCrop,willowispCrop,chillyberryCrop,bulbshroomCrop,popcornplantCrop,mealChillyBerrySherbet,mealColberryLasagna	applumCrop,applumSeeds	fall 12	0	-1	1.2
+historian	bookStack,treasureMapCleared	oldBoot*,seaGlass,zenfish*,coal	joltfish*,lightningEel*,electriconeCrop,stunflowerCrop,zaplantCrop,boltCrop,bulbshroomCrop,sparks,eggElectric,sparkstar*,mealLightningEelSushi,mealZaplantRamen	fibre,flaxCrop	winter 14	0	-1	1.1
+professor	applumCrop,stoneFruitCrop,beachpeachCrop,grumpkinCrop,chillyberryCrop	coffee,poison,snowball,sparks,fireball,darkMatter,dreamDrop,potionPsychicSight	fibre,wood,stone,moonstone,coal,clay,oreIron,oreCopper,seaGlass,cloth	umbrellashroomCrop,magicMushroomCrop,mushinCrop,ghostshroomCrop,bulbshroomCrop	winter 11	0	-1	1.1
+magicman	wine,beer,coffee,dishOfTheDay	moonstone,sparks,ingotCopper,ingotIron,ingotMoonstone,sparkstar*,jewelfish*	oldBoot*,stone,fibre,ash, treasureMapCleared	darkMatter,eggDark,armorIronDark,armorMoonstoneDark,armorCopperDark	winter 22	0	-1	0.8
+
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+

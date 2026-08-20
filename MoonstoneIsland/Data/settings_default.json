@@ -1,0 +1,32 @@
+{
+	
+	
+"language": "EN",
+
+"display_fullscreen" : 1,
+
+"display_minimap" : 1,
+"display_icons" : 1,
+"display_clock" : 1,
+"display_spirit_levels" : 1,
+"display_control_hints" : 1,
+"display_flashing" : 1,
+
+
+
+"audio_master" : 100,
+"audio_music" : 80,
+"audio_fx" : 50,
+"audio_ambient" : 50,
+
+
+"gameplay_sprint" : 0,
+"gameplay_shake" : 1,
+"gameplay_spawn" : 2,
+"gameplay_battle_difficulty" : 2,
+"gameplay_rumble" : 1,
+"gameplay_day_length": 1,
+"gameplay_fishing_difficulty": 2
+
+
+}
