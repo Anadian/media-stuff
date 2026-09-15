@@ -35,4 +35,102 @@ area: (50 * 50) - (25 * 25) remaining water area; new water area 1875 (cm)^2
 X = 62500 / 1875 = 33 + (1/3) ; new water height
 height difference = 33.333333333 - 25 = 8.333333 cm
 
+https://www.youtube.com/watch?v=XnnH1mU7_KQ
+## 1
+SquareEdge=4
+SquareArea=16
+CutSquareEdge=1
+CutSquareArea=1
+QuadrantEdge=2
+QuadrantArea=4
+ AB|CD
+1##|##
+2# |##
+------
+3# | #
+4##|##
 
+TLQuadrant into 2 equal pieces
+BLQuad 3 pieces
+BRQuad 4 pieces
+TRQuad 5 pieces
+
+TLQuad= '\' in A1
+BLQuad= '_' between A3 A4; '|' between A4 B4
+BRQuad: 4 'L' shaped pieces; 3 outside, 1 in
+TRQuad five rectangles
+
+## 2
+ AB|CD
+1C | C
+2 C|CC
+------
+3 C|CC
+4C | C
+
+Move 2 coins so that all rows and columns have an een number of coins.
+Even as in multiple of 2? or as in fair?
+Starting with no column violations but row 2 & 3 are in violation.
+Easy move B2->B1 and C3->C1
+
+## 3
+10 shopping carts, packed = 4 m
+7 packed carts = 3 m
+Length of a single cart?
+So the end cart on each set is full so
+9 * P + C = 4; P: packed cart length, C: full cart length
+6 * P + C = 3
+C = 3 - 6P
+C = 4 - 9P
+3 - 6P = 4 - 9P
+3 = 4 - 3P
+3P = 4 - 3 = 1
+P = 1/3 m
+C = 1
+
+## 4
+Matchstick puzzle '9 + 5 = 2', I meanyou could take the matchstick from the plus to make it not equal. You're supposed to make it '-3 + 5 = 2'
+## 5
+B = 4; Brother's speed
+S = 8; Sister's Speed
+D = 10; Dog's speed, ping ponging back and forth between the siblings
+L = ?; Total length traveled by the dog after an hour.
+Wait a second,is it not just L = 10; if the dog's speed is constant, then regardless of the distance between the siblings, the dog should've walked the same total distance in an hour.
+Yep.
+
+## 6
+	|	-	-	|	|	-	|
+|	|	|			?
+2		?				|	|	-	|
+						2			?
+?[0]=2
+LeftSide = 4 * 3 = 12
+?[2]=1
+RightSide=9
+?[1]=3
+Themultiplicat isn't recursive so 2 + ?[2] = 3 * 3 = 9
+
+## 7
+1 = Circle
+2 = Square
+3 = Triangle
+6 = Hexagon
+8 = Star
+G = Green
+Y = Yellow
+B = Blue
+
+G8 Y8 G3
+B3 G2 Y2
+G6 B1 Y1
+
+C = colour
+S = shape
+
+C->F
+C=>S->F; -G
+S->F => -6
+C=>-S => -B?
+S=>F => F=1 | 3; -2 & -8; F= Y1 | G3; S=-1; S=2|3|8
+C=>F => C=B
+F=B3
