@@ -2970,4 +2970,48 @@ The JP version is about collectivism amd co-dependence, in English this is chang
 Bulbapedia explicitly believes the Krabbies joke is referring to crabs
 Apparently Jessie and James are both 25
 Apparently a lot of science discussion was cut
-
+# E106
+DAY Detour in city
+Togepi hungie
+Ash wants a cheese burger
+Title: The Pokemom Water War
+Ash finally using Squirtle instead of Bulbasaur
+Officer Jenny's useless
+Wartortle squad!
+PDD Wartortle Fur tail is good luck
+Squirtle is fucking pissed
+Captain Aidan
+Wartortle military march
+Also Blastoise and Squirtle in cage
+Cool Squirtle Squirtle Squad rides again
+Abandoned by their "masters"
+Wartortle and Squirtle footrace
+Pikachu audio peaked
+"Turtle Pokemon land speed record"
+Team Rocket has a UFO
+Fleming sweep
+TRM roles and holes
+It's literally an RC drone
+PUT in TR cage
+Weird anachronic seen
+Scyther wasted on Wheezing's smoke
+PUT powering fan
+"Eevee Mankey Hitmonlee" Einie minie
+TRA Jess's stomp Meowth he strikes back
+Evening Venonat vision while hood ornamemting
+Scyther Marill help Starmie
+Does Misty not have more water Pokeman?
+Squirtle and Wartortle produce enough water to flood the cabin
+"Net loss" is actually good
+Venonat tackle TR
+PUT TRB
+Scyther not doing anything to help with the fire
+Entire Squirtle line save kid
+Squirtle strong enough to lift both Wartortle and kid
+Subtitle desynced
+Still panshots
+DAY next morning
+Headed to next town for port
+o7
+Viridian City for some reason
+Misty only used Staryu despite having a Starmie and Psyduck with her
