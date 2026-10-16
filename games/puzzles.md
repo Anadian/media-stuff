@@ -350,3 +350,175 @@ Carbon	0046
 1 1 1 1 5 10 10 10 10
 100 100 200 500 500 
 54321
+
+# Star Named Eos
+Sun Camera Cloud Star Fire
+25555225
+2365
+Sun Camera Moon Star Star
+
+https://www.youtube.com/watch?v=BUmk_h4nl8M
+
+T+R=2
+T+H=3
+R+H=4
+T+R+H=?
+
+R is 1 faster than H
+R is 1 slower than T
+
+T+R=8
+T+H=7
+R+H=6
+
+H=2
+R=4
+T=6
+
+J=1 manhour
+T+R = 0.5 manhour
+T+H = 0.3333 manhour
+R+H = 0.25 manhour
+H=0.25-R=0.25-(0.5-T)=-0.25+T
+T=0.3333-H=0.33333-1.08333333=-0.75
+R=0.25-1.083333=-0.83333
+T=0.5-R=1.3333
+H=0.333333-1.33333=-1
+R=0.5-1.333333=-0.8333333
+R=1.25
+
+Are we to assume more people make the job faster?
+
+
+T*R=1/2
+T*H=1/3
+R*H=1/4
+R=1/2T
+H=(1/4)/(1/2T)=2T/4=T/2
+T=2H
+R=1/4H
+4H=1/R
+H=1/4R=T/2=1=4RT/2=2RT=1
+R=1/2
+
+TR=2
+TH=3
+RH=4
+T=2/R
+H=3/(2/R)=3R/2
+(2/R)(3R/2)=3
+R=1;T=4/3;H=2/3
+8/9
+
+https://www.youtube.com/watch?v=_aeGv-_KgaQ
+Buckets:
+3 L
+7 L
+20 L
+Actions:
+Fill bucket completely
+Pour bucket into another bucket, no overflow
+Dump entire bucket
+Goal Volumes:
+10 L = 3 L + 7 L
+4 L = 7 L -> 3 L 
+5 L = 20 L - (4 L + 4 L + 7 L)
+
+https://www.youtube.com/watch?v=kQ_Nl-OH5oc
+72 items
+ll cost the 
+ech price whole number
+sum=_679_
+$511 / item
+
+https://www.youtube.com/watch?v=vhc4FceGjC8
+d * e * f = 2450
+d + e + f = 2c; must sum to even number;
+(d & e & f) < p
+
+cbrt(2450)=13.480997
+35 + 7 + 10 = 52 / 2 = 26
+p > 36
+c = 26
+d = 35
+e = 7
+f = 10
+d = 5
+e = 10
+f = 49
+c = 64
+p = 50
+
+https://www.youtube.com/watch?v=UpS9VdY7Nxg
+12 not blue
+16 not yellow
+24 not red
+12 nor pink
+How many balls?
+y + r + p = 14
+b + r + p = 16
+b + y + p = 24
+b + y + r = 12
+p = 14 - y - r = 16 - b - r = 24 - b - y
+p <= 12
+r <= 10
+b <= 10
+y <= 10
+t >= 25 <= 42 
+b + y + p = 2b + 2y + 2r = 24
+p = b + y + 2r
+y + r + b + y + 2r = 14
+3r + 2y + b = 14
+b + r + b + y + 2r = 16
+3r + 2b + y = 16
+y = 1; b = 3; r = 3; p = 10; broken
+
+
+
+
+p = r + 12
+b + r + p = 16
+b + 2r + 12 = 16
+b = 2
+r = 1
+p = 13
+Total = 25
+y + r + p = 14
+y = 0
+
+https://www.youtube.com/watch?v=Pb7N6wqhjhg
+1=5
+2=10
+3=55
+10=?
+number of prime divisors
+1 2 3 5 7 11 13 17 19 23 29 31
+23 19
+87297210
+
+99/100 lefthanded
+0.98=l/t
+t = l + 1
+0.98l + 0.98 = l
+
+# Talos 2
+1 
+https://www.youtube.com/watch?v=ToIENnaMpLo
+Code	CorrectNumbers	CorrectPlace	Reduction
+9285	1	0	928_; Only 8 is possible here; 8 must be second
+1937	2	0	193_; 1_3_; 3 must be first
+5201	1	1	2_1; Last digit has to be 1
+6507	0	0
+8524	2	0	8__4; 8 and 4 must be present
+
+Answer is 3841
+
+{a,b,c,d,e,f} := [1,30]; [2,15]; {2,4,6,8,10,12,14}; {4,6,8,10,12,14}; {4,8,12}
+1. A: is number double; a <= 15; b = 2c; b := {2,4,6,8,10,12,14}
+2. B: is number double; b <= 15; a = 2d; a := {2,4,6,8,10,12,14}
+3. A: is number half; a >= 2; a must be even; b = e/2; b := {2,4}
+4. B: is number half; b >= 2; b must be even; a = f/2; a := {2,4}
+5. A: I don't know
+6. B: I know; b = 4
+B => 4 <= a <= 14
+If both have to be even we can reduce the number space further:
